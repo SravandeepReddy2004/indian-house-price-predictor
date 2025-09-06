@@ -1,10 +1,14 @@
 # 🏠 Indian House Price Predictor
 
-A Streamlit web app to estimate house prices in India using key features like city, BHK, carpet area, furnishing, and more.
+A Streamlit web app that predicts house prices in India using a pre-trained Random Forest model.
+Users provide key features like city, BHK, carpet area, furnishing, and property age.
+The app delivers instant price estimates with a sleek, interactive interface.
 
 ---
 #### 🌐 Live Demo
+
   [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://indian-house-price-predictor.streamlit.app/)
+
 
 ## 🌟Features
 - Predicts house prices using a pre-trained **Random Forest Regression model**.  
