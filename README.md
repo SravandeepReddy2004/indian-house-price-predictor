@@ -52,3 +52,6 @@ The app delivers instant price estimates with a sleek, interactive interface.
 - Scikit-learn: For training and predicting with Random Forest.
 - Pickle / Joblib: For model serialization.
 ---
+Contributing
+
+Contributions are welcome! Feel free to open issues or submit pull requests to improve the app, add more cities, or enhance the UI.
