@@ -6,10 +6,8 @@ from sklearn.compose import ColumnTransformer
 from sklearn.pipeline import Pipeline
 import pickle
 
-# Load dataset
 data = pd.read_csv("indian_house_prices.csv")
 
-# Select features (categorical + numeric)
 X = data[[
     "City", "Furnishing", "Facing", "PropertyType", "BuildingType",
     "BHK", "Bathrooms", "Balconies", "CarpetArea_sqft", "Floor", "AgeYears"
@@ -34,12 +32,9 @@ model = Pipeline(steps=[
     ("regressor", RandomForestRegressor(random_state=42, n_estimators=200))
 ])
 
-# Train-test split
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
-# Train model
 model.fit(X_train, y_train)
 
-# Save trained model
 pickle.dump(model, open("model.pkl", "wb"))
 print("✅ Model trained and saved")
