@@ -1,0 +1,2140 @@
+ListingID,City,PropertyType,BHK,Bathrooms,Balconies,Furnishing,CarpetArea_sqft,Floor,TotalFloors,BuildingType,YearBuilt,AgeYears,Facing,Price_INR
+HP01287,Bengaluru,Apartment,3,3,2,Semi-Furnished,1218,0,3,Standalone Building,2018,7,South,15060000
+HP01726,Delhi NCR,Apartment,2,2,2,Semi-Furnished,1078,0,3,Standalone Building,2009,16,South-West,12570000
+HP01011,Pune,Independent House,3,3,1,Unfurnished,1369,3,3,Standalone Building,2014,11,North-East,17470000
+HP00910,Chennai,Villa,4,5,1,Unfurnished,2408,0,3,Bungalow,2006,19,North-West,36280000
+HP01536,Chennai,Penthouse,6,7,2,Unfurnished,2301,2,23,High Rise,2008,17,North,36640000
+HP00996,Chennai,Apartment,4,5,2,Unfurnished,2187,33,34,High Rise,2012,13,West,26560000
+HP01800,Kolkata,Studio,0,2,1,Semi-Furnished,470,22,28,High Rise,2018,7,East,5200000
+HP00019,MMR,Apartment,2,3,1,Unfurnished,1199,5,5,Standalone Building,2016,9,North,24740000
+HP01072,Hyderabad,Studio,0,2,1,Unfurnished,522,4,22,High Rise,2025,0,North,5010000
+HP00334,Delhi NCR,Apartment,3,4,2,Furnished,1353,6,12,Mid Rise,2021,4,North-East,20130000
+HP02019,Bengaluru,Apartment,2,2,2,Furnished,1298,19,35,High Rise,2009,16,South,16980000
+HP00453,Bengaluru,Penthouse,2,2,1,Semi-Furnished,1226,15,25,High Rise,2014,11,South-West,21350000
+HP02333,Ahmedabad,Penthouse,3,4,2,Unfurnished,1300,29,29,High Rise,2009,16,North-East,11990000
+HP02311,MMR,Apartment,1,2,2,Unfurnished,634,0,2,Low Rise,2023,2,West,13900000
+HP00281,Bengaluru,Apartment,4,4,1,Unfurnished,1745,7,13,High Rise,2013,12,North-West,23370000
+HP01876,Hyderabad,Studio,0,2,0,Semi-Furnished,540,18,25,High Rise,2001,24,East,5300000
+HP00945,Bengaluru,Independent House,4,4,2,Semi-Furnished,2232,1,4,Standalone Building,2016,9,East,31440000
+HP00327,Pune,Apartment,4,5,1,Semi-Furnished,2221,25,38,High Rise,2023,2,North,30800000
+HP00155,Delhi NCR,Apartment,4,5,3,Semi-Furnished,2333,1,7,Gated Community,2009,16,North,28950000
+HP02011,MMR,Apartment,3,4,1,Unfurnished,1072,2,4,Low Rise,2010,15,North-West,23910000
+HP00168,Pune,Row House,2,2,1,Unfurnished,886,0,2,Bungalow,2021,4,South,13780000
+HP02302,Pune,Apartment,2,2,2,Furnished,841,12,20,High Rise,2016,9,West,9890000
+HP02030,Delhi NCR,Apartment,2,3,1,Semi-Furnished,1298,25,30,High Rise,2024,1,South-West,21460000
+HP01691,MMR,Apartment,3,4,1,Furnished,1286,2,9,Mid Rise,2006,19,North,26510000
+HP00777,Delhi NCR,Studio,0,2,1,Semi-Furnished,499,1,27,High Rise,2016,9,North,5240000
+HP01018,Pune,Apartment,3,4,1,Semi-Furnished,1891,0,2,Low Rise,2007,18,South-East,28740000
+HP01317,Bengaluru,Villa,2,3,2,Unfurnished,937,8,8,Gated Community,2007,18,North,12460000
+HP01969,Chennai,Apartment,2,3,1,Semi-Furnished,988,7,10,Gated Community,2011,14,South-East,11440000
+HP00456,Chennai,Apartment,3,4,2,Unfurnished,1617,2,21,High Rise,2023,2,North-East,22780000
+HP01398,Bengaluru,Apartment,3,3,1,Unfurnished,1106,2,17,High Rise,2009,16,South-West,14430000
+HP01147,Chennai,Apartment,2,3,1,Unfurnished,1214,6,11,Mid Rise,2004,21,East,12160000
+HP02070,Delhi NCR,Apartment,2,2,2,Semi-Furnished,1243,7,12,Mid Rise,2016,9,North,17880000
+HP01413,Hyderabad,Apartment,2,3,1,Unfurnished,1270,12,34,High Rise,2025,0,South-East,14350000
+HP00836,Delhi NCR,Apartment,2,2,1,Furnished,1054,2,2,Standalone Building,2008,17,East,11860000
+HP01637,Bengaluru,Apartment,2,3,2,Unfurnished,752,4,9,Gated Community,2019,6,North-East,10240000
+HP01917,Kolkata,Apartment,2,2,1,Unfurnished,752,7,7,Gated Community,2016,9,South-West,8550000
+HP01821,Pune,Independent House,4,5,1,Semi-Furnished,2079,8,12,Gated Community,2015,10,North-West,28280000
+HP01323,Delhi NCR,Row House,3,3,1,Semi-Furnished,1831,6,7,Gated Community,2009,16,North-East,28260000
+HP01998,Chennai,Studio,0,2,1,Semi-Furnished,428,19,25,High Rise,2016,9,South,4880000
+HP02207,MMR,Apartment,3,4,2,Unfurnished,1647,22,32,High Rise,2024,1,North,38180000
+HP00785,Bengaluru,Apartment,2,3,1,Unfurnished,837,0,2,Standalone Building,2010,15,North-West,10120000
+HP00690,Bengaluru,Apartment,3,3,2,Semi-Furnished,1134,32,38,High Rise,2018,7,West,14690000
+HP00725,Bengaluru,Row House,3,3,2,Unfurnished,1514,0,3,Bungalow,2004,21,North-East,22140000
+HP00612,Ahmedabad,Apartment,2,2,3,Unfurnished,864,15,21,High Rise,2018,7,South,7130000
+HP01456,Pune,Apartment,1,2,2,Unfurnished,733,10,11,Gated Community,2007,18,West,7210000
+HP01545,MMR,Apartment,2,2,2,Furnished,785,3,10,Gated Community,2016,9,North,18110000
+HP01992,Delhi NCR,Apartment,4,5,2,Unfurnished,2100,4,6,Gated Community,2011,14,South,27680000
+HP01412,Pune,Studio,0,1,1,Unfurnished,539,13,39,High Rise,2003,22,North,5730000
+HP01289,Hyderabad,Apartment,1,2,2,Semi-Furnished,521,5,7,Gated Community,2025,0,East,7120000
+HP01521,Bengaluru,Apartment,3,4,2,Semi-Furnished,1314,18,24,High Rise,2008,17,South-East,19190000
+HP01534,Ahmedabad,Apartment,3,3,1,Furnished,1407,1,3,Standalone Building,2018,7,West,11040000
+HP00152,Kolkata,Apartment,2,2,3,Semi-Furnished,1130,7,10,Mid Rise,2007,18,South,9640000
+HP00055,Hyderabad,Penthouse,3,4,1,Semi-Furnished,1869,15,29,High Rise,2023,2,South,26490000
+HP01121,Bengaluru,Apartment,2,3,2,Furnished,1115,7,7,Mid Rise,2013,12,North-West,14420000
+HP00490,Ahmedabad,Apartment,2,3,2,Semi-Furnished,790,12,22,High Rise,2016,9,North,5930000
+HP01725,Bengaluru,Row House,1,1,2,Furnished,497,3,4,Low Rise,2017,8,East,8230000
+HP01414,Chennai,Apartment,2,3,2,Furnished,726,7,14,High Rise,2022,3,South-East,10510000
+HP00823,Chennai,Apartment,1,2,1,Semi-Furnished,797,5,15,High Rise,2001,24,North-East,9240000
+HP01989,Bengaluru,Apartment,3,4,2,Semi-Furnished,1536,12,12,Mid Rise,2017,8,North-West,22100000
+HP01576,Hyderabad,Apartment,2,3,2,Unfurnished,771,21,32,High Rise,2009,16,South-East,7710000
+HP00920,MMR,Villa,4,5,3,Semi-Furnished,1912,0,3,Bungalow,2019,6,North-East,53900000
+HP01118,Pune,Apartment,3,4,2,Unfurnished,1063,1,13,High Rise,2017,8,North-East,14370000
+HP01709,Kolkata,Apartment,4,5,1,Furnished,1405,11,12,Mid Rise,2011,14,North-West,16560000
+HP00477,Chennai,Villa,3,3,2,Semi-Furnished,1196,0,3,Low Rise,2013,12,East,17830000
+HP02206,Delhi NCR,Villa,4,5,2,Semi-Furnished,1697,4,5,Standalone Building,2006,19,West,28410000
+HP01033,Delhi NCR,Apartment,3,3,3,Semi-Furnished,1368,17,21,High Rise,2009,16,North-East,17430000
+HP00293,Delhi NCR,Apartment,3,4,3,Furnished,1078,2,4,Low Rise,2025,0,West,15300000
+HP01477,Chennai,Apartment,4,5,1,Semi-Furnished,1748,23,40,High Rise,2023,2,North-West,23810000
+HP00727,Hyderabad,Penthouse,3,3,1,Semi-Furnished,1351,6,20,High Rise,2021,4,West,20630000
+HP00741,Hyderabad,Apartment,3,4,1,Unfurnished,1075,8,11,Gated Community,2023,2,South,11210000
+HP00416,Ahmedabad,Apartment,3,4,1,Unfurnished,1843,18,27,High Rise,2025,0,South-East,15010000
+HP01069,Bengaluru,Penthouse,3,4,3,Semi-Furnished,1105,14,33,High Rise,2017,8,West,21490000
+HP00909,Delhi NCR,Apartment,2,3,1,Unfurnished,1136,16,29,High Rise,2007,18,West,15770000
+HP00630,Chennai,Independent House,2,2,1,Semi-Furnished,1000,3,3,Standalone Building,2023,2,East,13710000
+HP00028,Bengaluru,Independent House,3,3,1,Semi-Furnished,1686,8,12,Gated Community,2018,7,South-East,21660000
+HP02306,MMR,Independent House,2,3,1,Unfurnished,1020,1,5,Low Rise,2007,18,West,20450000
+HP00045,Kolkata,Apartment,3,4,1,Furnished,1132,7,11,Gated Community,2006,19,South,12610000
+HP00214,Kolkata,Apartment,4,4,1,Unfurnished,2351,4,10,Mid Rise,2014,11,North-East,31790000
+HP01833,Bengaluru,Apartment,1,2,1,Semi-Furnished,608,18,36,High Rise,2016,9,South,7130000
+HP02268,MMR,Apartment,2,3,2,Semi-Furnished,971,12,34,High Rise,2007,18,North-East,20040000
+HP01359,Kolkata,Apartment,3,3,2,Unfurnished,1843,4,4,Low Rise,2011,14,North-West,18250000
+HP01574,MMR,Apartment,2,2,2,Furnished,869,7,7,Gated Community,2014,11,South-West,19710000
+HP00356,Bengaluru,Independent House,3,4,1,Unfurnished,1410,2,9,Gated Community,2017,8,North,21730000
+HP00042,Delhi NCR,Apartment,4,4,2,Semi-Furnished,1633,5,22,High Rise,2002,23,South-West,19400000
+HP00288,Bengaluru,Apartment,2,2,2,Semi-Furnished,1201,7,9,Gated Community,2025,0,North-West,14080000
+HP01662,Hyderabad,Apartment,1,1,2,Unfurnished,671,6,9,Mid Rise,2011,14,North,6820000
+HP00068,Bengaluru,Studio,0,2,0,Unfurnished,371,19,40,High Rise,2014,11,North-East,3880000
+HP01651,Hyderabad,Studio,0,1,0,Unfurnished,438,1,5,Standalone Building,2018,7,North-West,4670000
+HP01873,Chennai,Independent House,4,5,2,Semi-Furnished,1460,0,2,Bungalow,2015,10,South-West,16480000
+HP01476,Bengaluru,Apartment,3,3,1,Unfurnished,1321,1,4,Low Rise,2000,25,East,13050000
+HP01746,Bengaluru,Independent House,3,3,2,Semi-Furnished,1213,0,1,Bungalow,2012,13,North-West,16100000
+HP01471,MMR,Apartment,2,2,1,Furnished,1282,7,10,Gated Community,2012,13,North,30420000
+HP01846,Ahmedabad,Apartment,4,4,1,Unfurnished,1434,1,8,Mid Rise,2007,18,North-West,8320000
+HP00121,Ahmedabad,Apartment,1,2,1,Unfurnished,742,1,39,High Rise,2014,11,South-East,5810000
+HP01617,Ahmedabad,Studio,0,2,1,Semi-Furnished,372,15,31,High Rise,2011,14,South-West,2230000
+HP00700,Kolkata,Studio,0,1,0,Unfurnished,376,27,40,High Rise,1997,28,West,3160000
+HP02107,Delhi NCR,Studio,0,2,1,Unfurnished,510,17,38,High Rise,2002,23,West,6540000
+HP00144,Bengaluru,Apartment,2,2,3,Furnished,737,6,12,Mid Rise,2012,13,North-East,9910000
+HP00204,Pune,Villa,3,3,2,Unfurnished,1055,4,4,Standalone Building,2012,13,North-West,14890000
+HP01642,Hyderabad,Penthouse,5,5,1,Semi-Furnished,3790,4,36,High Rise,2008,17,East,52300000
+HP00414,Bengaluru,Apartment,2,3,1,Unfurnished,1122,1,7,Mid Rise,2002,23,South,14120000
+HP02120,Pune,Apartment,2,3,2,Semi-Furnished,1252,3,3,Standalone Building,2018,7,South,18770000
+HP01499,Kolkata,Apartment,3,4,3,Unfurnished,1091,4,7,Mid Rise,2014,11,East,12530000
+HP00131,MMR,Apartment,3,3,1,Furnished,1167,0,4,Standalone Building,2016,9,South-West,27800000
+HP01483,Pune,Apartment,2,3,1,Semi-Furnished,949,7,8,Mid Rise,2013,12,North-West,11180000
+HP00445,Delhi NCR,Apartment,2,3,1,Unfurnished,770,0,3,Standalone Building,2018,7,South,8300000
+HP01015,Pune,Apartment,1,2,3,Semi-Furnished,660,20,22,High Rise,2016,9,East,9570000
+HP01644,Bengaluru,Apartment,4,4,1,Semi-Furnished,1738,5,35,High Rise,2011,14,North-East,26320000
+HP02336,Delhi NCR,Apartment,4,4,2,Unfurnished,1995,4,6,Mid Rise,2022,3,East,26880000
+HP02338,Delhi NCR,Independent House,4,5,2,Unfurnished,2579,3,5,Standalone Building,2009,16,East,23690000
+HP01814,Chennai,Apartment,2,3,1,Semi-Furnished,952,5,28,High Rise,2022,3,West,12580000
+HP00148,MMR,Studio,0,1,1,Unfurnished,466,3,4,Standalone Building,2007,18,North-West,8340000
+HP00069,Bengaluru,Penthouse,5,5,2,Semi-Furnished,1980,5,13,High Rise,2009,16,South-East,33990000
+HP01288,Kolkata,Penthouse,3,3,2,Unfurnished,1623,5,16,High Rise,2009,16,South-West,27120000
+HP01066,Bengaluru,Row House,3,3,3,Furnished,1035,0,2,Bungalow,2023,2,South-East,16470000
+HP00722,Hyderabad,Row House,1,2,1,Unfurnished,499,4,12,Gated Community,2004,21,South-West,5820000
+HP02029,Delhi NCR,Apartment,4,4,2,Unfurnished,1449,2,11,Gated Community,2022,3,North-West,22810000
+HP01422,Hyderabad,Row House,1,2,1,Semi-Furnished,460,6,7,Gated Community,2024,1,North,6080000
+HP00940,Hyderabad,Apartment,3,3,1,Semi-Furnished,1893,29,39,High Rise,2025,0,East,26820000
+HP00792,Chennai,Villa,5,5,1,Semi-Furnished,2170,10,12,Gated Community,2012,13,South,34480000
+HP01879,Bengaluru,Villa,3,4,1,Furnished,1348,8,11,Gated Community,2007,18,North-East,21750000
+HP00552,Pune,Apartment,2,3,2,Semi-Furnished,947,8,15,High Rise,2012,13,North,11440000
+HP00432,Ahmedabad,Studio,0,1,1,Semi-Furnished,395,7,15,High Rise,2022,3,South,2910000
+HP01172,Kolkata,Apartment,2,3,1,Unfurnished,835,1,2,Standalone Building,2025,0,North,8450000
+HP01258,Chennai,Apartment,2,2,2,Semi-Furnished,1228,2,2,Standalone Building,2015,10,South-West,12870000
+HP02346,Hyderabad,Apartment,2,3,1,Unfurnished,1053,10,10,Mid Rise,2022,3,South-East,13350000
+HP00040,Pune,Apartment,2,3,2,Unfurnished,1288,17,36,High Rise,2022,3,North-East,18510000
+HP01210,Delhi NCR,Apartment,3,3,2,Semi-Furnished,1630,14,26,High Rise,2018,7,North-West,22870000
+HP00457,Ahmedabad,Apartment,3,3,1,Unfurnished,1218,0,2,Standalone Building,2017,8,South-East,9410000
+HP00491,Pune,Independent House,4,4,2,Semi-Furnished,1490,0,2,Bungalow,2020,5,North,24600000
+HP01579,Delhi NCR,Apartment,4,5,1,Semi-Furnished,2040,6,13,High Rise,2010,15,South,26470000
+HP01071,Chennai,Apartment,2,3,2,Unfurnished,970,2,23,High Rise,2016,9,West,11500000
+HP01116,MMR,Apartment,2,2,2,Unfurnished,1109,2,9,Gated Community,2009,16,South-East,19560000
+HP02112,Pune,Apartment,2,3,1,Semi-Furnished,883,7,11,Gated Community,2012,13,South-East,11180000
+HP02309,MMR,Apartment,4,5,1,Semi-Furnished,2236,1,34,High Rise,2021,4,North-West,62060000
+HP00332,Bengaluru,Apartment,2,3,1,Semi-Furnished,849,3,26,High Rise,2016,9,West,10660000
+HP01052,MMR,Penthouse,2,3,2,Unfurnished,1216,3,17,High Rise,2013,12,South,33490000
+HP02076,Bengaluru,Villa,4,5,2,Furnished,1691,0,3,Bungalow,2018,7,North-West,31420000
+HP01786,Chennai,Apartment,3,3,1,Furnished,1733,11,31,High Rise,2025,0,North-West,22220000
+HP02352,MMR,Apartment,3,4,3,Semi-Furnished,1469,5,7,Gated Community,2011,14,North,28460000
+HP00698,MMR,Apartment,2,3,1,Unfurnished,729,3,9,Mid Rise,2012,13,South-West,14600000
+HP01493,Delhi NCR,Apartment,2,3,1,Semi-Furnished,704,4,7,Mid Rise,2016,9,South-East,8990000
+HP02031,Hyderabad,Studio,0,2,1,Semi-Furnished,530,0,3,Standalone Building,2020,5,North-East,5390000
+HP01217,Delhi NCR,Villa,3,4,1,Unfurnished,1639,0,2,Bungalow,2013,12,South-West,23800000
+HP01783,Kolkata,Row House,3,3,3,Furnished,1775,2,5,Standalone Building,2005,20,South,26760000
+HP02198,Ahmedabad,Apartment,3,3,3,Semi-Furnished,1228,6,9,Mid Rise,2003,22,South,9920000
+HP01839,MMR,Apartment,4,5,2,Semi-Furnished,1498,4,9,Mid Rise,2017,8,North-West,38610000
+HP01016,Delhi NCR,Penthouse,4,5,1,Semi-Furnished,1657,1,34,High Rise,2019,6,North,31960000
+HP01708,Chennai,Independent House,3,3,1,Furnished,1079,1,2,Standalone Building,2018,7,North-East,19360000
+HP01302,MMR,Apartment,1,1,2,Unfurnished,643,4,17,High Rise,2008,17,North,16110000
+HP00103,Chennai,Apartment,2,3,2,Unfurnished,999,4,7,Mid Rise,2006,19,North-East,10080000
+HP00380,Hyderabad,Apartment,2,3,1,Unfurnished,833,1,9,Gated Community,2024,1,North,8740000
+HP01526,Hyderabad,Apartment,3,3,2,Semi-Furnished,1224,9,10,Gated Community,2008,17,South,12910000
+HP00403,Chennai,Apartment,2,3,1,Furnished,1157,2,9,Gated Community,2021,4,North,18240000
+HP00137,MMR,Apartment,3,4,2,Unfurnished,1870,2,38,High Rise,2010,15,South-East,36150000
+HP00584,Kolkata,Row House,2,2,2,Unfurnished,1028,3,9,Gated Community,2005,20,West,12210000
+HP01461,Delhi NCR,Apartment,1,2,1,Unfurnished,480,1,3,Standalone Building,2019,6,South,6180000
+HP02175,Bengaluru,Independent House,3,4,2,Furnished,1831,0,2,Bungalow,2014,11,North,21630000
+HP02242,Delhi NCR,Villa,3,3,1,Semi-Furnished,1206,4,8,Gated Community,2022,3,North-West,17700000
+HP00924,Kolkata,Apartment,4,5,1,Furnished,1408,4,7,Mid Rise,2025,0,North-West,15410000
+HP00999,Chennai,Apartment,3,3,1,Unfurnished,1243,10,38,High Rise,2025,0,West,16250000
+HP01945,Ahmedabad,Independent House,3,4,2,Semi-Furnished,1763,4,4,Low Rise,2022,3,South-West,13150000
+HP01511,Chennai,Studio,0,2,1,Unfurnished,433,2,11,Mid Rise,2023,2,East,5200000
+HP01613,Delhi NCR,Apartment,2,3,2,Furnished,1117,3,4,Standalone Building,2007,18,North,11720000
+HP00374,Hyderabad,Independent House,5,6,1,Semi-Furnished,3842,11,12,Gated Community,2021,4,North-West,50630000
+HP01512,Kolkata,Apartment,3,3,2,Furnished,1491,4,15,High Rise,2023,2,North,16340000
+HP00157,Delhi NCR,Apartment,4,4,1,Semi-Furnished,2143,7,12,High Rise,2011,14,North-East,28810000
+HP01001,Kolkata,Apartment,3,3,1,Unfurnished,1605,16,18,High Rise,2007,18,South-West,16530000
+HP01062,Hyderabad,Penthouse,2,3,1,Unfurnished,964,16,16,High Rise,2021,4,South-West,12710000
+HP01058,Delhi NCR,Apartment,3,4,2,Unfurnished,1669,6,31,High Rise,2010,15,West,21410000
+HP01742,MMR,Apartment,3,4,1,Unfurnished,1235,27,38,High Rise,2015,10,North-West,31100000
+HP00362,Delhi NCR,Apartment,2,2,2,Semi-Furnished,1004,9,32,High Rise,2017,8,South-East,11250000
+HP00926,Chennai,Studio,0,1,1,Unfurnished,487,4,26,High Rise,2017,8,North-West,5950000
+HP00601,MMR,Apartment,4,5,1,Unfurnished,2191,3,5,Standalone Building,2012,13,South-East,48770000
+HP00501,Delhi NCR,Penthouse,3,3,2,Semi-Furnished,1246,14,20,High Rise,2025,0,South-East,25270000
+HP00230,MMR,Apartment,1,1,3,Furnished,482,15,37,High Rise,2016,9,South-West,10790000
+HP01252,Kolkata,Apartment,4,5,2,Semi-Furnished,2446,3,9,Gated Community,2001,24,South-East,28640000
+HP00615,Ahmedabad,Row House,1,2,2,Unfurnished,548,10,12,Gated Community,2014,11,North-East,4410000
+HP00189,Kolkata,Apartment,2,2,1,Unfurnished,1183,4,12,Mid Rise,2019,6,South,14010000
+HP01514,Delhi NCR,Studio,0,2,0,Unfurnished,322,1,2,Standalone Building,2011,14,East,3850000
+HP01409,Hyderabad,Apartment,3,4,1,Semi-Furnished,1227,3,6,Gated Community,2018,7,South-East,13010000
+HP01034,Chennai,Apartment,2,3,1,Unfurnished,759,12,12,Mid Rise,2025,0,South-West,11230000
+HP00574,Bengaluru,Independent House,4,5,2,Furnished,1527,6,7,Gated Community,2025,0,West,26570000
+HP02128,Chennai,Studio,0,1,1,Furnished,475,5,23,High Rise,2011,14,South,5580000
+HP01419,Chennai,Apartment,2,3,1,Unfurnished,959,11,22,High Rise,2006,19,South,10230000
+HP02087,Bengaluru,Apartment,3,4,1,Furnished,1733,1,10,Mid Rise,2020,5,North,22190000
+HP00637,Pune,Apartment,2,3,2,Unfurnished,820,0,2,Standalone Building,2012,13,West,8640000
+HP00737,Hyderabad,Apartment,4,5,1,Unfurnished,2167,2,6,Gated Community,2009,16,South-East,22790000
+HP00147,Ahmedabad,Apartment,2,2,1,Unfurnished,827,3,5,Low Rise,2015,10,East,5960000
+HP01307,Hyderabad,Apartment,2,2,1,Unfurnished,1038,4,4,Standalone Building,2010,15,South,10900000
+HP02279,Kolkata,Apartment,3,3,1,Unfurnished,1417,4,6,Gated Community,2025,0,North-East,15080000
+HP01354,MMR,Apartment,3,4,2,Semi-Furnished,1418,1,7,Gated Community,2008,17,East,38240000
+HP01977,Pune,Apartment,4,4,2,Semi-Furnished,2063,2,2,Standalone Building,2009,16,East,21230000
+HP01516,Delhi NCR,Apartment,2,3,2,Furnished,1111,4,6,Mid Rise,2013,12,North-East,14310000
+HP01341,MMR,Apartment,2,3,2,Unfurnished,895,36,38,High Rise,2016,9,West,19560000
+HP01684,Ahmedabad,Penthouse,5,5,3,Unfurnished,3444,27,37,High Rise,2016,9,West,33700000
+HP00149,MMR,Penthouse,3,4,1,Semi-Furnished,1454,19,40,High Rise,2025,0,East,40360000
+HP01057,Hyderabad,Villa,4,5,2,Unfurnished,2526,0,3,Bungalow,2021,4,North,36430000
+HP01056,Chennai,Penthouse,2,3,1,Unfurnished,1019,11,27,High Rise,2024,1,North-East,19570000
+HP00035,Pune,Apartment,4,5,2,Unfurnished,1907,22,25,High Rise,2014,11,South-East,23400000
+HP01484,Ahmedabad,Penthouse,4,5,2,Semi-Furnished,1715,25,28,High Rise,2004,21,South,16830000
+HP00817,Kolkata,Apartment,1,1,1,Unfurnished,481,1,9,Mid Rise,2014,11,East,4910000
+HP01060,Kolkata,Villa,5,5,2,Semi-Furnished,3506,2,4,Low Rise,2018,7,South,39350000
+HP01716,Kolkata,Independent House,5,6,2,Unfurnished,3632,0,3,Bungalow,2022,3,South-East,43690000
+HP00285,Chennai,Apartment,3,4,3,Furnished,1427,5,5,Standalone Building,2015,10,South-East,20300000
+HP00516,MMR,Apartment,2,3,1,Unfurnished,1077,2,4,Standalone Building,2004,21,South,21430000
+HP01231,Ahmedabad,Independent House,5,6,2,Furnished,4125,0,3,Bungalow,2016,9,South-East,28870000
+HP00276,Ahmedabad,Apartment,3,3,1,Unfurnished,1816,8,10,Gated Community,2020,5,South-East,16420000
+HP01042,Pune,Apartment,4,4,2,Semi-Furnished,1892,16,33,High Rise,2020,5,West,25000000
+HP01443,Ahmedabad,Villa,2,3,3,Semi-Furnished,817,0,1,Bungalow,2017,8,South-West,7670000
+HP01393,Kolkata,Row House,2,3,2,Unfurnished,857,1,2,Low Rise,2010,15,North-East,11010000
+HP02148,Hyderabad,Apartment,3,4,3,Semi-Furnished,1702,0,2,Standalone Building,2025,0,West,17870000
+HP01711,Bengaluru,Independent House,4,5,1,Semi-Furnished,1557,12,12,Gated Community,2002,23,North,21890000
+HP00702,Bengaluru,Apartment,3,4,3,Semi-Furnished,1626,8,18,High Rise,2016,9,North-West,22850000
+HP01423,Pune,Apartment,3,4,1,Semi-Furnished,1757,9,12,Gated Community,2024,1,North,18980000
+HP00878,Delhi NCR,Apartment,2,3,2,Unfurnished,1260,13,26,High Rise,2013,12,North-West,15770000
+HP02287,Pune,Penthouse,6,7,1,Unfurnished,3083,8,20,High Rise,2021,4,South-East,46430000
+HP02349,Pune,Apartment,2,3,2,Semi-Furnished,969,8,9,Mid Rise,2024,1,South,12600000
+HP01269,Kolkata,Apartment,2,2,2,Unfurnished,833,6,8,Mid Rise,2005,20,West,7300000
+HP00941,MMR,Villa,3,4,1,Semi-Furnished,1059,3,4,Standalone Building,2025,0,North-East,30780000
+HP01621,MMR,Villa,3,3,1,Furnished,1371,0,3,Bungalow,2013,12,West,37820000
+HP00378,Hyderabad,Apartment,2,2,3,Unfurnished,971,9,12,Gated Community,2012,13,South-West,10500000
+HP02096,Chennai,Villa,5,6,2,Unfurnished,2769,0,5,Low Rise,2009,16,South,33800000
+HP01182,MMR,Apartment,3,4,2,Semi-Furnished,1527,2,12,Mid Rise,2014,11,South,42150000
+HP01397,Bengaluru,Villa,3,4,1,Semi-Furnished,1471,2,6,Gated Community,2016,9,North-West,23350000
+HP00439,Ahmedabad,Penthouse,3,4,1,Unfurnished,1215,5,16,High Rise,2021,4,South,11210000
+HP01373,Kolkata,Apartment,2,2,1,Unfurnished,1293,16,26,High Rise,2016,9,South-West,14280000
+HP00349,Ahmedabad,Studio,0,1,0,Unfurnished,525,15,25,High Rise,2019,6,West,3430000
+HP01295,Kolkata,Apartment,4,4,2,Unfurnished,1510,0,4,Standalone Building,2009,16,East,15480000
+HP01687,Kolkata,Studio,0,2,0,Unfurnished,500,2,7,Mid Rise,2000,25,West,5180000
+HP01099,Ahmedabad,Apartment,2,3,2,Unfurnished,1077,2,9,Gated Community,2007,18,North,6770000
+HP00521,Ahmedabad,Penthouse,3,4,1,Unfurnished,1844,2,21,High Rise,2020,5,North-East,16530000
+HP00434,MMR,Apartment,2,2,1,Semi-Furnished,1062,4,12,High Rise,2016,9,North-West,24680000
+HP01496,Kolkata,Apartment,3,4,2,Semi-Furnished,1153,3,11,Mid Rise,2004,21,South-East,11390000
+HP01582,MMR,Studio,0,1,0,Unfurnished,383,17,18,High Rise,2019,6,South-East,6860000
+HP01625,MMR,Studio,0,2,0,Unfurnished,368,3,9,Mid Rise,2005,20,South-East,5610000
+HP00329,Hyderabad,Villa,2,2,2,Unfurnished,1079,0,3,Bungalow,2016,9,South,14870000
+HP00841,Chennai,Studio,0,2,1,Unfurnished,353,16,23,High Rise,2015,10,West,4800000
+HP00032,Kolkata,Apartment,3,4,1,Semi-Furnished,1373,1,5,Low Rise,2004,21,East,14380000
+HP00645,MMR,Apartment,3,4,2,Unfurnished,1160,6,9,Mid Rise,2025,0,South,26690000
+HP00268,Pune,Apartment,2,3,1,Semi-Furnished,833,8,12,High Rise,2016,9,South,8580000
+HP02296,Kolkata,Penthouse,3,4,1,Unfurnished,1051,19,28,High Rise,2012,13,South-East,13430000
+HP02323,Pune,Villa,4,4,1,Unfurnished,2091,1,4,Standalone Building,2009,16,East,26910000
+HP01650,Pune,Apartment,1,2,2,Furnished,598,3,10,Gated Community,2006,19,East,7340000
+HP01820,Ahmedabad,Apartment,2,2,2,Semi-Furnished,1275,9,11,Mid Rise,2014,11,North,9430000
+HP02125,Delhi NCR,Apartment,3,4,1,Unfurnished,1273,2,12,High Rise,2003,22,South,14790000
+HP00840,Kolkata,Apartment,2,2,2,Semi-Furnished,869,3,9,Gated Community,2011,14,South-West,8850000
+HP02151,Hyderabad,Penthouse,2,3,1,Semi-Furnished,1212,22,33,High Rise,2012,13,West,19060000
+HP00401,Kolkata,Apartment,3,3,1,Furnished,1223,5,7,Gated Community,2002,23,North-East,14270000
+HP01900,MMR,Villa,3,4,2,Furnished,1420,2,5,Low Rise,2018,7,North-West,37600000
+HP01171,Ahmedabad,Row House,2,3,3,Semi-Furnished,1283,4,7,Gated Community,2011,14,North-East,10720000
+HP00688,Delhi NCR,Apartment,3,4,1,Unfurnished,1231,2,3,Standalone Building,1999,26,South-East,15620000
+HP00522,Bengaluru,Apartment,3,4,3,Furnished,1353,5,11,Mid Rise,2025,0,North-West,22370000
+HP01107,Delhi NCR,Apartment,2,3,3,Furnished,866,10,31,High Rise,2019,6,West,12830000
+HP00533,Pune,Independent House,2,2,2,Unfurnished,845,0,2,Bungalow,2003,22,South-East,10800000
+HP01937,Kolkata,Apartment,3,4,2,Semi-Furnished,1654,8,13,High Rise,2015,10,North-West,19850000
+HP00324,Ahmedabad,Apartment,1,1,2,Furnished,702,15,18,High Rise,2007,18,North-East,5000000
+HP01638,Kolkata,Penthouse,3,4,1,Unfurnished,1845,4,19,High Rise,2011,14,West,20480000
+HP00784,Bengaluru,Apartment,2,2,1,Semi-Furnished,771,7,12,Mid Rise,2011,14,North-East,10690000
+HP01563,MMR,Studio,0,2,1,Furnished,532,2,4,Standalone Building,2002,23,North,10840000
+HP00701,Kolkata,Villa,3,3,1,Semi-Furnished,1577,0,1,Bungalow,2020,5,East,19900000
+HP00162,Hyderabad,Apartment,2,2,3,Semi-Furnished,945,1,12,Mid Rise,2005,20,North,10810000
+HP00936,Bengaluru,Studio,0,1,1,Semi-Furnished,389,6,10,Mid Rise,2013,12,South-West,5030000
+HP01858,Chennai,Studio,0,2,1,Unfurnished,542,10,12,Mid Rise,2011,14,North,5590000
+HP00360,Kolkata,Apartment,2,3,1,Semi-Furnished,788,22,22,High Rise,2020,5,South,9390000
+HP01608,Chennai,Apartment,3,3,1,Semi-Furnished,1170,11,37,High Rise,2025,0,West,13700000
+HP00136,Delhi NCR,Row House,1,2,2,Semi-Furnished,450,9,11,Gated Community,2019,6,North-East,7160000
+HP02013,Bengaluru,Penthouse,3,3,1,Unfurnished,1548,4,26,High Rise,2015,10,North-West,26750000
+HP00895,Chennai,Studio,0,2,1,Semi-Furnished,347,3,14,High Rise,2014,11,East,3870000
+HP01722,Chennai,Independent House,4,4,2,Furnished,2528,6,9,Gated Community,2007,18,North-East,32450000
+HP00780,Delhi NCR,Villa,2,3,2,Unfurnished,1022,0,1,Bungalow,2015,10,South-West,15040000
+HP00939,Kolkata,Independent House,3,4,2,Unfurnished,1690,0,1,Bungalow,1998,27,South-East,14450000
+HP01560,Bengaluru,Penthouse,5,6,2,Unfurnished,3849,12,16,High Rise,2020,5,South-East,68130000
+HP00127,Delhi NCR,Apartment,2,2,3,Semi-Furnished,754,14,27,High Rise,2021,4,South,9860000
+HP01445,Delhi NCR,Apartment,1,2,2,Unfurnished,594,21,33,High Rise,2025,0,North-West,8090000
+HP01973,Bengaluru,Penthouse,3,4,2,Semi-Furnished,1380,9,23,High Rise,2013,12,West,21950000
+HP00949,Chennai,Independent House,3,4,1,Furnished,1716,8,10,Gated Community,2018,7,North-East,23670000
+HP02303,Ahmedabad,Villa,4,4,2,Unfurnished,2422,3,6,Gated Community,2017,8,North-West,19970000
+HP01375,Ahmedabad,Apartment,2,2,1,Furnished,1093,11,12,Mid Rise,2025,0,North-East,8460000
+HP01226,Kolkata,Studio,0,2,1,Unfurnished,352,6,8,Mid Rise,2005,20,West,3110000
+HP01719,Pune,Apartment,2,2,1,Unfurnished,757,4,22,High Rise,2008,17,East,8600000
+HP00167,MMR,Apartment,3,4,2,Unfurnished,1047,5,9,Mid Rise,2011,14,South-East,21750000
+HP02322,Bengaluru,Apartment,3,4,2,Semi-Furnished,1283,1,4,Standalone Building,2015,10,North-West,14700000
+HP00314,Hyderabad,Independent House,3,3,1,Unfurnished,1875,12,12,Gated Community,2009,16,North,21120000
+HP01184,Bengaluru,Apartment,3,3,1,Unfurnished,1754,2,9,Mid Rise,2019,6,West,26750000
+HP01156,Bengaluru,Apartment,2,2,2,Unfurnished,1169,6,18,High Rise,2015,10,North,13700000
+HP00006,Ahmedabad,Apartment,2,3,1,Unfurnished,1125,31,35,High Rise,2008,17,East,7440000
+HP00087,Bengaluru,Studio,0,2,1,Unfurnished,527,7,25,High Rise,2019,6,North,5490000
+HP00628,Delhi NCR,Apartment,3,4,1,Semi-Furnished,1192,18,37,High Rise,2020,5,North-West,14740000
+HP00991,Delhi NCR,Row House,1,2,2,Furnished,530,0,5,Low Rise,2021,4,South-West,8900000
+HP00146,Delhi NCR,Apartment,3,4,2,Unfurnished,1493,3,20,High Rise,2009,16,North-East,18150000
+HP02146,Pune,Apartment,4,4,1,Furnished,1551,0,5,Standalone Building,2014,11,North-East,17690000
+HP01622,MMR,Apartment,1,1,2,Semi-Furnished,609,10,10,Gated Community,2018,7,South,15620000
+HP00489,Pune,Apartment,2,3,3,Unfurnished,1188,5,13,High Rise,2024,1,East,16260000
+HP00381,Ahmedabad,Apartment,3,4,3,Semi-Furnished,1627,6,9,Mid Rise,2008,17,East,13060000
+HP00017,Ahmedabad,Apartment,1,1,1,Semi-Furnished,763,2,9,Mid Rise,2008,17,North-East,5800000
+HP02137,Bengaluru,Apartment,3,4,2,Semi-Furnished,1073,7,9,Mid Rise,2010,15,South-West,12840000
+HP01765,MMR,Apartment,2,2,3,Semi-Furnished,726,17,18,High Rise,2021,4,North-East,15700000
+HP01874,Chennai,Studio,0,1,1,Unfurnished,434,1,10,Mid Rise,2018,7,North-West,4600000
+HP02103,MMR,Studio,0,2,1,Unfurnished,401,5,5,Standalone Building,2011,14,West,8220000
+HP00684,MMR,Apartment,3,4,2,Semi-Furnished,1751,24,24,High Rise,2024,1,North-East,43770000
+HP00827,Pune,Independent House,5,6,1,Semi-Furnished,3709,0,2,Bungalow,2021,4,South-West,48150000
+HP00316,Kolkata,Apartment,1,2,1,Unfurnished,560,7,8,Mid Rise,2015,10,North-East,5010000
+HP02202,Ahmedabad,Apartment,2,3,1,Unfurnished,1141,18,29,High Rise,2006,19,South-West,7740000
+HP00462,Pune,Apartment,2,3,1,Unfurnished,987,4,4,Standalone Building,2005,20,South-West,13720000
+HP01943,Ahmedabad,Studio,0,2,1,Furnished,383,5,5,Standalone Building,2013,12,South,2770000
+HP00206,Pune,Apartment,3,4,1,Unfurnished,1338,17,20,High Rise,2016,9,North,19320000
+HP02093,Bengaluru,Apartment,1,2,1,Unfurnished,501,8,11,Mid Rise,1997,28,South-West,4990000
+HP00064,Kolkata,Apartment,3,4,1,Furnished,1018,7,10,Mid Rise,2012,13,East,11470000
+HP02203,Ahmedabad,Studio,0,2,1,Unfurnished,421,10,14,High Rise,2014,11,West,2610000
+HP01009,Pune,Apartment,3,3,1,Semi-Furnished,1153,3,10,Gated Community,2017,8,South-West,14360000
+HP01073,MMR,Apartment,3,3,1,Semi-Furnished,1428,6,12,Gated Community,2020,5,North-East,33260000
+HP01406,Hyderabad,Studio,0,2,0,Unfurnished,497,4,14,High Rise,2006,19,South-East,5160000
+HP00346,Kolkata,Apartment,2,3,1,Furnished,974,2,5,Standalone Building,2006,19,North,9180000
+HP00418,Delhi NCR,Penthouse,4,5,2,Semi-Furnished,1737,27,30,High Rise,2025,0,South,33740000
+HP02037,Chennai,Apartment,3,3,2,Unfurnished,1850,7,10,Gated Community,2018,7,West,26450000
+HP01925,Ahmedabad,Apartment,2,3,3,Semi-Furnished,977,3,9,Mid Rise,2010,15,South-East,7070000
+HP01921,MMR,Apartment,4,4,2,Semi-Furnished,2423,4,27,High Rise,2021,4,East,52770000
+HP01565,Kolkata,Apartment,1,2,3,Furnished,461,3,6,Mid Rise,2018,7,South-East,5090000
+HP01614,Ahmedabad,Apartment,4,4,3,Unfurnished,2184,2,3,Standalone Building,2015,10,East,16290000
+HP00523,Hyderabad,Apartment,2,3,1,Semi-Furnished,1235,32,33,High Rise,2011,14,East,13420000
+HP02014,Pune,Apartment,3,4,3,Unfurnished,1024,4,9,Mid Rise,2012,13,North-West,13300000
+HP01468,Delhi NCR,Apartment,3,4,2,Furnished,1703,9,11,Mid Rise,1993,32,South-East,24030000
+HP01844,Pune,Apartment,4,5,1,Unfurnished,2085,11,32,High Rise,2019,6,West,26710000
+HP00971,Pune,Apartment,1,2,2,Unfurnished,681,12,27,High Rise,2012,13,East,8490000
+HP01612,Chennai,Penthouse,3,4,2,Semi-Furnished,1793,4,13,High Rise,2012,13,South,28710000
+HP02006,Bengaluru,Apartment,3,4,1,Unfurnished,1431,1,16,High Rise,2007,18,South-East,14180000
+HP01495,Pune,Villa,5,6,1,Furnished,2160,0,3,Bungalow,2009,16,South,33580000
+HP02187,Chennai,Apartment,3,4,2,Unfurnished,1358,4,11,Mid Rise,2015,10,North-West,18550000
+HP01610,Kolkata,Independent House,4,5,1,Unfurnished,2451,11,11,Gated Community,2024,1,South-East,30400000
+HP01643,Hyderabad,Apartment,4,4,1,Semi-Furnished,2173,3,6,Mid Rise,2004,21,North,28480000
+HP01909,Hyderabad,Apartment,2,2,2,Semi-Furnished,704,2,3,Standalone Building,2010,15,West,10450000
+HP02119,Pune,Apartment,1,2,1,Unfurnished,770,2,2,Standalone Building,2008,17,South-West,8570000
+HP00076,Bengaluru,Apartment,2,2,2,Semi-Furnished,1294,6,10,Gated Community,2021,4,East,17540000
+HP01389,Kolkata,Apartment,3,4,2,Semi-Furnished,1662,5,14,High Rise,2006,19,South-West,17780000
+HP01510,Bengaluru,Apartment,4,4,2,Semi-Furnished,2190,1,11,Mid Rise,2012,13,South-West,26650000
+HP01705,Delhi NCR,Apartment,3,3,1,Unfurnished,1782,4,6,Mid Rise,2020,5,South-East,20360000
+HP01894,Delhi NCR,Independent House,2,3,2,Semi-Furnished,713,2,9,Gated Community,2025,0,East,11300000
+HP02304,Chennai,Apartment,3,4,2,Unfurnished,1878,6,6,Mid Rise,2024,1,South,20900000
+HP02289,Hyderabad,Apartment,2,2,1,Semi-Furnished,1115,2,31,High Rise,2009,16,West,12170000
+HP01022,Hyderabad,Apartment,3,4,3,Semi-Furnished,1855,1,2,Standalone Building,2015,10,North,18800000
+HP00953,Hyderabad,Row House,1,1,2,Semi-Furnished,479,1,2,Standalone Building,2011,14,South,5690000
+HP01739,Kolkata,Apartment,2,2,2,Furnished,784,3,4,Standalone Building,2007,18,South-East,8370000
+HP00164,MMR,Studio,0,2,1,Furnished,416,9,12,Mid Rise,1999,26,North-West,7900000
+HP00793,Delhi NCR,Studio,0,1,1,Unfurnished,496,5,6,Mid Rise,2018,7,North,5940000
+HP00311,MMR,Row House,2,2,2,Semi-Furnished,1299,0,3,Bungalow,2024,1,North-West,43310000
+HP01721,MMR,Independent House,3,3,2,Semi-Furnished,1702,2,5,Standalone Building,2010,15,East,40400000
+HP01083,Delhi NCR,Row House,2,3,2,Semi-Furnished,966,1,3,Standalone Building,2018,7,East,14570000
+HP01435,Delhi NCR,Apartment,2,3,1,Unfurnished,819,3,7,Mid Rise,2006,19,South-West,8630000
+HP01139,Delhi NCR,Apartment,4,4,2,Furnished,2435,3,7,Mid Rise,2021,4,North,36070000
+HP00553,Kolkata,Apartment,2,2,2,Unfurnished,1119,5,22,High Rise,2008,17,South-West,12900000
+HP01750,Bengaluru,Apartment,2,3,1,Unfurnished,1243,5,8,Mid Rise,2003,22,South-West,16090000
+HP01266,Delhi NCR,Independent House,5,6,1,Semi-Furnished,2077,0,3,Bungalow,2010,15,North,23890000
+HP01816,Chennai,Villa,5,6,1,Unfurnished,3501,0,1,Bungalow,2013,12,East,56830000
+HP01569,Ahmedabad,Row House,2,2,2,Unfurnished,1114,2,10,Gated Community,2017,8,East,7700000
+HP00739,Pune,Villa,5,6,2,Unfurnished,2898,0,2,Bungalow,2025,0,East,41650000
+HP00191,Kolkata,Apartment,2,2,2,Unfurnished,874,8,8,Mid Rise,2020,5,South-West,9560000
+HP01888,Hyderabad,Apartment,2,3,3,Furnished,1217,3,6,Mid Rise,2000,25,South-West,16070000
+HP00801,MMR,Independent House,3,4,3,Furnished,1407,0,3,Bungalow,2020,5,East,32690000
+HP01425,Pune,Apartment,4,5,3,Semi-Furnished,2552,11,25,High Rise,2025,0,East,35710000
+HP01881,Ahmedabad,Apartment,2,2,1,Semi-Furnished,1157,17,35,High Rise,2013,12,East,8770000
+HP01847,Bengaluru,Apartment,3,4,2,Unfurnished,1853,2,7,Gated Community,2021,4,West,22530000
+HP01186,Delhi NCR,Penthouse,4,5,1,Semi-Furnished,1596,14,25,High Rise,2014,11,South,26490000
+HP00602,Pune,Villa,4,5,1,Unfurnished,2321,3,3,Standalone Building,2021,4,North-West,33960000
+HP00876,Pune,Apartment,1,2,2,Unfurnished,477,36,38,High Rise,2005,20,South-East,5780000
+HP00543,MMR,Studio,0,2,1,Semi-Furnished,503,7,12,Mid Rise,2025,0,South-East,10620000
+HP01531,Delhi NCR,Apartment,2,3,1,Semi-Furnished,1289,25,27,High Rise,2017,8,South,16850000
+HP00674,Delhi NCR,Apartment,3,4,2,Semi-Furnished,1551,9,19,High Rise,2002,23,South-West,20670000
+HP01047,Bengaluru,Apartment,2,2,2,Unfurnished,1178,10,10,Mid Rise,2003,22,East,12560000
+HP02009,Hyderabad,Row House,3,4,1,Semi-Furnished,1615,0,1,Bungalow,2014,11,South-West,16410000
+HP01426,Delhi NCR,Apartment,2,3,2,Unfurnished,1247,3,7,Mid Rise,2016,9,East,13990000
+HP01922,Bengaluru,Studio,0,2,0,Furnished,304,27,39,High Rise,2002,23,South-East,3460000
+HP00570,Chennai,Independent House,2,2,2,Semi-Furnished,1011,3,4,Low Rise,2025,0,South-East,13360000
+HP01558,Bengaluru,Apartment,3,4,1,Unfurnished,1158,18,19,High Rise,2013,12,West,14340000
+HP02276,Kolkata,Apartment,2,3,3,Semi-Furnished,1140,6,6,Mid Rise,2015,10,South-West,11480000
+HP00201,Bengaluru,Apartment,1,1,1,Semi-Furnished,735,2,3,Low Rise,2005,20,South-West,9430000
+HP01882,Pune,Row House,2,3,2,Semi-Furnished,848,8,8,Gated Community,2016,9,North-East,10830000
+HP02162,Pune,Apartment,4,4,1,Unfurnished,2526,1,7,Mid Rise,2016,9,North-West,32820000
+HP00993,Pune,Apartment,2,3,1,Furnished,1069,6,34,High Rise,2022,3,North,13930000
+HP00176,Kolkata,Apartment,3,3,1,Unfurnished,1193,20,29,High Rise,2022,3,South,12960000
+HP00898,MMR,Studio,0,1,1,Semi-Furnished,500,17,38,High Rise,2021,4,East,9540000
+HP02316,Chennai,Row House,2,3,1,Furnished,1289,2,11,Gated Community,2016,9,South-West,18440000
+HP01940,Delhi NCR,Apartment,1,2,2,Unfurnished,459,2,12,Mid Rise,2009,16,North,6230000
+HP00330,Hyderabad,Apartment,2,3,1,Unfurnished,1208,10,10,Mid Rise,2014,11,South-East,12350000
+HP00065,Ahmedabad,Independent House,4,5,2,Unfurnished,2571,1,4,Low Rise,2010,15,North,17270000
+HP01604,Kolkata,Apartment,2,3,2,Unfurnished,930,14,33,High Rise,2018,7,North-East,8910000
+HP01480,Hyderabad,Apartment,1,2,1,Furnished,494,2,7,Mid Rise,2015,10,North-West,5520000
+HP01991,Bengaluru,Apartment,2,2,1,Unfurnished,1139,16,20,High Rise,2023,2,North,16510000
+HP01343,Chennai,Studio,0,1,1,Semi-Furnished,310,1,2,Standalone Building,2014,11,North,3910000
+HP01554,Pune,Independent House,3,4,1,Semi-Furnished,1795,10,10,Gated Community,2021,4,South-West,20790000
+HP00163,Ahmedabad,Apartment,4,5,2,Furnished,1914,1,2,Standalone Building,2012,13,East,15690000
+HP01019,Kolkata,Apartment,1,2,1,Unfurnished,689,8,14,High Rise,2014,11,South-East,7420000
+HP00911,Kolkata,Apartment,4,5,1,Unfurnished,1623,6,17,High Rise,2006,19,West,18780000
+HP00085,Ahmedabad,Independent House,3,4,2,Unfurnished,1847,3,4,Standalone Building,2012,13,North,13020000
+HP01342,Bengaluru,Studio,0,1,0,Semi-Furnished,300,13,20,High Rise,2017,8,South-West,4010000
+HP01257,Hyderabad,Apartment,2,2,1,Unfurnished,1005,1,6,Mid Rise,2006,19,North-West,9850000
+HP02326,Hyderabad,Villa,4,5,1,Unfurnished,2150,2,6,Gated Community,2020,5,East,29760000
+HP00882,Hyderabad,Row House,2,3,1,Furnished,1173,1,2,Standalone Building,2005,20,South-West,13770000
+HP00119,Chennai,Studio,0,1,0,Furnished,522,0,2,Standalone Building,2021,4,South-West,6570000
+HP00345,Ahmedabad,Independent House,3,4,2,Unfurnished,1449,3,3,Standalone Building,2014,11,West,9740000
+HP00143,Bengaluru,Apartment,2,3,2,Furnished,1136,12,22,High Rise,2025,0,North,15130000
+HP00312,Pune,Studio,0,2,1,Semi-Furnished,539,7,25,High Rise,2006,19,South-East,5910000
+HP01812,Bengaluru,Studio,0,2,1,Unfurnished,454,4,23,High Rise,2016,9,West,5180000
+HP00141,Ahmedabad,Apartment,2,3,1,Semi-Furnished,1061,4,21,High Rise,2011,14,East,6450000
+HP01504,Delhi NCR,Apartment,1,1,1,Semi-Furnished,465,4,5,Low Rise,1999,26,East,5820000
+HP00613,Hyderabad,Independent House,3,3,2,Unfurnished,1744,0,1,Bungalow,2011,14,East,18290000
+HP01321,Hyderabad,Apartment,3,4,1,Unfurnished,1261,5,12,High Rise,2021,4,North,12910000
+HP00112,Delhi NCR,Apartment,2,2,3,Semi-Furnished,1201,0,4,Standalone Building,1998,27,East,15310000
+HP00246,Hyderabad,Apartment,1,2,3,Semi-Furnished,789,0,2,Standalone Building,2016,9,South-East,8050000
+HP00569,MMR,Penthouse,4,4,1,Semi-Furnished,2557,33,39,High Rise,1996,29,South-West,75750000
+HP00800,Chennai,Independent House,4,4,2,Semi-Furnished,1566,3,3,Standalone Building,2019,6,East,18390000
+HP00109,MMR,Apartment,3,4,2,Unfurnished,1132,5,10,Mid Rise,2025,0,North,25740000
+HP02332,MMR,Apartment,2,2,2,Furnished,1293,3,3,Standalone Building,2025,0,North,31710000
+HP00174,Hyderabad,Independent House,4,5,1,Semi-Furnished,1703,1,3,Standalone Building,2008,17,North-East,18020000
+HP01045,Ahmedabad,Apartment,3,4,1,Furnished,1124,1,9,Mid Rise,2021,4,South,9850000
+HP02252,Pune,Apartment,2,3,2,Furnished,1092,15,25,High Rise,2015,10,North,14700000
+HP02156,MMR,Studio,0,2,1,Semi-Furnished,533,11,12,Mid Rise,2008,17,North,9350000
+HP01823,Delhi NCR,Studio,0,2,1,Semi-Furnished,433,5,11,Mid Rise,2013,12,East,5490000
+HP01581,Delhi NCR,Apartment,3,3,2,Furnished,1354,4,12,Gated Community,2002,23,North-East,21130000
+HP02362,Chennai,Villa,4,5,1,Semi-Furnished,2301,0,3,Bungalow,2012,13,North,31460000
+HP00529,Delhi NCR,Villa,2,2,2,Furnished,723,4,5,Standalone Building,2007,18,North,11980000
+HP01853,Ahmedabad,Apartment,2,2,1,Semi-Furnished,1151,6,33,High Rise,2016,9,West,8200000
+HP01932,Hyderabad,Apartment,1,2,2,Semi-Furnished,484,25,31,High Rise,2017,8,South,5910000
+HP00122,Ahmedabad,Apartment,2,2,2,Furnished,1164,13,32,High Rise,2022,3,South-East,8450000
+HP00724,Delhi NCR,Apartment,3,3,2,Semi-Furnished,1755,7,11,Mid Rise,2018,7,South-East,20210000
+HP00365,Kolkata,Independent House,6,7,2,Semi-Furnished,2398,0,3,Low Rise,2022,3,North-West,29350000
+HP02314,MMR,Apartment,2,3,2,Unfurnished,828,7,7,Mid Rise,2010,15,North-West,15660000
+HP02135,Delhi NCR,Apartment,2,3,1,Furnished,1118,5,8,Gated Community,2019,6,South,13910000
+HP00208,MMR,Apartment,3,4,1,Semi-Furnished,1276,7,10,Mid Rise,2025,0,North-West,29690000
+HP00770,Delhi NCR,Villa,3,3,1,Unfurnished,1733,4,9,Gated Community,2006,19,South,26160000
+HP01211,Bengaluru,Apartment,2,2,2,Semi-Furnished,1050,1,7,Mid Rise,2017,8,North-West,16180000
+HP01279,Bengaluru,Apartment,2,3,1,Semi-Furnished,1298,5,10,Gated Community,2012,13,West,14620000
+HP00298,Hyderabad,Villa,6,6,2,Semi-Furnished,3728,2,2,Standalone Building,2007,18,South-East,47210000
+HP01843,Bengaluru,Independent House,3,3,2,Semi-Furnished,1319,0,2,Standalone Building,2018,7,South-East,19100000
+HP00826,Chennai,Apartment,4,5,1,Furnished,2240,2,8,Mid Rise,2016,9,West,24050000
+HP01169,Delhi NCR,Apartment,3,3,1,Furnished,1696,3,5,Standalone Building,2008,17,South-East,21510000
+HP01381,Hyderabad,Apartment,2,2,1,Semi-Furnished,724,6,7,Gated Community,2024,1,North,8290000
+HP02235,Hyderabad,Row House,3,3,2,Semi-Furnished,1646,4,5,Standalone Building,2013,12,North-West,21060000
+HP01275,Pune,Apartment,3,4,2,Unfurnished,1595,23,34,High Rise,2004,21,North,18890000
+HP01982,Ahmedabad,Apartment,2,2,3,Semi-Furnished,1036,1,5,Low Rise,2017,8,North,7020000
+HP00479,Bengaluru,Independent House,4,5,3,Furnished,2493,8,9,Gated Community,2005,20,East,34300000
+HP01194,Delhi NCR,Apartment,3,4,3,Semi-Furnished,1460,2,12,Mid Rise,2004,21,North-West,20610000
+HP00304,Ahmedabad,Villa,3,4,2,Semi-Furnished,1313,5,12,Gated Community,2015,10,North,13220000
+HP00779,Ahmedabad,Apartment,3,3,2,Semi-Furnished,1819,19,25,High Rise,2016,9,North-East,13410000
+HP02045,Pune,Apartment,1,1,2,Furnished,738,15,27,High Rise,1998,27,North,7460000
+HP01328,Kolkata,Villa,3,3,2,Unfurnished,1443,0,3,Bungalow,2011,14,West,19880000
+HP00297,Pune,Apartment,3,4,1,Unfurnished,1250,1,22,High Rise,2022,3,North,18230000
+HP01535,Pune,Apartment,3,3,3,Unfurnished,1424,1,6,Gated Community,2007,18,South-West,18340000
+HP02050,Bengaluru,Penthouse,4,4,1,Semi-Furnished,1642,4,13,High Rise,2020,5,South,26330000
+HP01285,Bengaluru,Independent House,5,5,1,Semi-Furnished,2364,0,1,Bungalow,2005,20,North-West,31590000
+HP02282,Pune,Independent House,3,4,2,Semi-Furnished,1286,0,3,Bungalow,2015,10,South-West,14310000
+HP02183,Pune,Apartment,2,3,2,Unfurnished,837,5,15,High Rise,2014,11,South-West,11510000
+HP00355,Bengaluru,Apartment,1,1,2,Furnished,756,3,3,Standalone Building,2002,23,North-East,9610000
+HP01626,Pune,Apartment,3,4,3,Semi-Furnished,1848,0,4,Standalone Building,2010,15,South-West,25060000
+HP01567,Chennai,Apartment,3,4,1,Semi-Furnished,1089,1,11,Gated Community,2017,8,South-West,13410000
+HP01487,MMR,Penthouse,3,3,2,Furnished,1613,34,35,High Rise,1998,27,North,48970000
+HP01899,Hyderabad,Villa,4,5,2,Semi-Furnished,1552,1,4,Standalone Building,2015,10,North,25490000
+HP02220,Hyderabad,Apartment,2,2,2,Unfurnished,1123,1,5,Standalone Building,2009,16,East,11630000
+HP00647,Ahmedabad,Independent House,2,2,1,Semi-Furnished,1056,2,3,Standalone Building,2006,19,North-East,6880000
+HP01478,Pune,Apartment,3,3,2,Unfurnished,1267,2,8,Gated Community,2008,17,North-West,13020000
+HP01224,Hyderabad,Apartment,2,2,2,Unfurnished,1017,16,25,High Rise,2019,6,South-East,12190000
+HP00366,Kolkata,Apartment,3,4,2,Semi-Furnished,1207,9,9,Gated Community,2003,22,North,12840000
+HP01110,Chennai,Apartment,4,4,2,Semi-Furnished,1903,12,32,High Rise,2011,14,North,28260000
+HP01209,Chennai,Apartment,2,3,1,Semi-Furnished,1035,11,26,High Rise,2024,1,South-East,16660000
+HP00866,Hyderabad,Apartment,3,3,2,Semi-Furnished,1254,7,12,Gated Community,2002,23,South,13880000
+HP02327,Ahmedabad,Studio,0,1,1,Unfurnished,525,11,38,High Rise,2005,20,South-East,3650000
+HP00648,Pune,Apartment,2,3,2,Semi-Furnished,1140,3,21,High Rise,2025,0,South,16860000
+HP00989,Delhi NCR,Independent House,2,3,1,Semi-Furnished,866,12,12,Gated Community,2020,5,North,12040000
+HP01136,Delhi NCR,Villa,4,5,2,Furnished,2183,5,5,Low Rise,2013,12,South,38030000
+HP00697,Kolkata,Apartment,1,1,1,Furnished,478,4,5,Low Rise,2007,18,West,5070000
+HP00455,Ahmedabad,Independent House,3,4,2,Unfurnished,1109,0,3,Bungalow,2010,15,South-West,7020000
+HP01747,Chennai,Villa,2,3,1,Furnished,1132,2,5,Low Rise,2019,6,South-East,14540000
+HP01996,Kolkata,Row House,2,3,2,Unfurnished,1008,3,4,Standalone Building,2004,21,South-East,11320000
+HP00344,Pune,Apartment,3,3,2,Semi-Furnished,1740,28,37,High Rise,2014,11,South-West,21210000
+HP00027,Chennai,Apartment,3,4,2,Semi-Furnished,1216,12,26,High Rise,2023,2,South-West,15800000
+HP00247,Ahmedabad,Apartment,4,4,2,Unfurnished,2071,14,22,High Rise,2019,6,South-West,17040000
+HP00538,Ahmedabad,Apartment,2,3,1,Furnished,932,4,5,Low Rise,2005,20,South,7660000
+HP00115,Kolkata,Apartment,3,3,2,Semi-Furnished,1243,8,11,Gated Community,2025,0,North,14520000
+HP02081,Bengaluru,Apartment,1,2,2,Semi-Furnished,601,37,38,High Rise,2014,11,North-East,8430000
+HP02297,Delhi NCR,Apartment,3,4,2,Furnished,1334,7,28,High Rise,2018,7,North-East,20220000
+HP00139,Delhi NCR,Independent House,3,4,2,Unfurnished,1223,0,2,Bungalow,2013,12,North,15990000
+HP01960,Hyderabad,Apartment,1,2,1,Unfurnished,555,15,30,High Rise,2022,3,North-East,6500000
+HP02018,Ahmedabad,Apartment,2,3,1,Semi-Furnished,1237,13,26,High Rise,2007,18,South-West,8830000
+HP00958,Bengaluru,Villa,5,6,1,Unfurnished,3766,0,5,Low Rise,2019,6,North-West,55800000
+HP00902,Chennai,Apartment,3,3,1,Unfurnished,1160,29,29,High Rise,2023,2,North-East,14890000
+HP00372,Bengaluru,Independent House,3,4,1,Unfurnished,1414,0,3,Bungalow,2019,6,North-West,19480000
+HP00868,Kolkata,Independent House,4,4,2,Unfurnished,1957,0,3,Bungalow,2018,7,North,21350000
+HP02190,Pune,Independent House,3,4,2,Unfurnished,1847,1,2,Standalone Building,2021,4,North,25940000
+HP01609,Bengaluru,Penthouse,2,2,1,Furnished,900,14,31,High Rise,2007,18,South,17480000
+HP01763,Pune,Apartment,2,3,1,Furnished,808,19,30,High Rise,2011,14,East,10410000
+HP01070,Delhi NCR,Row House,2,2,1,Semi-Furnished,866,0,2,Low Rise,2019,6,South,12850000
+HP00272,Chennai,Penthouse,4,5,2,Semi-Furnished,1606,2,23,High Rise,2006,19,North,27590000
+HP02169,Chennai,Apartment,1,1,1,Furnished,690,21,31,High Rise,2025,0,North-East,9070000
+HP01048,Bengaluru,Apartment,3,4,1,Semi-Furnished,1742,20,39,High Rise,2015,10,North-West,28760000
+HP02032,Ahmedabad,Apartment,2,3,1,Semi-Furnished,1171,1,5,Standalone Building,2025,0,East,10160000
+HP01714,Bengaluru,Apartment,3,3,1,Semi-Furnished,1525,0,2,Standalone Building,2024,1,West,25590000
+HP02263,Pune,Apartment,3,3,3,Unfurnished,1123,12,15,High Rise,2004,21,West,13520000
+HP02172,Bengaluru,Apartment,2,3,1,Unfurnished,772,5,7,Gated Community,2023,2,North-East,11380000
+HP01278,Pune,Apartment,3,3,1,Unfurnished,1187,4,12,High Rise,2025,0,North-East,12060000
+HP00059,Kolkata,Apartment,2,2,1,Semi-Furnished,1166,4,6,Mid Rise,2007,18,East,11980000
+HP01584,Bengaluru,Apartment,4,4,1,Furnished,2292,15,27,High Rise,2019,6,North,27920000
+HP01841,Hyderabad,Row House,3,4,1,Unfurnished,1667,8,12,Gated Community,2011,14,South,22010000
+HP01927,Ahmedabad,Apartment,2,3,3,Unfurnished,1178,24,29,High Rise,2019,6,North-East,8280000
+HP02158,Kolkata,Independent House,3,3,1,Furnished,1138,5,5,Standalone Building,2016,9,East,13020000
+HP01007,Ahmedabad,Apartment,1,2,2,Unfurnished,780,7,9,Gated Community,2025,0,North-East,6750000
+HP00196,Kolkata,Row House,2,2,1,Unfurnished,882,1,10,Gated Community,2018,7,North,12100000
+HP02359,Chennai,Apartment,3,3,1,Unfurnished,1725,9,12,Gated Community,2024,1,North,21790000
+HP01787,Chennai,Apartment,3,3,1,Unfurnished,1359,10,12,Gated Community,2024,1,South-West,17040000
+HP00231,Pune,Penthouse,6,7,1,Furnished,2861,16,39,High Rise,2019,6,South-West,64400000
+HP02057,Chennai,Penthouse,4,5,2,Unfurnished,2559,17,18,High Rise,2020,5,West,36970000
+HP00022,MMR,Studio,0,2,1,Semi-Furnished,345,3,6,Mid Rise,2014,11,South,6600000
+HP01698,Ahmedabad,Apartment,4,5,2,Unfurnished,2547,5,15,High Rise,2004,21,North,19000000
+HP01497,Pune,Studio,0,1,0,Unfurnished,487,1,10,Mid Rise,2024,1,South-East,5690000
+HP00180,Hyderabad,Apartment,2,2,2,Semi-Furnished,1196,10,31,High Rise,2014,11,North,12660000
+HP00179,MMR,Apartment,4,5,3,Furnished,1907,7,9,Mid Rise,2025,0,South-West,49050000
+HP00043,Ahmedabad,Apartment,2,2,2,Semi-Furnished,1060,2,12,Mid Rise,2018,7,South,7620000
+HP01701,Pune,Apartment,2,3,1,Semi-Furnished,808,1,8,Mid Rise,2011,14,North-West,9710000
+HP01124,Pune,Apartment,2,3,1,Unfurnished,1012,6,9,Mid Rise,2024,1,South-East,13660000
+HP01699,Delhi NCR,Apartment,2,3,1,Semi-Furnished,1038,4,12,Mid Rise,2007,18,South,14280000
+HP01379,Chennai,Apartment,3,3,1,Furnished,1107,18,32,High Rise,2025,0,North-West,15410000
+HP02160,Chennai,Apartment,2,3,3,Unfurnished,1249,5,11,Mid Rise,2025,0,South,16250000
+HP02185,Bengaluru,Villa,3,4,2,Semi-Furnished,1738,1,3,Standalone Building,2025,0,North-West,34430000
+HP00524,MMR,Villa,4,5,1,Furnished,2428,0,2,Bungalow,2006,19,North-West,59410000
+HP00071,Chennai,Apartment,3,4,1,Semi-Furnished,1201,13,22,High Rise,1995,30,North-West,12630000
+HP00207,Bengaluru,Row House,3,4,2,Furnished,1342,0,2,Bungalow,2024,1,North,24330000
+HP01586,MMR,Apartment,2,2,2,Unfurnished,1181,2,2,Standalone Building,2025,0,South-East,24610000
+HP02129,Chennai,Studio,0,2,1,Semi-Furnished,465,21,26,High Rise,2024,1,South-East,6300000
+HP01537,Chennai,Villa,2,3,1,Unfurnished,1289,6,10,Gated Community,2008,17,South-East,20780000
+HP01904,Ahmedabad,Independent House,3,4,3,Semi-Furnished,1281,0,3,Bungalow,2016,9,East,8880000
+HP00496,MMR,Apartment,3,3,2,Semi-Furnished,1775,6,6,Mid Rise,2015,10,North,35210000
+HP00820,Pune,Apartment,3,4,2,Semi-Furnished,1819,5,6,Gated Community,2016,9,North,21620000
+HP01729,Pune,Studio,0,2,1,Semi-Furnished,448,8,12,Mid Rise,2006,19,South-West,5570000
+HP01802,MMR,Apartment,2,2,3,Semi-Furnished,1200,7,10,Mid Rise,2021,4,South,30070000
+HP01492,Chennai,Apartment,2,2,1,Semi-Furnished,1194,9,15,High Rise,2011,14,North-East,16190000
+HP00417,Chennai,Apartment,4,5,2,Unfurnished,2361,7,7,Gated Community,2003,22,East,25700000
+HP00768,Ahmedabad,Row House,3,4,2,Semi-Furnished,1679,0,2,Bungalow,2025,0,North-East,13100000
+HP02171,Bengaluru,Penthouse,4,5,1,Semi-Furnished,2414,13,33,High Rise,2025,0,West,41970000
+HP01663,Pune,Apartment,2,3,1,Unfurnished,918,23,32,High Rise,2015,10,North-West,10120000
+HP00764,Chennai,Penthouse,3,3,1,Unfurnished,1498,1,26,High Rise,2004,21,North,20810000
+HP01564,Chennai,Apartment,2,3,1,Unfurnished,1013,10,21,High Rise,2009,16,South-East,12070000
+HP00190,Ahmedabad,Villa,4,4,1,Semi-Furnished,2379,0,1,Bungalow,2003,22,South,19190000
+HP01297,Chennai,Apartment,3,4,2,Unfurnished,1279,6,8,Mid Rise,2009,16,North,15790000
+HP01259,MMR,Villa,4,4,2,Unfurnished,1599,0,2,Bungalow,1991,34,West,31130000
+HP01340,Hyderabad,Apartment,1,2,2,Furnished,778,4,4,Standalone Building,2014,11,East,7950000
+HP01326,Pune,Independent House,3,3,1,Furnished,1831,1,3,Standalone Building,2007,18,South-East,19030000
+HP01491,Kolkata,Independent House,5,6,2,Furnished,3635,0,2,Bungalow,2001,24,West,37250000
+HP00693,Chennai,Penthouse,4,4,1,Furnished,2129,9,32,High Rise,2024,1,North-West,38970000
+HP00431,Chennai,Apartment,1,1,1,Unfurnished,524,9,9,Mid Rise,2010,15,North-West,5520000
+HP01451,Delhi NCR,Apartment,2,3,1,Furnished,1059,1,3,Standalone Building,2001,24,North-West,12210000
+HP00253,Kolkata,Villa,4,4,1,Unfurnished,2075,1,2,Standalone Building,2001,24,South-East,29160000
+HP02222,Ahmedabad,Apartment,3,4,1,Semi-Furnished,1040,2,6,Gated Community,2025,0,North-East,8610000
+HP01801,Pune,Penthouse,3,3,2,Unfurnished,1310,2,29,High Rise,2008,17,North-East,20110000
+HP02246,Hyderabad,Apartment,2,3,2,Unfurnished,1128,10,18,High Rise,2004,21,East,12120000
+HP00198,Kolkata,Apartment,2,3,1,Semi-Furnished,1153,2,12,Mid Rise,2007,18,South-East,11820000
+HP01105,MMR,Independent House,6,6,2,Unfurnished,3117,1,2,Standalone Building,2021,4,South-East,74220000
+HP00107,Bengaluru,Villa,3,4,3,Semi-Furnished,1693,2,4,Low Rise,2016,9,East,21500000
+HP00255,Hyderabad,Apartment,2,2,1,Semi-Furnished,1007,9,10,Mid Rise,2002,23,East,12610000
+HP01580,Pune,Apartment,2,3,2,Unfurnished,813,1,14,High Rise,2022,3,North,9090000
+HP00845,Kolkata,Row House,3,4,1,Semi-Furnished,1479,0,3,Bungalow,2016,9,South-West,23840000
+HP01368,MMR,Apartment,2,2,2,Furnished,1145,3,4,Standalone Building,2009,16,North-West,24020000
+HP02248,Delhi NCR,Row House,3,3,1,Furnished,1676,1,7,Gated Community,2024,1,North,24720000
+HP01901,MMR,Penthouse,3,4,1,Unfurnished,1407,20,20,High Rise,2009,16,West,48440000
+HP00711,Kolkata,Independent House,4,5,2,Unfurnished,2000,0,3,Bungalow,2017,8,West,18030000
+HP00303,Bengaluru,Row House,3,4,2,Furnished,1265,3,5,Standalone Building,2025,0,North-East,18830000
+HP00277,Ahmedabad,Apartment,3,4,1,Semi-Furnished,1062,18,40,High Rise,2017,8,South,7350000
+HP00831,Delhi NCR,Apartment,3,4,1,Semi-Furnished,1302,3,3,Standalone Building,2017,8,South,16160000
+HP00473,Bengaluru,Independent House,5,5,1,Unfurnished,2205,2,8,Gated Community,2014,11,South-West,26450000
+HP01615,Bengaluru,Apartment,1,2,1,Unfurnished,504,28,40,High Rise,2017,8,West,7550000
+HP00848,Kolkata,Apartment,1,1,2,Furnished,505,6,7,Gated Community,2025,0,North-East,6280000
+HP00393,Ahmedabad,Villa,3,3,2,Furnished,1173,1,6,Gated Community,2015,10,South-West,12240000
+HP00748,Chennai,Apartment,4,5,1,Furnished,2590,10,13,High Rise,2018,7,South-West,36790000
+HP02209,Chennai,Apartment,1,2,1,Unfurnished,756,1,2,Standalone Building,2012,13,West,7430000
+HP01956,Chennai,Studio,0,2,1,Unfurnished,479,3,5,Standalone Building,2021,4,South,5800000
+HP01420,Kolkata,Apartment,1,1,2,Semi-Furnished,568,10,12,High Rise,2017,8,South-East,5470000
+HP00593,Pune,Apartment,4,4,1,Unfurnished,2386,30,36,High Rise,2003,22,North-East,29120000
+HP01401,Kolkata,Independent House,4,5,2,Unfurnished,1631,0,4,Standalone Building,2019,6,South,18180000
+HP02342,Delhi NCR,Apartment,1,2,2,Semi-Furnished,794,1,2,Standalone Building,2002,23,North,9130000
+HP00394,Hyderabad,Apartment,2,2,1,Semi-Furnished,1097,2,5,Standalone Building,2025,0,South,14340000
+HP00864,Chennai,Apartment,2,2,2,Unfurnished,1275,2,2,Standalone Building,2003,22,South,15080000
+HP00547,Ahmedabad,Row House,3,4,1,Furnished,1831,0,3,Bungalow,1998,27,North,12840000
+HP01543,Bengaluru,Apartment,2,2,2,Furnished,949,4,5,Standalone Building,2017,8,North,12650000
+HP02228,Hyderabad,Villa,4,5,2,Furnished,2007,0,2,Bungalow,2022,3,South-East,27340000
+HP02144,Pune,Villa,4,5,2,Semi-Furnished,1916,1,3,Low Rise,2013,12,East,26650000
+HP00009,Hyderabad,Apartment,3,3,2,Furnished,1238,22,22,High Rise,2025,0,South,15080000
+HP01600,Bengaluru,Apartment,4,4,1,Unfurnished,2428,33,36,High Rise,2016,9,North,30820000
+HP00506,Delhi NCR,Apartment,2,3,1,Furnished,1259,3,7,Mid Rise,2016,9,South-East,14600000
+HP02224,Bengaluru,Apartment,3,3,2,Unfurnished,1004,4,7,Mid Rise,2014,11,South,11990000
+HP01237,Bengaluru,Apartment,2,3,2,Semi-Furnished,1229,2,2,Standalone Building,2019,6,North-West,15760000
+HP02315,Hyderabad,Row House,2,2,2,Semi-Furnished,1072,0,5,Low Rise,2019,6,North-West,12470000
+HP01050,Pune,Apartment,2,2,1,Semi-Furnished,1282,15,28,High Rise,2010,15,South-West,14330000
+HP01671,Chennai,Apartment,3,3,1,Semi-Furnished,1126,4,9,Mid Rise,1996,29,West,13240000
+HP02257,Chennai,Row House,2,2,2,Semi-Furnished,864,4,12,Gated Community,2009,16,South-West,11990000
+HP00328,Ahmedabad,Penthouse,3,3,1,Unfurnished,1278,25,33,High Rise,2025,0,South,14590000
+HP00051,Delhi NCR,Apartment,2,3,2,Furnished,1129,0,2,Standalone Building,2023,2,South-West,17160000
+HP01718,Bengaluru,Apartment,2,2,1,Semi-Furnished,738,2,8,Gated Community,2008,17,East,7880000
+HP01762,Chennai,Studio,0,1,1,Unfurnished,374,1,4,Standalone Building,2015,10,North,4180000
+HP01683,Delhi NCR,Independent House,3,4,1,Semi-Furnished,1495,2,4,Standalone Building,2014,11,South-West,19800000
+HP01741,Pune,Penthouse,2,2,2,Unfurnished,794,8,25,High Rise,2023,2,North,14420000
+HP01791,Ahmedabad,Apartment,4,5,2,Semi-Furnished,1440,1,2,Standalone Building,2009,16,North,10620000
+HP00058,Delhi NCR,Villa,5,6,1,Unfurnished,3277,3,3,Standalone Building,2025,0,North-West,47850000
+HP00363,Hyderabad,Apartment,3,4,1,Semi-Furnished,1608,13,14,High Rise,2020,5,North,19780000
+HP00623,Chennai,Apartment,3,3,2,Unfurnished,1765,13,15,High Rise,2009,16,South-East,25330000
+HP00699,Pune,Apartment,3,4,1,Semi-Furnished,1749,9,9,Gated Community,2010,15,South,21810000
+HP01673,Pune,Apartment,3,3,1,Unfurnished,1602,7,7,Mid Rise,2017,8,North-West,19280000
+HP01284,Kolkata,Apartment,2,2,2,Furnished,812,2,20,High Rise,2005,20,North-West,9950000
+HP01309,Kolkata,Independent House,5,6,1,Semi-Furnished,3730,0,2,Bungalow,2004,21,South-East,36240000
+HP00124,Ahmedabad,Studio,0,2,1,Unfurnished,525,14,25,High Rise,2015,10,South-West,3390000
+HP01851,Pune,Apartment,1,2,2,Semi-Furnished,517,2,3,Low Rise,2011,14,West,6330000
+HP00459,MMR,Penthouse,4,4,2,Semi-Furnished,1806,1,26,High Rise,2020,5,East,59090000
+HP02048,Delhi NCR,Independent House,3,4,1,Semi-Furnished,1071,2,2,Low Rise,2011,14,South,13400000
+HP00213,MMR,Apartment,1,2,1,Furnished,690,4,5,Standalone Building,2003,22,North-West,14480000
+HP01959,Pune,Apartment,1,1,2,Semi-Furnished,792,1,10,Gated Community,2013,12,East,9340000
+HP01911,MMR,Independent House,2,3,1,Semi-Furnished,979,5,7,Gated Community,2018,7,South,22770000
+HP00170,Hyderabad,Independent House,4,5,1,Semi-Furnished,2246,0,2,Bungalow,1998,27,West,25700000
+HP00901,MMR,Apartment,3,4,2,Semi-Furnished,1592,5,6,Gated Community,2025,0,West,38300000
+HP01076,Pune,Apartment,4,4,1,Unfurnished,1574,2,10,Gated Community,2014,11,North-East,23280000
+HP00962,Delhi NCR,Apartment,2,3,3,Semi-Furnished,1130,4,8,Mid Rise,2012,13,East,15250000
+HP00458,Pune,Penthouse,3,3,3,Semi-Furnished,1653,12,18,High Rise,2016,9,North,31310000
+HP00992,Bengaluru,Apartment,4,5,1,Unfurnished,1557,2,11,Gated Community,2008,17,East,17620000
+HP01149,Hyderabad,Villa,4,4,2,Unfurnished,2030,0,2,Bungalow,2022,3,West,27230000
+HP00391,Ahmedabad,Studio,0,1,1,Semi-Furnished,495,2,4,Standalone Building,2007,18,North-West,3150000
+HP01831,Pune,Apartment,2,3,2,Semi-Furnished,918,3,6,Mid Rise,2009,16,North-West,13020000
+HP00636,Delhi NCR,Apartment,3,4,1,Semi-Furnished,1074,7,12,High Rise,2018,7,East,13590000
+HP02321,Pune,Row House,2,2,2,Unfurnished,1217,0,3,Bungalow,2020,5,South-West,16200000
+HP00564,MMR,Row House,3,3,2,Furnished,1013,0,3,Bungalow,2020,5,South-East,25110000
+HP01296,Kolkata,Villa,4,5,1,Unfurnished,1715,0,3,Standalone Building,2017,8,North-West,23710000
+HP01043,Delhi NCR,Apartment,2,3,2,Unfurnished,1056,3,10,Gated Community,2007,18,West,12820000
+HP00581,Delhi NCR,Apartment,2,3,2,Semi-Furnished,730,5,12,High Rise,2005,20,North-West,8340000
+HP02079,Ahmedabad,Apartment,4,5,1,Unfurnished,1641,6,6,Mid Rise,2012,13,North-West,10940000
+HP00159,MMR,Apartment,2,2,2,Furnished,988,8,8,Mid Rise,2015,10,South,20630000
+HP02052,MMR,Apartment,2,2,2,Furnished,1089,10,13,High Rise,2012,13,East,24820000
+HP00034,Chennai,Apartment,3,4,2,Semi-Furnished,1609,3,9,Gated Community,2021,4,East,23040000
+HP01957,Bengaluru,Apartment,3,4,1,Semi-Furnished,1837,7,10,Gated Community,2018,7,West,24550000
+HP01228,MMR,Apartment,3,3,2,Furnished,1898,3,9,Mid Rise,2022,3,North-West,43610000
+HP00753,Hyderabad,Independent House,4,4,1,Furnished,2131,0,2,Standalone Building,2013,12,South-East,28960000
+HP02077,Delhi NCR,Apartment,2,2,2,Semi-Furnished,785,12,22,High Rise,2022,3,East,9460000
+HP00153,Delhi NCR,Independent House,3,4,2,Furnished,1575,0,1,Bungalow,2002,23,East,23480000
+HP00618,Chennai,Penthouse,5,6,1,Unfurnished,2433,30,38,High Rise,2016,9,South-East,44450000
+HP02010,Pune,Apartment,2,2,1,Semi-Furnished,940,17,32,High Rise,2007,18,South,10860000
+HP00955,Bengaluru,Apartment,4,5,1,Unfurnished,1764,4,7,Mid Rise,1997,28,North,20440000
+HP02166,Hyderabad,Apartment,2,3,2,Semi-Furnished,861,5,7,Gated Community,2025,0,North-East,9530000
+HP00177,MMR,Apartment,4,5,2,Unfurnished,1844,4,12,Gated Community,2013,12,South-West,37980000
+HP00590,MMR,Apartment,3,4,2,Furnished,1478,15,32,High Rise,2014,11,South-East,34290000
+HP01165,Hyderabad,Studio,0,2,0,Unfurnished,522,4,24,High Rise,2014,11,West,4780000
+HP00226,Chennai,Apartment,3,4,2,Semi-Furnished,1060,5,13,High Rise,2016,9,North,14360000
+HP00730,Ahmedabad,Apartment,2,2,3,Semi-Furnished,998,14,20,High Rise,2013,12,East,7670000
+HP00990,Hyderabad,Row House,4,5,1,Unfurnished,2534,1,3,Standalone Building,2011,14,North-East,26840000
+HP01094,Delhi NCR,Apartment,2,2,3,Furnished,939,25,38,High Rise,2017,8,North-West,12640000
+HP00037,Chennai,Apartment,3,4,1,Semi-Furnished,1507,5,6,Gated Community,2022,3,South-West,20990000
+HP00287,Kolkata,Apartment,2,3,1,Semi-Furnished,738,3,10,Mid Rise,2004,21,North,7720000
+HP00525,Pune,Independent House,3,3,1,Unfurnished,1377,4,4,Low Rise,2022,3,South-East,16440000
+HP00652,Chennai,Villa,3,3,1,Semi-Furnished,1875,4,5,Standalone Building,2009,16,North-West,33370000
+HP02114,Hyderabad,Independent House,3,4,3,Unfurnished,1533,4,10,Gated Community,1993,32,East,14730000
+HP01191,Hyderabad,Villa,4,5,2,Unfurnished,2105,9,9,Gated Community,2014,11,South-East,27900000
+HP01807,Bengaluru,Apartment,2,3,2,Unfurnished,963,4,5,Standalone Building,2016,9,South,10410000
+HP00475,Ahmedabad,Penthouse,3,4,2,Unfurnished,1507,20,32,High Rise,2024,1,South,14530000
+HP00567,Hyderabad,Apartment,3,4,1,Unfurnished,1630,3,4,Standalone Building,2020,5,North,16140000
+HP01772,Kolkata,Apartment,2,3,2,Unfurnished,1141,6,8,Mid Rise,2022,3,East,13330000
+HP00118,Delhi NCR,Apartment,1,2,1,Semi-Furnished,751,22,34,High Rise,2011,14,East,9870000
+HP01080,MMR,Apartment,2,3,3,Semi-Furnished,998,2,5,Standalone Building,2017,8,East,21090000
+HP02212,MMR,Apartment,3,3,2,Semi-Furnished,1153,29,38,High Rise,2018,7,North-West,32680000
+HP00666,MMR,Apartment,2,2,1,Semi-Furnished,959,11,34,High Rise,2019,6,North-West,23850000
+HP00481,Delhi NCR,Independent House,3,3,2,Furnished,1500,8,11,Gated Community,2007,18,North-West,18730000
+HP00723,Bengaluru,Independent House,4,4,2,Semi-Furnished,2004,0,3,Standalone Building,2011,14,East,23800000
+HP00460,Ahmedabad,Apartment,4,5,2,Unfurnished,1700,3,8,Mid Rise,2006,19,North-West,13130000
+HP02061,Chennai,Apartment,2,2,2,Unfurnished,866,1,11,Mid Rise,2025,0,East,9250000
+HP02351,Delhi NCR,Apartment,3,4,1,Unfurnished,1552,2,10,Mid Rise,2001,24,North-East,18260000
+HP01986,Hyderabad,Apartment,4,4,1,Unfurnished,1470,2,4,Standalone Building,2018,7,North-East,17680000
+HP00467,Delhi NCR,Villa,2,3,2,Unfurnished,1250,0,3,Bungalow,2021,4,South,18210000
+HP00530,Hyderabad,Studio,0,1,1,Furnished,535,3,40,High Rise,2007,18,North-East,5480000
+HP00389,Bengaluru,Penthouse,4,4,2,Unfurnished,1610,10,25,High Rise,2011,14,East,27150000
+HP02110,Chennai,Independent House,3,3,2,Unfurnished,1373,2,3,Low Rise,2025,0,North-West,16840000
+HP01324,Ahmedabad,Independent House,4,5,2,Semi-Furnished,1603,1,2,Standalone Building,2011,14,South-East,12530000
+HP01207,Hyderabad,Apartment,2,3,2,Unfurnished,944,0,5,Standalone Building,2020,5,North-West,9090000
+HP00596,Pune,Apartment,3,4,2,Unfurnished,1100,3,4,Standalone Building,2008,17,North-East,11380000
+HP00114,Ahmedabad,Studio,0,2,1,Furnished,450,20,29,High Rise,2000,25,North,2960000
+HP00295,Chennai,Independent House,4,4,1,Furnished,2324,9,9,Gated Community,2009,16,South-West,28300000
+HP00825,MMR,Apartment,3,4,2,Furnished,1305,4,9,Gated Community,2006,19,North,26920000
+HP02095,Bengaluru,Apartment,3,4,1,Semi-Furnished,1040,0,3,Standalone Building,2016,9,South-East,16720000
+HP01587,Chennai,Row House,2,3,2,Semi-Furnished,812,0,3,Bungalow,2017,8,South-West,11670000
+HP01344,MMR,Apartment,3,4,3,Semi-Furnished,1516,14,17,High Rise,2025,0,North-East,37520000
+HP00502,Ahmedabad,Independent House,2,3,2,Furnished,1074,1,4,Standalone Building,2018,7,East,8320000
+HP01577,Delhi NCR,Studio,0,2,1,Furnished,328,15,39,High Rise,2013,12,East,4210000
+HP00833,Delhi NCR,Apartment,4,5,1,Semi-Furnished,2099,26,33,High Rise,2025,0,South-West,28840000
+HP00309,Chennai,Villa,3,4,2,Semi-Furnished,1702,0,5,Standalone Building,2014,11,South,25130000
+HP00896,Pune,Independent House,3,4,3,Furnished,1159,4,12,Gated Community,2021,4,South-East,17280000
+HP01447,Delhi NCR,Apartment,4,5,2,Semi-Furnished,2204,6,8,Gated Community,2008,17,South-West,24750000
+HP00053,Bengaluru,Apartment,2,2,2,Semi-Furnished,796,19,35,High Rise,2018,7,North-West,12870000
+HP00695,MMR,Apartment,2,3,1,Furnished,717,1,5,Low Rise,2022,3,North-West,16620000
+HP02024,MMR,Apartment,2,3,2,Unfurnished,811,9,10,Mid Rise,2018,7,North-East,17430000
+HP01715,Pune,Apartment,2,3,2,Furnished,758,8,9,Mid Rise,2012,13,North-East,10070000
+HP00985,MMR,Villa,4,5,1,Unfurnished,1509,1,2,Standalone Building,2007,18,North-East,33060000
+HP01396,Ahmedabad,Apartment,1,2,2,Unfurnished,486,8,8,Gated Community,2014,11,South-East,3160000
+HP00222,Ahmedabad,Independent House,2,3,2,Unfurnished,932,0,3,Bungalow,2018,7,North-East,7310000
+HP01689,Pune,Apartment,3,4,2,Semi-Furnished,1208,10,10,Gated Community,2005,20,North,14250000
+HP01020,Bengaluru,Independent House,3,4,1,Unfurnished,1862,0,3,Bungalow,2007,18,South-East,22390000
+HP01023,Pune,Apartment,2,3,1,Furnished,1186,12,12,High Rise,2008,17,North-West,13680000
+HP01862,Pune,Apartment,4,5,1,Semi-Furnished,1602,2,9,Mid Rise,2008,17,North-East,17830000
+HP02234,Ahmedabad,Apartment,3,3,1,Semi-Furnished,1845,1,26,High Rise,2003,22,South,15080000
+HP01206,Bengaluru,Independent House,4,5,2,Unfurnished,1665,0,3,Bungalow,2022,3,South-East,20740000
+HP01204,Pune,Villa,5,6,1,Unfurnished,2678,0,2,Bungalow,2016,9,East,41490000
+HP00534,MMR,Apartment,3,4,1,Unfurnished,1112,5,9,Gated Community,2018,7,North,26440000
+HP00248,Bengaluru,Apartment,2,3,1,Furnished,1220,14,20,High Rise,1997,28,North-East,15900000
+HP02133,MMR,Apartment,1,2,1,Semi-Furnished,595,3,15,High Rise,2025,0,South-West,14820000
+HP01160,Kolkata,Studio,0,2,0,Furnished,442,13,22,High Rise,1998,27,South-West,3780000
+HP00710,Pune,Apartment,1,2,1,Semi-Furnished,576,10,17,High Rise,2024,1,North-West,8270000
+HP02090,Hyderabad,Row House,2,2,1,Furnished,785,0,3,Bungalow,2023,2,North,10450000
+HP01770,Kolkata,Studio,0,1,0,Semi-Furnished,416,15,40,High Rise,2017,8,East,3930000
+HP00616,MMR,Apartment,3,4,2,Furnished,1737,0,3,Low Rise,2016,9,North,37300000
+HP02285,Pune,Penthouse,3,3,2,Unfurnished,1594,13,18,High Rise,2009,16,South,23860000
+HP01771,Kolkata,Apartment,1,2,2,Semi-Furnished,674,6,6,Gated Community,2011,14,South-East,7380000
+HP00794,Chennai,Penthouse,4,4,2,Unfurnished,2217,17,29,High Rise,2010,15,South,35070000
+HP02022,Delhi NCR,Apartment,2,2,1,Unfurnished,857,1,10,Mid Rise,2017,8,East,10900000
+HP01111,Hyderabad,Apartment,3,4,1,Unfurnished,1012,1,12,Mid Rise,2018,7,North-East,10880000
+HP02199,MMR,Apartment,2,2,3,Furnished,871,7,21,High Rise,2016,9,South-West,20530000
+HP00916,Bengaluru,Apartment,2,3,1,Unfurnished,914,5,9,Gated Community,2024,1,South-East,11290000
+HP01868,MMR,Independent House,5,6,3,Semi-Furnished,3020,0,2,Bungalow,2016,9,North,72760000
+HP01648,Delhi NCR,Apartment,3,4,1,Unfurnished,1104,3,13,High Rise,2007,18,North-West,12680000
+HP01090,MMR,Penthouse,4,4,1,Furnished,1583,8,31,High Rise,2022,3,South-West,45360000
+HP02038,Chennai,Independent House,3,3,1,Furnished,1084,8,11,Gated Community,2017,8,East,15260000
+HP00469,Delhi NCR,Row House,2,2,1,Semi-Furnished,1218,1,2,Low Rise,2021,4,North-East,17490000
+HP01457,Ahmedabad,Independent House,4,5,2,Unfurnished,1473,0,3,Bungalow,2016,9,South-West,9960000
+HP01265,Kolkata,Studio,0,2,0,Furnished,426,5,7,Mid Rise,2013,12,West,4070000
+HP00672,Chennai,Row House,2,3,2,Unfurnished,1027,0,3,Bungalow,2010,15,North-West,12770000
+HP00622,Chennai,Penthouse,5,6,1,Semi-Furnished,3054,3,34,High Rise,2012,13,South-West,42140000
+HP01318,Pune,Penthouse,3,3,1,Semi-Furnished,1430,2,32,High Rise,2013,12,South-West,22200000
+HP01127,Pune,Villa,4,4,1,Unfurnished,2093,5,5,Low Rise,2020,5,South-East,32420000
+HP00844,Delhi NCR,Apartment,4,5,1,Unfurnished,1665,4,13,High Rise,2002,23,East,19010000
+HP00818,Pune,Studio,0,1,1,Unfurnished,419,5,7,Mid Rise,2016,9,North-East,4070000
+HP01641,Ahmedabad,Apartment,1,1,1,Semi-Furnished,476,17,21,High Rise,1998,27,West,3160000
+HP01679,MMR,Apartment,2,3,1,Semi-Furnished,847,4,6,Mid Rise,2025,0,South-East,19520000
+HP02360,Kolkata,Apartment,3,4,2,Unfurnished,1664,9,10,Mid Rise,2008,17,South-East,16380000
+HP00832,MMR,Apartment,2,3,2,Furnished,1133,5,5,Low Rise,2007,18,East,24780000
+HP00956,Chennai,Apartment,1,2,1,Semi-Furnished,549,5,10,Gated Community,2014,11,South,6340000
+HP01878,Delhi NCR,Apartment,3,3,2,Semi-Furnished,1589,31,36,High Rise,2010,15,South,22330000
+HP01081,Chennai,Studio,0,2,1,Semi-Furnished,452,6,6,Mid Rise,2020,5,North-West,5470000
+HP01660,Delhi NCR,Apartment,4,5,2,Unfurnished,2590,22,38,High Rise,2020,5,South,35780000
+HP01603,Bengaluru,Apartment,3,4,1,Unfurnished,1528,11,12,High Rise,2024,1,North-West,20970000
+HP01315,MMR,Apartment,3,4,1,Unfurnished,1144,3,10,Gated Community,2009,16,North,21450000
+HP02071,Pune,Row House,3,4,1,Unfurnished,1626,2,3,Standalone Building,2008,17,South-East,16380000
+HP01924,Kolkata,Apartment,3,3,1,Furnished,1079,5,12,Gated Community,2010,15,South,13660000
+HP01517,Ahmedabad,Studio,0,2,1,Semi-Furnished,492,10,12,Mid Rise,2016,9,North-West,3120000
+HP01712,Delhi NCR,Apartment,3,3,1,Semi-Furnished,1585,6,8,Mid Rise,2025,0,South-West,20810000
+HP00988,MMR,Apartment,3,4,1,Furnished,1695,2,8,Gated Community,2022,3,West,39140000
+HP00797,Kolkata,Villa,3,3,2,Semi-Furnished,1812,0,3,Bungalow,2022,3,East,20660000
+HP00824,Pune,Penthouse,5,6,3,Semi-Furnished,3336,15,33,High Rise,2020,5,West,53930000
+HP02339,Ahmedabad,Apartment,3,4,2,Semi-Furnished,1890,4,7,Mid Rise,2007,18,North-West,12940000
+HP01082,Kolkata,Apartment,3,3,1,Semi-Furnished,1433,1,12,Mid Rise,2015,10,South-East,14250000
+HP01174,Ahmedabad,Studio,0,1,0,Unfurnished,304,3,7,Mid Rise,2005,20,North-East,2240000
+HP00610,Ahmedabad,Apartment,4,5,1,Unfurnished,2331,6,11,Gated Community,2015,10,North,17740000
+HP00437,Pune,Apartment,3,3,1,Unfurnished,1401,2,11,Mid Rise,2010,15,East,19540000
+HP01330,Chennai,Apartment,1,2,2,Unfurnished,677,6,7,Gated Community,2025,0,North-East,8180000
+HP00742,Ahmedabad,Apartment,3,3,1,Unfurnished,1770,5,15,High Rise,2021,4,West,12110000
+HP01975,MMR,Apartment,2,3,2,Semi-Furnished,905,5,9,Gated Community,2006,19,North-East,17080000
+HP01633,Bengaluru,Apartment,3,4,1,Semi-Furnished,1788,7,8,Mid Rise,2010,15,South-East,23630000
+HP00545,Pune,Row House,3,3,1,Semi-Furnished,1590,6,6,Gated Community,2009,16,North,21350000
+HP01792,Ahmedabad,Row House,4,4,1,Unfurnished,2148,0,1,Bungalow,2009,16,South,16730000
+HP00691,Bengaluru,Apartment,3,3,2,Semi-Furnished,1401,11,11,Mid Rise,2024,1,South-East,22190000
+HP00142,Kolkata,Apartment,2,2,2,Semi-Furnished,1239,4,8,Mid Rise,2007,18,South,12850000
+HP01696,MMR,Apartment,2,3,2,Unfurnished,1264,19,38,High Rise,2005,20,South-East,24310000
+HP01611,MMR,Apartment,3,4,1,Semi-Furnished,1672,28,29,High Rise,1995,30,North-East,34880000
+HP00270,Delhi NCR,Apartment,3,4,1,Semi-Furnished,1881,11,14,High Rise,2012,13,West,22790000
+HP02082,Kolkata,Apartment,3,4,1,Unfurnished,1418,4,40,High Rise,2018,7,North,13460000
+HP01263,Hyderabad,Apartment,2,2,2,Furnished,1144,13,19,High Rise,2023,2,South,15180000
+HP00223,Hyderabad,Row House,2,3,1,Unfurnished,998,0,2,Bungalow,2012,13,South,12150000
+HP01856,MMR,Apartment,1,2,2,Semi-Furnished,747,4,8,Gated Community,2025,0,South-East,18030000
+HP00125,Bengaluru,Apartment,2,3,1,Unfurnished,1131,11,32,High Rise,1990,35,North-East,11170000
+HP00857,MMR,Apartment,2,3,2,Unfurnished,1173,3,11,Mid Rise,2009,16,North,24990000
+HP00014,Kolkata,Studio,0,2,0,Unfurnished,332,2,21,High Rise,2018,7,North,2910000
+HP01628,Pune,Apartment,3,3,1,Semi-Furnished,1388,4,37,High Rise,2008,17,South-East,18230000
+HP01836,Kolkata,Penthouse,4,5,1,Unfurnished,1533,7,33,High Rise,2021,4,North,19420000
+HP01192,MMR,Studio,0,2,1,Unfurnished,383,1,7,Mid Rise,2007,18,South-West,6710000
+HP00662,Delhi NCR,Apartment,3,4,2,Unfurnished,1643,13,38,High Rise,2006,19,West,20220000
+HP00974,MMR,Studio,0,2,0,Semi-Furnished,450,8,9,Mid Rise,2025,0,North-East,9550000
+HP01754,Chennai,Apartment,4,5,1,Semi-Furnished,1414,3,9,Gated Community,2015,10,South,16340000
+HP00256,Delhi NCR,Apartment,3,4,1,Unfurnished,1007,1,2,Standalone Building,2005,20,North-West,11640000
+HP01949,Bengaluru,Penthouse,6,6,1,Semi-Furnished,2166,26,29,High Rise,2019,6,South-West,44720000
+HP01488,Chennai,Apartment,3,4,1,Semi-Furnished,1892,3,3,Standalone Building,2010,15,North,19630000
+HP02324,Chennai,Apartment,3,3,2,Semi-Furnished,1209,3,4,Standalone Building,2011,14,North-West,14750000
+HP01055,Kolkata,Apartment,3,3,2,Semi-Furnished,1778,5,17,High Rise,2009,16,North,15880000
+HP01895,Ahmedabad,Apartment,2,3,1,Semi-Furnished,756,3,11,Gated Community,2021,4,North-East,6580000
+HP00979,Kolkata,Row House,2,3,2,Unfurnished,1176,0,3,Bungalow,2025,0,North-West,15200000
+HP01906,Hyderabad,Villa,3,4,1,Semi-Furnished,1091,6,9,Gated Community,2025,0,North-West,16420000
+HP01693,Kolkata,Apartment,2,2,2,Unfurnished,755,5,12,Mid Rise,2018,7,North,7240000
+HP00856,Pune,Villa,3,3,2,Semi-Furnished,1346,2,8,Gated Community,2010,15,South,19720000
+HP01870,Kolkata,Apartment,2,3,1,Unfurnished,704,8,12,Gated Community,2017,8,South-East,7130000
+HP01462,Kolkata,Apartment,3,4,2,Semi-Furnished,1341,2,16,High Rise,2022,3,North-East,15290000
+HP02200,Ahmedabad,Apartment,2,2,2,Unfurnished,912,18,21,High Rise,2007,18,North,7300000
+HP01889,Chennai,Apartment,2,2,2,Unfurnished,1201,10,12,Mid Rise,2011,14,North-West,16790000
+HP00188,MMR,Studio,0,1,1,Unfurnished,317,1,4,Standalone Building,2012,13,North,5650000
+HP01234,Ahmedabad,Apartment,2,2,1,Unfurnished,1297,9,9,Mid Rise,2014,11,West,9800000
+HP01301,Delhi NCR,Studio,0,2,0,Furnished,505,32,38,High Rise,2017,8,West,7210000
+HP00772,Chennai,Apartment,3,4,2,Unfurnished,1502,8,30,High Rise,2013,12,South,17450000
+HP01632,Bengaluru,Apartment,2,2,1,Semi-Furnished,1200,21,22,High Rise,2006,19,South-West,14830000
+HP01896,Delhi NCR,Apartment,2,3,1,Unfurnished,1159,4,4,Low Rise,2009,16,South-West,14450000
+HP00513,Chennai,Row House,3,4,2,Furnished,1154,1,3,Low Rise,2019,6,South-West,15760000
+HP00935,Pune,Apartment,3,3,1,Unfurnished,1523,23,23,High Rise,2010,15,North-East,18130000
+HP00589,Delhi NCR,Apartment,1,1,3,Semi-Furnished,525,11,40,High Rise,2009,16,South-East,6380000
+HP00946,Chennai,Apartment,1,1,3,Semi-Furnished,646,2,3,Standalone Building,2015,10,North-East,9850000
+HP01944,Bengaluru,Apartment,3,4,1,Unfurnished,1081,17,17,High Rise,2007,18,South-East,13420000
+HP00296,Bengaluru,Apartment,4,5,2,Unfurnished,2053,21,25,High Rise,1997,28,South,23790000
+HP01382,Bengaluru,Apartment,4,5,1,Unfurnished,2573,23,26,High Rise,2015,10,West,35190000
+HP00838,Chennai,Apartment,3,4,2,Unfurnished,1164,8,8,Gated Community,2010,15,North-West,15700000
+HP00018,MMR,Villa,4,4,1,Unfurnished,1577,2,3,Low Rise,2025,0,East,38230000
+HP01154,Kolkata,Apartment,3,3,1,Unfurnished,1791,0,2,Low Rise,2016,9,East,19950000
+HP00535,Chennai,Apartment,3,4,2,Unfurnished,1112,14,26,High Rise,2006,19,South-East,13160000
+HP01599,Kolkata,Apartment,2,3,2,Semi-Furnished,857,3,6,Mid Rise,2012,13,North-East,9520000
+HP00754,Hyderabad,Apartment,2,2,3,Semi-Furnished,1058,0,2,Standalone Building,2016,9,South,11480000
+HP02106,Pune,Apartment,1,2,1,Unfurnished,785,6,7,Gated Community,2015,10,North-East,10280000
+HP01038,Kolkata,Apartment,2,3,2,Furnished,977,1,3,Standalone Building,2025,0,South-East,11410000
+HP00925,MMR,Villa,4,5,1,Unfurnished,2598,3,5,Low Rise,2007,18,North-East,62680000
+HP01981,Kolkata,Apartment,4,4,2,Semi-Furnished,1859,6,6,Gated Community,2013,12,North-East,19550000
+HP01008,Ahmedabad,Apartment,3,3,2,Semi-Furnished,1006,3,5,Low Rise,2012,13,East,7130000
+HP00968,Kolkata,Villa,3,4,2,Furnished,1187,0,1,Bungalow,2006,19,South-West,15060000
+HP00193,Chennai,Row House,3,3,3,Unfurnished,1859,6,10,Gated Community,2016,9,North-West,22350000
+HP00799,Kolkata,Independent House,3,3,2,Unfurnished,1335,6,10,Gated Community,2006,19,West,13260000
+HP00419,Pune,Apartment,3,4,1,Unfurnished,1044,10,12,Mid Rise,2013,12,North-West,14590000
+HP00578,Chennai,Apartment,3,4,2,Unfurnished,1088,3,3,Standalone Building,2007,18,East,13800000
+HP01387,Hyderabad,Apartment,3,4,1,Semi-Furnished,1077,2,2,Standalone Building,2009,16,North-East,10470000
+HP01767,Bengaluru,Apartment,2,2,2,Unfurnished,1189,6,6,Mid Rise,2025,0,South-West,16190000
+HP01849,Bengaluru,Independent House,6,7,2,Furnished,3650,0,3,Standalone Building,2005,20,North-East,45730000
+HP00579,Chennai,Apartment,3,4,1,Unfurnished,1596,5,19,High Rise,2002,23,West,17140000
+HP00957,Bengaluru,Independent House,3,4,2,Furnished,1884,5,5,Low Rise,2001,24,North,30330000
+HP00735,Pune,Apartment,2,2,1,Unfurnished,986,3,23,High Rise,2022,3,North-West,13910000
+HP00626,Pune,Independent House,2,3,2,Semi-Furnished,1164,0,3,Bungalow,2011,14,North-West,11860000
+HP00004,Chennai,Apartment,3,4,1,Semi-Furnished,1232,9,12,Gated Community,2025,0,South-East,16900000
+HP01198,Delhi NCR,Apartment,1,1,1,Furnished,652,12,15,High Rise,2017,8,West,7990000
+HP00003,Kolkata,Apartment,1,2,3,Semi-Furnished,574,2,4,Low Rise,2019,6,North,5440000
+HP01837,Delhi NCR,Row House,2,3,1,Semi-Furnished,1222,1,2,Standalone Building,2018,7,North-West,19770000
+HP00787,Chennai,Apartment,3,4,1,Furnished,1007,6,10,Mid Rise,2016,9,North-West,14920000
+HP00104,Kolkata,Penthouse,3,3,2,Unfurnished,1090,29,40,High Rise,2009,16,West,13090000
+HP00852,MMR,Apartment,3,4,1,Unfurnished,1810,5,12,Mid Rise,2017,8,South-West,50490000
+HP02188,Bengaluru,Villa,3,4,2,Furnished,1725,4,5,Low Rise,2019,6,South-East,31050000
+HP00559,MMR,Penthouse,4,5,3,Semi-Furnished,1510,19,22,High Rise,2006,19,West,49710000
+HP01159,Delhi NCR,Penthouse,4,5,3,Semi-Furnished,1733,21,26,High Rise,2012,13,South-East,31600000
+HP02108,MMR,Apartment,1,1,1,Semi-Furnished,581,3,6,Gated Community,2018,7,South-West,14310000
+HP01910,Ahmedabad,Studio,0,1,1,Semi-Furnished,382,3,6,Mid Rise,2003,22,North-East,2380000
+HP01761,Ahmedabad,Penthouse,4,5,1,Semi-Furnished,1997,25,33,High Rise,2020,5,North-West,20740000
+HP01108,Kolkata,Studio,0,2,0,Unfurnished,423,1,3,Standalone Building,2008,17,North,3930000
+HP01810,Pune,Penthouse,4,5,1,Unfurnished,1938,16,36,High Rise,2025,0,South,30270000
+HP01371,Ahmedabad,Apartment,1,1,1,Unfurnished,661,5,36,High Rise,2017,8,North-East,4170000
+HP02072,Kolkata,Studio,0,1,1,Unfurnished,483,11,25,High Rise,2008,17,West,4680000
+HP00472,Hyderabad,Apartment,1,2,3,Unfurnished,775,19,28,High Rise,2020,5,West,9080000
+HP01690,Delhi NCR,Apartment,1,2,2,Unfurnished,723,6,7,Mid Rise,1999,26,North-East,7510000
+HP01872,Delhi NCR,Villa,5,5,1,Furnished,2965,0,1,Bungalow,2016,9,West,44350000
+HP01498,Hyderabad,Apartment,1,1,1,Semi-Furnished,784,1,9,Gated Community,2021,4,East,7360000
+HP02341,MMR,Independent House,3,3,1,Unfurnished,1585,0,2,Bungalow,2014,11,North,36010000
+HP02073,Ahmedabad,Villa,2,3,3,Unfurnished,920,0,3,Standalone Building,2022,3,North-East,8000000
+HP01128,MMR,Apartment,1,2,2,Unfurnished,585,0,4,Standalone Building,2008,17,North-East,12070000
+HP00867,Chennai,Apartment,1,2,2,Semi-Furnished,619,26,33,High Rise,2016,9,West,7580000
+HP00671,Pune,Apartment,4,5,2,Semi-Furnished,2137,4,12,Gated Community,2025,0,North-West,31980000
+HP01723,Chennai,Row House,1,2,1,Semi-Furnished,713,8,8,Gated Community,2004,21,North-West,8850000
+HP01865,Kolkata,Apartment,2,3,2,Unfurnished,1000,23,30,High Rise,2021,4,East,11630000
+HP01122,Chennai,Apartment,2,2,3,Unfurnished,1163,7,10,Mid Rise,2015,10,West,15630000
+HP01092,Delhi NCR,Row House,2,3,1,Unfurnished,979,3,10,Gated Community,2016,9,North,11820000
+HP01446,Hyderabad,Apartment,2,3,1,Semi-Furnished,1144,2,6,Gated Community,2018,7,North,11220000
+HP00942,Bengaluru,Row House,3,3,2,Furnished,1259,2,4,Standalone Building,2016,9,North-West,20080000
+HP01088,Chennai,Apartment,3,3,2,Unfurnished,1782,2,4,Standalone Building,2025,0,North,28120000
+HP00814,Hyderabad,Apartment,1,2,1,Semi-Furnished,523,6,6,Mid Rise,2009,16,West,5640000
+HP00900,Delhi NCR,Apartment,2,3,1,Unfurnished,1155,1,3,Standalone Building,2012,13,South,12360000
+HP01189,MMR,Apartment,1,1,1,Furnished,474,4,4,Standalone Building,2011,14,West,10840000
+HP02067,MMR,Apartment,2,3,1,Unfurnished,842,1,2,Standalone Building,2019,6,South-West,19750000
+HP00660,Hyderabad,Apartment,2,3,3,Semi-Furnished,767,12,17,High Rise,2025,0,North-West,10060000
+HP01590,Delhi NCR,Apartment,1,1,1,Semi-Furnished,570,3,8,Gated Community,2010,15,South,8200000
+HP00839,Hyderabad,Penthouse,3,3,2,Unfurnished,1539,34,37,High Rise,2010,15,North,21390000
+HP00830,MMR,Apartment,3,4,2,Furnished,1441,9,28,High Rise,2014,11,North-West,34760000
+HP00241,Pune,Penthouse,5,6,1,Unfurnished,3566,3,14,High Rise,2018,7,South,57390000
+HP01028,Hyderabad,Apartment,3,4,1,Semi-Furnished,1420,1,2,Standalone Building,2019,6,South,15710000
+HP02233,Kolkata,Apartment,4,5,2,Unfurnished,1953,9,12,Mid Rise,2025,0,South,22800000
+HP00891,Kolkata,Villa,2,2,2,Furnished,1199,5,7,Gated Community,2009,16,North-East,15810000
+HP01659,Chennai,Penthouse,5,6,1,Semi-Furnished,2189,9,17,High Rise,2021,4,South-West,36610000
+HP01961,Chennai,Apartment,3,4,2,Unfurnished,1401,6,8,Mid Rise,2018,7,South-West,21660000
+HP01235,Delhi NCR,Apartment,1,2,3,Semi-Furnished,585,15,25,High Rise,2018,7,East,7800000
+HP01768,Ahmedabad,Apartment,2,3,2,Semi-Furnished,1035,2,8,Mid Rise,2011,14,North-East,6210000
+HP01233,Bengaluru,Row House,3,4,2,Semi-Furnished,1612,5,7,Gated Community,2014,11,North-East,22840000
+HP01316,Hyderabad,Apartment,4,5,1,Unfurnished,2231,14,19,High Rise,2014,11,South-East,25550000
+HP02178,Bengaluru,Independent House,3,3,1,Unfurnished,1645,0,3,Bungalow,2023,2,South,21580000
+HP01268,MMR,Studio,0,2,0,Semi-Furnished,313,13,31,High Rise,2004,21,West,6840000
+HP00396,MMR,Independent House,5,5,1,Unfurnished,2475,2,7,Gated Community,2009,16,North-West,65010000
+HP00923,Delhi NCR,Penthouse,4,5,1,Unfurnished,2411,8,14,High Rise,2019,6,South-East,44110000
+HP00217,Chennai,Apartment,1,1,1,Furnished,595,6,10,Mid Rise,2010,15,South,7050000
+HP01717,Bengaluru,Apartment,1,1,1,Semi-Furnished,771,3,5,Standalone Building,2014,11,South-East,8840000
+HP00096,Kolkata,Villa,3,3,2,Unfurnished,1756,3,3,Standalone Building,2014,11,East,23470000
+HP00151,Pune,Penthouse,3,4,2,Unfurnished,1484,7,38,High Rise,2025,0,South-East,25860000
+HP00278,Ahmedabad,Villa,4,4,1,Unfurnished,2198,4,12,Gated Community,2023,2,East,22920000
+HP01424,Hyderabad,Apartment,2,2,1,Semi-Furnished,921,2,16,High Rise,1999,26,East,11200000
+HP00210,Chennai,Apartment,2,3,1,Semi-Furnished,772,3,10,Gated Community,2023,2,South-West,11480000
+HP00440,Kolkata,Apartment,3,3,1,Semi-Furnished,1839,23,40,High Rise,2014,11,South-West,18830000
+HP01135,Ahmedabad,Studio,0,1,0,Unfurnished,383,9,14,High Rise,2007,18,South-West,2450000
+HP00966,Bengaluru,Apartment,4,4,1,Unfurnished,2258,1,3,Standalone Building,2013,12,East,26250000
+HP02214,Delhi NCR,Studio,0,2,1,Furnished,318,9,24,High Rise,2004,21,West,4140000
+HP01955,Bengaluru,Villa,4,4,2,Unfurnished,1583,5,6,Gated Community,2013,12,South-East,19530000
+HP00392,Kolkata,Apartment,1,1,1,Semi-Furnished,626,6,6,Mid Rise,2016,9,North-West,5830000
+HP02101,MMR,Independent House,5,6,1,Unfurnished,4172,2,5,Standalone Building,2020,5,East,104110000
+HP01669,Hyderabad,Villa,5,6,1,Unfurnished,3080,2,4,Standalone Building,2018,7,North,38740000
+HP01079,Kolkata,Studio,0,1,1,Unfurnished,535,3,34,High Rise,2014,11,East,6400000
+HP01294,Kolkata,Villa,3,3,1,Unfurnished,1713,0,2,Standalone Building,2009,16,South-West,22020000
+HP00635,Kolkata,Apartment,2,3,3,Unfurnished,968,14,28,High Rise,2006,19,West,8720000
+HP02265,Hyderabad,Apartment,1,2,1,Unfurnished,495,13,18,High Rise,2008,17,South-West,5080000
+HP01618,Chennai,Apartment,2,2,1,Semi-Furnished,975,10,10,Mid Rise,2017,8,South,11290000
+HP01104,Chennai,Apartment,4,4,2,Semi-Furnished,2532,7,8,Gated Community,2009,16,South-East,26950000
+HP02075,Bengaluru,Apartment,2,3,1,Semi-Furnished,1166,2,10,Mid Rise,2013,12,East,14730000
+HP01434,MMR,Apartment,2,3,2,Semi-Furnished,717,0,3,Standalone Building,2005,20,West,18530000
+HP00829,Pune,Villa,4,4,1,Unfurnished,2583,0,2,Bungalow,2021,4,North,38360000
+HP00140,Ahmedabad,Apartment,3,3,1,Unfurnished,1742,8,10,Gated Community,2009,16,East,12220000
+HP02280,MMR,Apartment,2,2,2,Semi-Furnished,1259,15,20,High Rise,2023,2,North-East,32760000
+HP01815,Bengaluru,Penthouse,3,4,1,Furnished,1707,24,32,High Rise,2007,18,East,23780000
+HP00740,MMR,Apartment,3,3,1,Furnished,1655,0,4,Standalone Building,2004,21,East,35070000
+HP01151,Pune,Row House,2,2,3,Furnished,796,5,5,Low Rise,2018,7,South,11600000
+HP00526,Ahmedabad,Apartment,3,3,2,Unfurnished,1569,0,2,Standalone Building,2020,5,East,9270000
+HP01657,Chennai,Apartment,3,3,3,Semi-Furnished,1781,2,7,Gated Community,2016,9,South-West,21240000
+HP00515,Kolkata,Apartment,3,4,1,Semi-Furnished,1089,1,4,Standalone Building,2018,7,North,14100000
+HP01068,Delhi NCR,Apartment,2,2,1,Unfurnished,1249,2,2,Standalone Building,2016,9,West,15240000
+HP02308,Pune,Apartment,2,3,2,Unfurnished,1263,4,5,Low Rise,2024,1,South,13860000
+HP01635,Kolkata,Apartment,2,3,1,Unfurnished,766,3,3,Standalone Building,2006,19,South-East,6610000
+HP02264,Kolkata,Penthouse,6,6,2,Unfurnished,3869,9,18,High Rise,2024,1,West,65100000
+HP01928,Ahmedabad,Apartment,2,3,1,Semi-Furnished,1046,7,18,High Rise,2025,0,South-West,8810000
+HP01702,Kolkata,Independent House,3,3,1,Semi-Furnished,1537,0,1,Bungalow,2012,13,South-East,17200000
+HP01429,Delhi NCR,Apartment,3,3,2,Furnished,1620,2,7,Mid Rise,2018,7,North,22770000
+HP00093,Bengaluru,Apartment,2,3,1,Unfurnished,1067,3,11,Mid Rise,1996,29,East,12550000
+HP00821,Hyderabad,Penthouse,4,4,2,Unfurnished,1489,34,35,High Rise,2025,0,North-West,25380000
+HP00117,Bengaluru,Apartment,3,4,1,Semi-Furnished,1712,7,8,Gated Community,2014,11,East,18580000
+HP00305,Hyderabad,Independent House,4,5,1,Semi-Furnished,1876,7,10,Gated Community,2010,15,North,23000000
+HP00813,Delhi NCR,Apartment,2,3,2,Semi-Furnished,859,23,25,High Rise,2013,12,East,12140000
+HP00011,Ahmedabad,Apartment,2,2,3,Semi-Furnished,827,8,39,High Rise,2003,22,North-East,6390000
+HP00172,Chennai,Studio,0,1,0,Semi-Furnished,449,3,4,Standalone Building,2008,17,North-West,5980000
+HP00654,Bengaluru,Row House,2,2,1,Semi-Furnished,873,0,2,Bungalow,2010,15,South-East,12020000
+HP00546,Pune,Apartment,2,3,1,Unfurnished,750,7,7,Mid Rise,1987,38,South-East,8580000
+HP01465,Ahmedabad,Apartment,2,3,2,Unfurnished,938,21,25,High Rise,2025,0,South-East,7620000
+HP01463,Ahmedabad,Apartment,3,4,1,Unfurnished,1598,8,8,Gated Community,2019,6,North-West,10980000
+HP01631,Hyderabad,Apartment,3,4,2,Unfurnished,1219,4,10,Mid Rise,2009,16,South-East,15090000
+HP01134,Bengaluru,Apartment,3,4,2,Semi-Furnished,1274,3,7,Mid Rise,2015,10,North,16770000
+HP00789,Ahmedabad,Apartment,3,4,2,Semi-Furnished,1331,25,25,High Rise,2016,9,South,9750000
+HP02210,Chennai,Apartment,2,3,2,Unfurnished,785,16,39,High Rise,2021,4,South-West,9850000
+HP00597,Delhi NCR,Studio,0,2,1,Unfurnished,430,18,36,High Rise,2014,11,North-East,4360000
+HP00060,Chennai,Row House,3,4,2,Furnished,1704,4,5,Standalone Building,2025,0,South-West,31150000
+HP02295,Bengaluru,Apartment,2,2,2,Furnished,730,5,6,Mid Rise,1997,28,North,8410000
+HP00129,Kolkata,Studio,0,2,1,Semi-Furnished,338,1,3,Standalone Building,2025,0,North-West,2990000
+HP01730,Pune,Studio,0,2,1,Unfurnished,305,10,16,High Rise,2022,3,South-West,4020000
+HP01506,Ahmedabad,Apartment,2,2,1,Semi-Furnished,1220,3,3,Low Rise,2025,0,South-West,10340000
+HP02124,Pune,Villa,4,5,2,Unfurnished,2110,3,5,Standalone Building,2023,2,South,34500000
+HP00266,Ahmedabad,Row House,1,2,1,Unfurnished,587,0,1,Bungalow,2016,9,North-East,4710000
+HP01863,Ahmedabad,Apartment,3,4,1,Unfurnished,1439,7,24,High Rise,2020,5,East,10090000
+HP01939,MMR,Independent House,6,6,1,Furnished,2079,7,10,Gated Community,2007,18,South,45830000
+HP00050,Delhi NCR,Apartment,4,5,1,Furnished,2460,4,6,Mid Rise,2023,2,South,39150000
+HP01338,Bengaluru,Penthouse,3,3,2,Furnished,1800,6,13,High Rise,2006,19,South-East,32610000
+HP01363,Kolkata,Apartment,4,5,1,Semi-Furnished,1766,12,16,High Rise,2023,2,South-East,21700000
+HP00709,Ahmedabad,Row House,3,4,2,Unfurnished,1758,0,1,Bungalow,2021,4,North,12610000
+HP00599,MMR,Apartment,3,4,2,Semi-Furnished,1277,1,2,Standalone Building,2024,1,East,28590000
+HP01598,Hyderabad,Apartment,3,3,1,Unfurnished,1304,8,8,Mid Rise,2025,0,North-West,16040000
+HP01674,Bengaluru,Apartment,1,2,1,Furnished,499,4,5,Standalone Building,2025,0,West,6210000
+HP01190,Hyderabad,Apartment,2,3,1,Unfurnished,1181,2,6,Mid Rise,2020,5,North,12380000
+HP01290,Kolkata,Apartment,1,1,1,Unfurnished,489,3,12,Mid Rise,2015,10,South-East,5710000
+HP02170,Delhi NCR,Apartment,2,2,2,Furnished,1174,16,21,High Rise,2023,2,East,16620000
+HP01518,Ahmedabad,Penthouse,3,4,2,Unfurnished,1107,5,27,High Rise,2025,0,North,11330000
+HP01241,Hyderabad,Apartment,3,4,1,Unfurnished,1138,8,9,Mid Rise,2000,25,East,11180000
+HP01300,Bengaluru,Apartment,1,1,1,Semi-Furnished,800,0,2,Standalone Building,2011,14,North-West,8510000
+HP00052,Chennai,Penthouse,4,5,2,Semi-Furnished,1488,18,39,High Rise,2025,0,North-West,27840000
+HP01539,Bengaluru,Independent House,3,3,2,Semi-Furnished,1431,0,2,Bungalow,2019,6,North,18010000
+HP00627,Chennai,Independent House,4,4,2,Semi-Furnished,1969,4,4,Low Rise,2005,20,North-East,20550000
+HP01183,Bengaluru,Apartment,2,3,2,Furnished,1194,2,6,Gated Community,2005,20,South-West,16390000
+HP00111,Kolkata,Row House,2,3,2,Semi-Furnished,887,0,1,Bungalow,2014,11,North-East,10080000
+HP02192,Delhi NCR,Villa,3,3,2,Semi-Furnished,1433,0,3,Bungalow,2005,20,West,25960000
+HP01433,Hyderabad,Apartment,4,4,1,Semi-Furnished,1408,6,6,Gated Community,2022,3,West,16330000
+HP01201,Delhi NCR,Penthouse,2,3,1,Semi-Furnished,993,16,21,High Rise,2009,16,South-East,17410000
+HP00265,Ahmedabad,Apartment,2,2,3,Semi-Furnished,1164,9,12,Gated Community,2018,7,South-West,8810000
+HP00428,Chennai,Independent House,5,6,1,Unfurnished,2508,0,1,Bungalow,2019,6,South-West,30390000
+HP00680,Hyderabad,Apartment,3,4,2,Unfurnished,1372,4,10,Mid Rise,2008,17,North-West,14010000
+HP02105,MMR,Penthouse,3,4,1,Semi-Furnished,1529,9,30,High Rise,2023,2,North-East,58000000
+HP00629,Pune,Independent House,2,2,2,Semi-Furnished,1051,0,1,Bungalow,2015,10,West,14330000
+HP02340,Bengaluru,Apartment,2,2,2,Unfurnished,1075,1,7,Gated Community,2000,25,West,12160000
+HP01440,Kolkata,Row House,2,3,3,Semi-Furnished,1094,0,3,Bungalow,2010,15,South-East,15500000
+HP00873,Chennai,Apartment,2,2,1,Unfurnished,1149,4,7,Mid Rise,2021,4,North-East,14200000
+HP00604,Ahmedabad,Row House,2,3,3,Unfurnished,1039,3,10,Gated Community,2016,9,North-West,9420000
+HP01166,Ahmedabad,Independent House,4,4,2,Unfurnished,1419,2,10,Gated Community,2022,3,West,10240000
+HP00221,Bengaluru,Apartment,4,5,2,Unfurnished,1449,4,17,High Rise,2009,16,North-East,16140000
+HP01751,Bengaluru,Independent House,4,5,1,Semi-Furnished,2162,2,5,Standalone Building,2008,17,North,26380000
+HP00683,Pune,Villa,3,4,2,Unfurnished,1048,4,10,Gated Community,2009,16,West,13600000
+HP01101,MMR,Apartment,4,5,1,Semi-Furnished,1607,6,25,High Rise,2010,15,North-East,38080000
+HP00788,Ahmedabad,Apartment,1,2,1,Semi-Furnished,547,3,12,Gated Community,2013,12,North,3410000
+HP00752,Delhi NCR,Penthouse,4,5,3,Unfurnished,1587,8,16,High Rise,2025,0,North-East,27420000
+HP01796,Pune,Apartment,1,1,1,Unfurnished,785,2,11,Gated Community,1994,31,East,9530000
+HP00805,MMR,Apartment,2,3,2,Semi-Furnished,1177,3,4,Standalone Building,2012,13,South-East,25250000
+HP02035,Chennai,Independent House,5,5,1,Unfurnished,3752,2,6,Gated Community,2017,8,South-East,44390000
+HP01834,Chennai,Apartment,1,2,2,Unfurnished,532,22,23,High Rise,2016,9,East,6140000
+HP01869,Hyderabad,Penthouse,5,6,1,Semi-Furnished,2112,7,14,High Rise,2015,10,South-West,32390000
+HP01402,Delhi NCR,Penthouse,4,5,2,Semi-Furnished,2152,14,23,High Rise,1998,27,North,32610000
+HP00271,Kolkata,Apartment,2,3,1,Semi-Furnished,1041,3,9,Mid Rise,2006,19,East,11190000
+HP00468,Ahmedabad,Studio,0,2,1,Unfurnished,500,27,39,High Rise,2013,12,North-West,3160000
+HP00731,Kolkata,Apartment,2,3,2,Semi-Furnished,1117,3,3,Standalone Building,2006,19,North-West,14290000
+HP01458,Chennai,Apartment,3,3,2,Semi-Furnished,1677,2,11,Gated Community,2007,18,West,19130000
+HP00257,Chennai,Apartment,4,5,2,Furnished,2452,6,13,High Rise,2023,2,North-East,38390000
+HP01466,Hyderabad,Apartment,2,3,2,Semi-Furnished,1166,32,35,High Rise,2013,12,North-East,14280000
+HP00954,Kolkata,Apartment,2,3,2,Semi-Furnished,1210,6,9,Gated Community,2007,18,South,11530000
+HP00883,Bengaluru,Studio,0,2,0,Semi-Furnished,548,20,32,High Rise,2019,6,South,6840000
+HP01280,Pune,Penthouse,4,4,3,Unfurnished,2584,28,37,High Rise,2025,0,South-West,49440000
+HP00239,Hyderabad,Apartment,2,2,1,Unfurnished,1045,2,2,Standalone Building,2012,13,South,12660000
+HP02253,MMR,Apartment,3,4,1,Unfurnished,1484,5,10,Mid Rise,2005,20,East,29690000
+HP01547,Ahmedabad,Apartment,2,2,3,Semi-Furnished,1250,4,12,High Rise,2022,3,South-West,10110000
+HP00400,Pune,Apartment,1,1,1,Unfurnished,571,5,12,Mid Rise,2001,24,North,7460000
+HP00531,Ahmedabad,Apartment,4,4,1,Unfurnished,1739,5,5,Low Rise,2016,9,South,11900000
+HP00105,Hyderabad,Apartment,4,4,1,Unfurnished,2100,6,8,Mid Rise,2025,0,North,25930000
+HP02017,Delhi NCR,Apartment,3,4,1,Semi-Furnished,1552,0,2,Standalone Building,2007,18,West,18940000
+HP01417,Chennai,Independent House,4,5,3,Unfurnished,1897,0,3,Bungalow,2011,14,North-East,26950000
+HP00413,Kolkata,Apartment,2,2,3,Unfurnished,1220,0,3,Standalone Building,2015,10,South-East,14090000
+HP01378,Delhi NCR,Apartment,2,2,1,Furnished,1063,7,7,Mid Rise,2017,8,North-West,15310000
+HP02033,Chennai,Penthouse,3,3,2,Semi-Furnished,1053,34,34,High Rise,2009,16,East,16610000
+HP00120,MMR,Row House,2,3,2,Unfurnished,937,0,3,Bungalow,2019,6,West,23270000
+HP00382,Pune,Apartment,2,3,1,Furnished,731,2,3,Standalone Building,2019,6,South-East,9000000
+HP00903,Ahmedabad,Villa,3,4,1,Unfurnished,1186,0,1,Bungalow,2011,14,North-East,10880000
+HP02025,MMR,Penthouse,2,3,2,Unfurnished,884,1,16,High Rise,2025,0,North-West,31510000
+HP01692,MMR,Apartment,1,1,1,Semi-Furnished,568,8,9,Gated Community,2016,9,East,15010000
+HP00175,Hyderabad,Apartment,1,2,1,Semi-Furnished,513,12,15,High Rise,2008,17,South,5930000
+HP01146,MMR,Apartment,3,3,1,Unfurnished,1072,4,12,Mid Rise,2019,6,North-East,23420000
+HP00773,Delhi NCR,Penthouse,3,3,3,Furnished,1215,22,25,High Rise,2014,11,West,24650000
+HP01438,Kolkata,Villa,4,4,1,Semi-Furnished,1404,0,3,Bungalow,2018,7,East,22690000
+HP01918,Delhi NCR,Apartment,3,3,2,Unfurnished,1169,5,6,Gated Community,1996,29,South,12660000
+HP00736,Chennai,Apartment,2,3,1,Furnished,1198,3,8,Gated Community,2024,1,West,17100000
+HP01525,MMR,Penthouse,3,3,2,Semi-Furnished,1705,15,17,High Rise,2017,8,South-West,48380000
+HP02223,Chennai,Apartment,3,3,1,Unfurnished,1342,8,8,Gated Community,2016,9,North,14920000
+HP01948,Hyderabad,Apartment,2,2,2,Semi-Furnished,779,5,12,High Rise,1995,30,South,7340000
+HP00965,Ahmedabad,Studio,0,2,0,Unfurnished,310,21,39,High Rise,2014,11,West,2000000
+HP01824,Delhi NCR,Apartment,3,3,2,Furnished,1643,7,8,Gated Community,2015,10,South,25730000
+HP00423,Ahmedabad,Apartment,4,5,2,Unfurnished,2556,3,5,Standalone Building,2019,6,West,19410000
+HP01941,Delhi NCR,Independent House,2,3,1,Furnished,1112,3,5,Standalone Building,2013,12,North-East,16730000
+HP01200,Chennai,Apartment,3,4,1,Semi-Furnished,1419,8,10,Mid Rise,2005,20,South,19420000
+HP01358,Hyderabad,Apartment,2,3,1,Semi-Furnished,1279,7,12,High Rise,2014,11,North,15710000
+HP01953,Ahmedabad,Independent House,5,6,3,Unfurnished,2466,1,2,Standalone Building,2025,0,North-West,19110000
+HP02161,Bengaluru,Villa,4,4,3,Semi-Furnished,2102,8,8,Gated Community,2021,4,South-West,36840000
+HP01490,Bengaluru,Independent House,3,4,1,Unfurnished,1631,0,1,Bungalow,2009,16,North-East,20810000
+HP01351,Chennai,Apartment,1,2,1,Semi-Furnished,476,6,30,High Rise,2001,24,East,5570000
+HP01227,Pune,Apartment,2,2,1,Semi-Furnished,1021,8,32,High Rise,2008,17,East,11580000
+HP00209,Delhi NCR,Penthouse,5,6,2,Furnished,2597,22,23,High Rise,2018,7,West,63870000
+HP01755,Pune,Independent House,5,6,1,Furnished,1883,1,4,Standalone Building,2025,0,North-East,33200000
+HP01987,Kolkata,Apartment,2,3,1,Semi-Furnished,794,5,9,Gated Community,2025,0,South-West,8800000
+HP01142,Ahmedabad,Apartment,1,1,3,Unfurnished,597,2,2,Low Rise,2025,0,South,4240000
+HP01364,Pune,Apartment,1,2,2,Semi-Furnished,549,2,10,Mid Rise,2021,4,North-West,7550000
+HP02325,Bengaluru,Apartment,2,3,2,Semi-Furnished,782,5,7,Mid Rise,2017,8,North-East,10420000
+HP00357,Chennai,Apartment,3,3,1,Semi-Furnished,1578,6,9,Mid Rise,2011,14,North-East,20940000
+HP00665,Bengaluru,Apartment,3,4,3,Furnished,1269,1,4,Standalone Building,2009,16,North-East,12590000
+HP01439,MMR,Studio,0,2,0,Semi-Furnished,349,6,7,Mid Rise,2010,15,East,8700000
+HP01509,Bengaluru,Studio,0,1,0,Unfurnished,506,16,27,High Rise,2013,12,North-West,6350000
+HP01102,Ahmedabad,Apartment,4,5,1,Semi-Furnished,1953,2,6,Gated Community,2013,12,South-East,14650000
+HP01686,Chennai,Apartment,2,3,2,Semi-Furnished,1153,12,38,High Rise,2003,22,South-West,12290000
+HP01749,Delhi NCR,Apartment,3,4,1,Semi-Furnished,1274,1,3,Standalone Building,2019,6,West,20330000
+HP00995,Pune,Apartment,2,2,2,Semi-Furnished,728,1,4,Standalone Building,2012,13,West,8590000
+HP01261,Chennai,Villa,4,4,2,Semi-Furnished,2153,0,3,Bungalow,2010,15,East,32560000
+HP01756,Chennai,Villa,4,5,2,Furnished,1906,3,5,Standalone Building,2019,6,North,28860000
+HP02300,Ahmedabad,Apartment,3,3,2,Unfurnished,1551,2,4,Low Rise,2019,6,North-West,10450000
+HP00301,Bengaluru,Apartment,2,2,1,Furnished,1022,5,6,Gated Community,2025,0,North-West,15850000
+HP01781,Chennai,Villa,2,2,1,Unfurnished,1187,0,3,Bungalow,2008,17,North,14740000
+HP00425,Bengaluru,Studio,0,1,0,Furnished,362,7,8,Mid Rise,2011,14,East,4230000
+HP01808,Kolkata,Studio,0,2,1,Unfurnished,469,25,34,High Rise,2015,10,North,4420000
+HP00655,Ahmedabad,Apartment,3,3,1,Semi-Furnished,1653,6,8,Mid Rise,1991,34,West,10750000
+HP01365,Chennai,Apartment,1,2,2,Unfurnished,682,5,7,Mid Rise,2011,14,West,7290000
+HP01113,Kolkata,Apartment,2,2,3,Unfurnished,1245,5,8,Mid Rise,2014,11,South-East,12720000
+HP02195,Chennai,Row House,3,3,1,Unfurnished,1111,2,4,Low Rise,2024,1,West,15460000
+HP02179,MMR,Penthouse,5,5,1,Unfurnished,3921,19,19,High Rise,2013,12,South-East,93340000
+HP01254,Bengaluru,Independent House,2,2,1,Semi-Furnished,926,2,4,Low Rise,2020,5,East,12410000
+HP01740,Delhi NCR,Apartment,2,3,1,Unfurnished,873,23,29,High Rise,2016,9,West,13330000
+HP01197,Delhi NCR,Apartment,2,3,2,Semi-Furnished,858,13,20,High Rise,2022,3,South-West,12890000
+HP01276,Pune,Independent House,4,4,2,Semi-Furnished,1734,5,10,Gated Community,2015,10,North-West,20760000
+HP01352,Bengaluru,Apartment,3,4,1,Semi-Furnished,1639,2,2,Standalone Building,2007,18,North-West,18220000
+HP02266,Delhi NCR,Apartment,2,3,3,Furnished,953,1,40,High Rise,2019,6,South,13000000
+HP01345,Kolkata,Row House,2,3,1,Unfurnished,719,0,3,Bungalow,2025,0,East,9830000
+HP02046,Chennai,Apartment,4,5,2,Semi-Furnished,2000,5,9,Mid Rise,2002,23,South-East,24600000
+HP00341,Delhi NCR,Studio,0,2,0,Unfurnished,509,6,14,High Rise,2003,22,South,5880000
+HP01161,Ahmedabad,Apartment,2,2,2,Semi-Furnished,763,16,35,High Rise,2008,17,South,5100000
+HP00338,Hyderabad,Apartment,3,3,2,Semi-Furnished,1087,6,11,Gated Community,2018,7,North-East,12120000
+HP01775,Hyderabad,Apartment,4,4,1,Semi-Furnished,1532,2,6,Mid Rise,2014,11,North,16660000
+HP01912,Kolkata,Apartment,3,4,2,Furnished,1791,8,10,Gated Community,2006,19,North-West,19910000
+HP00875,Bengaluru,Apartment,2,2,1,Semi-Furnished,708,8,20,High Rise,2022,3,North-West,10000000
+HP00216,Ahmedabad,Apartment,1,2,1,Semi-Furnished,570,1,6,Gated Community,2019,6,South-West,4900000
+HP01552,Hyderabad,Villa,2,2,2,Semi-Furnished,708,2,4,Standalone Building,2018,7,South-East,10420000
+HP02275,Pune,Independent House,4,4,2,Semi-Furnished,2108,0,1,Bungalow,2012,13,South,27910000
+HP01908,MMR,Studio,0,2,1,Semi-Furnished,361,5,16,High Rise,2010,15,North,6820000
+HP00079,Kolkata,Apartment,2,3,2,Unfurnished,876,7,25,High Rise,2009,16,North-East,7370000
+HP01743,Chennai,Penthouse,3,4,1,Unfurnished,1546,13,16,High Rise,2025,0,South-West,27520000
+HP00704,Hyderabad,Apartment,2,3,1,Unfurnished,1046,1,8,Gated Community,2012,13,South-West,11330000
+HP00565,Ahmedabad,Penthouse,6,6,2,Unfurnished,2240,7,31,High Rise,2006,19,West,20140000
+HP02238,Hyderabad,Apartment,2,2,1,Semi-Furnished,808,8,12,Mid Rise,2016,9,West,9060000
+HP00520,Chennai,Apartment,2,3,1,Furnished,1211,6,9,Mid Rise,2016,9,South-West,15050000
+HP01784,MMR,Apartment,4,5,1,Furnished,1977,7,11,Gated Community,2015,10,West,52210000
+HP00692,Kolkata,Independent House,2,3,3,Semi-Furnished,1082,0,1,Bungalow,2017,8,South-East,12270000
+HP00663,Ahmedabad,Apartment,3,4,2,Unfurnished,1624,6,32,High Rise,2025,0,South-West,13760000
+HP00767,MMR,Apartment,2,3,2,Unfurnished,1172,1,6,Mid Rise,2008,17,North,26870000
+HP01282,Pune,Independent House,4,4,2,Semi-Furnished,2088,2,12,Gated Community,2012,13,West,26330000
+HP01337,Ahmedabad,Apartment,2,2,1,Unfurnished,1164,2,7,Mid Rise,2025,0,South-West,9250000
+HP00020,Hyderabad,Apartment,2,2,1,Semi-Furnished,1002,12,13,High Rise,2010,15,South,11950000
+HP00424,Ahmedabad,Villa,3,3,1,Unfurnished,1424,1,5,Standalone Building,2021,4,West,12880000
+HP01562,Kolkata,Apartment,4,5,3,Semi-Furnished,2376,14,16,High Rise,2017,8,South-East,30780000
+HP01933,Kolkata,Studio,0,1,1,Semi-Furnished,444,1,12,High Rise,2014,11,South-West,4090000
+HP01112,Kolkata,Apartment,3,3,1,Semi-Furnished,1145,2,11,Mid Rise,2025,0,East,12000000
+HP01203,Kolkata,Apartment,4,5,1,Semi-Furnished,1832,10,11,Mid Rise,2018,7,North-East,22210000
+HP02140,Chennai,Apartment,3,3,1,Semi-Furnished,1757,6,11,Gated Community,2017,8,North-West,23010000
+HP02267,Kolkata,Apartment,1,1,3,Unfurnished,491,3,9,Gated Community,2025,0,North-East,6460000
+HP00619,Chennai,Apartment,3,4,1,Unfurnished,1871,24,34,High Rise,2007,18,North,25560000
+HP01913,Bengaluru,Apartment,2,3,1,Unfurnished,1034,4,16,High Rise,2014,11,East,12300000
+HP00750,Hyderabad,Studio,0,1,1,Semi-Furnished,411,4,7,Mid Rise,2004,21,South,3960000
+HP01811,Bengaluru,Apartment,2,2,2,Unfurnished,748,6,7,Gated Community,2018,7,North-East,10010000
+HP01728,Kolkata,Villa,3,3,1,Semi-Furnished,1644,1,2,Standalone Building,2012,13,South-West,23410000
+HP00890,Ahmedabad,Apartment,2,3,2,Semi-Furnished,847,4,12,High Rise,2015,10,South,5910000
+HP02201,Ahmedabad,Studio,0,2,0,Unfurnished,426,4,11,Mid Rise,2016,9,South-West,2740000
+HP01040,Ahmedabad,Independent House,3,4,2,Semi-Furnished,1318,3,3,Standalone Building,2014,11,North,9760000
+HP00263,Ahmedabad,Apartment,2,3,1,Unfurnished,886,12,12,Mid Rise,2022,3,North-West,6650000
+HP01976,MMR,Apartment,2,2,1,Unfurnished,856,4,6,Gated Community,2025,0,West,17250000
+HP00409,Pune,Apartment,2,3,1,Unfurnished,1201,3,10,Gated Community,2010,15,West,15630000
+HP01051,MMR,Apartment,4,4,2,Semi-Furnished,1665,14,18,High Rise,2018,7,North-West,43400000
+HP01267,Ahmedabad,Studio,0,1,1,Unfurnished,379,7,7,Mid Rise,2021,4,North-East,2540000
+HP00238,Pune,Apartment,2,3,2,Unfurnished,1176,24,35,High Rise,2013,12,South,14480000
+HP02357,Chennai,Row House,3,4,2,Semi-Furnished,1703,2,5,Standalone Building,2018,7,East,24770000
+HP02232,Chennai,Penthouse,4,4,2,Semi-Furnished,2060,2,29,High Rise,2021,4,South-West,41070000
+HP00388,Delhi NCR,Apartment,2,2,1,Semi-Furnished,1129,4,21,High Rise,2014,11,North-East,14520000
+HP00237,Kolkata,Studio,0,1,0,Unfurnished,365,8,29,High Rise,2020,5,South,3660000
+HP00054,Hyderabad,Independent House,3,3,3,Semi-Furnished,1116,8,9,Gated Community,2013,12,East,11640000
+HP00550,Kolkata,Row House,2,3,1,Furnished,902,0,5,Low Rise,2025,0,North-West,14820000
+HP02034,Kolkata,Row House,2,3,1,Furnished,737,2,12,Gated Community,2004,21,North-West,9150000
+HP01907,Bengaluru,Independent House,2,3,2,Unfurnished,1222,0,1,Bungalow,2006,19,South,13940000
+HP01448,MMR,Apartment,2,2,1,Semi-Furnished,1143,7,18,High Rise,2017,8,South,25410000
+HP01549,Ahmedabad,Apartment,4,5,1,Semi-Furnished,2568,1,10,Gated Community,2022,3,North-East,21330000
+HP00371,Chennai,Apartment,2,2,1,Furnished,1074,0,4,Standalone Building,2017,8,South,13790000
+HP00555,Pune,Studio,0,2,1,Semi-Furnished,357,3,8,Mid Rise,2025,0,South-West,4820000
+HP01905,Ahmedabad,Apartment,2,3,3,Semi-Furnished,831,0,3,Standalone Building,2025,0,West,5710000
+HP00518,Pune,Studio,0,2,0,Furnished,427,1,4,Standalone Building,2019,6,North-West,4800000
+HP00245,MMR,Apartment,3,4,2,Semi-Furnished,1112,5,9,Mid Rise,2016,9,North,25400000
+HP01176,MMR,Apartment,2,2,2,Furnished,944,21,25,High Rise,2006,19,North-West,19910000
+HP02173,Chennai,Studio,0,1,0,Unfurnished,389,26,36,High Rise,2024,1,North,4820000
+HP01595,Bengaluru,Apartment,4,5,2,Semi-Furnished,2261,5,6,Gated Community,2002,23,South-East,30540000
+HP00906,Chennai,Apartment,2,3,2,Semi-Furnished,799,6,33,High Rise,2008,17,North-East,9090000
+HP01097,Pune,Apartment,2,3,2,Unfurnished,890,3,12,Gated Community,2006,19,West,9960000
+HP01372,Kolkata,Apartment,2,2,2,Unfurnished,891,4,9,Mid Rise,1995,30,South,7270000
+HP02168,Chennai,Villa,3,4,1,Semi-Furnished,1877,0,3,Standalone Building,2016,9,North,28250000
+HP01374,MMR,Apartment,3,4,1,Unfurnished,1179,5,10,Gated Community,2014,11,East,23590000
+HP01155,MMR,Apartment,3,4,1,Unfurnished,1274,2,4,Standalone Building,2005,20,South-West,29070000
+HP01809,Ahmedabad,Row House,2,3,3,Semi-Furnished,911,0,2,Bungalow,2013,12,North-West,6370000
+HP00030,Ahmedabad,Row House,2,3,3,Semi-Furnished,1028,0,2,Bungalow,2016,9,South,9070000
+HP00943,Pune,Independent House,3,4,2,Unfurnished,1333,0,3,Bungalow,2016,9,North-East,17740000
+HP02060,Hyderabad,Penthouse,4,5,2,Unfurnished,1558,14,17,High Rise,2020,5,South-West,22430000
+HP02261,Pune,Independent House,3,3,3,Semi-Furnished,1266,0,2,Bungalow,2014,11,North-West,18260000
+HP00795,Pune,Independent House,4,4,1,Furnished,1746,3,4,Standalone Building,2025,0,South,28290000
+HP02358,Chennai,Villa,3,3,1,Unfurnished,1372,0,4,Low Rise,2025,0,West,20970000
+HP00571,Delhi NCR,Row House,2,3,2,Semi-Furnished,891,0,3,Bungalow,2005,20,West,12500000
+HP01601,Bengaluru,Independent House,3,3,1,Furnished,1681,0,3,Bungalow,2003,22,East,24270000
+HP02141,Bengaluru,Penthouse,3,4,1,Unfurnished,1779,14,28,High Rise,2012,13,West,33200000
+HP01444,MMR,Independent House,3,3,2,Unfurnished,1008,0,2,Bungalow,2010,15,North-West,23830000
+HP00232,Pune,Apartment,1,2,1,Unfurnished,667,6,12,High Rise,2005,20,West,7260000
+HP01759,Hyderabad,Apartment,3,4,1,Unfurnished,1169,11,30,High Rise,2012,13,South-West,12320000
+HP02229,Pune,Row House,2,2,1,Semi-Furnished,718,1,5,Standalone Building,1995,30,South-East,9690000
+HP00893,Ahmedabad,Apartment,2,3,2,Unfurnished,1036,2,3,Standalone Building,2006,19,North-West,7830000
+HP00978,Ahmedabad,Apartment,3,3,2,Semi-Furnished,1364,6,9,Mid Rise,2005,20,North-West,8010000
+HP01218,Hyderabad,Row House,3,3,1,Semi-Furnished,1527,0,2,Standalone Building,2007,18,North-East,19390000
+HP02181,Chennai,Apartment,2,2,1,Unfurnished,913,4,10,Gated Community,2021,4,South-East,11790000
+HP02293,Pune,Apartment,3,4,1,Semi-Furnished,1722,14,36,High Rise,2017,8,North,23340000
+HP00594,Kolkata,Independent House,5,6,1,Semi-Furnished,3225,3,5,Standalone Building,2015,10,South-West,44100000
+HP01114,Hyderabad,Apartment,3,4,1,Semi-Furnished,1430,2,2,Standalone Building,2012,13,South-East,12870000
+HP01788,Pune,Apartment,2,2,1,Semi-Furnished,979,7,10,Mid Rise,1998,27,North-East,10190000
+HP01153,Bengaluru,Apartment,3,4,2,Semi-Furnished,1063,6,7,Mid Rise,2009,16,North,14230000
+HP01336,MMR,Apartment,4,4,2,Semi-Furnished,1976,3,12,Mid Rise,2015,10,South-West,44810000
+HP02130,Hyderabad,Studio,0,1,0,Unfurnished,437,12,12,Mid Rise,2015,10,North-West,3470000
+HP00847,Chennai,Apartment,2,3,1,Semi-Furnished,741,8,21,High Rise,2025,0,South-East,10060000
+HP00588,Ahmedabad,Apartment,2,2,1,Semi-Furnished,1097,3,6,Gated Community,2013,12,South-East,7730000
+HP00810,Hyderabad,Villa,4,5,3,Semi-Furnished,1677,0,2,Bungalow,2014,11,South-East,20060000
+HP01273,Chennai,Apartment,1,2,2,Semi-Furnished,499,2,3,Standalone Building,2020,5,South,6540000
+HP01078,Ahmedabad,Apartment,2,3,2,Unfurnished,759,0,2,Standalone Building,2013,12,North-West,4440000
+HP00576,Delhi NCR,Apartment,3,4,1,Furnished,1249,11,30,High Rise,2025,0,West,14980000
+HP01469,Hyderabad,Apartment,2,2,1,Unfurnished,1086,24,26,High Rise,2017,8,South-West,13590000
+HP00499,Delhi NCR,Row House,4,5,1,Furnished,1954,0,2,Bungalow,2002,23,North-West,27150000
+HP00536,MMR,Apartment,3,3,2,Unfurnished,1834,4,19,High Rise,2008,17,South-West,45740000
+HP00510,Hyderabad,Studio,0,2,0,Unfurnished,547,18,30,High Rise,2005,20,West,4310000
+HP01003,Bengaluru,Independent House,2,3,2,Unfurnished,863,2,2,Low Rise,2019,6,South-West,10660000
+HP01243,Kolkata,Studio,0,2,1,Semi-Furnished,407,21,27,High Rise,2000,25,South-East,4700000
+HP00390,Delhi NCR,Apartment,1,2,2,Unfurnished,491,12,12,Gated Community,2015,10,South,7800000
+HP02044,MMR,Apartment,2,3,2,Unfurnished,815,10,12,Gated Community,2013,12,West,21870000
+HP01733,Delhi NCR,Apartment,2,3,1,Semi-Furnished,1140,5,5,Standalone Building,2012,13,North-West,14880000
+HP02039,Delhi NCR,Apartment,2,3,1,Unfurnished,1008,23,31,High Rise,2010,15,South-West,12930000
+HP00703,Delhi NCR,Apartment,2,3,2,Furnished,1136,8,10,Gated Community,2017,8,East,15130000
+HP02092,Hyderabad,Apartment,4,5,2,Furnished,1776,12,28,High Rise,2006,19,South-West,18820000
+HP02363,MMR,Apartment,2,3,2,Semi-Furnished,1101,0,5,Standalone Building,2013,12,South-West,21240000
+HP01394,Delhi NCR,Studio,0,2,0,Furnished,357,31,40,High Rise,2003,22,West,4580000
+HP00240,Chennai,Apartment,2,3,1,Furnished,819,3,26,High Rise,2025,0,South-West,11900000
+HP00110,Kolkata,Apartment,1,1,1,Unfurnished,492,6,8,Mid Rise,2017,8,South-East,5440000
+HP00732,Chennai,Apartment,2,2,2,Semi-Furnished,706,8,12,Mid Rise,2013,12,South,8550000
+HP01688,Ahmedabad,Villa,4,4,1,Semi-Furnished,2252,0,1,Bungalow,2014,11,West,18130000
+HP00228,Hyderabad,Apartment,2,2,1,Semi-Furnished,1201,5,12,High Rise,2010,15,South,14890000
+HP01962,Chennai,Apartment,2,3,1,Unfurnished,1011,8,14,High Rise,2016,9,North-West,11900000
+HP01842,Ahmedabad,Apartment,2,3,1,Semi-Furnished,1094,19,19,High Rise,2005,20,South-East,8400000
+HP02100,Bengaluru,Apartment,4,4,1,Semi-Furnished,2534,2,22,High Rise,2025,0,South-West,35380000
+HP01826,Delhi NCR,Apartment,2,2,1,Unfurnished,1232,6,6,Mid Rise,2007,18,North,14570000
+HP00487,Kolkata,Apartment,2,3,1,Semi-Furnished,1226,2,10,Mid Rise,2011,14,North,12600000
+HP02236,Delhi NCR,Studio,0,2,1,Furnished,443,13,27,High Rise,2006,19,West,5160000
+HP02251,Bengaluru,Apartment,2,3,1,Unfurnished,788,9,9,Gated Community,2023,2,South-West,10670000
+HP00269,Bengaluru,Apartment,1,2,1,Unfurnished,761,1,2,Low Rise,2004,21,South,9510000
+HP00862,Kolkata,Apartment,4,4,2,Unfurnished,2244,1,5,Standalone Building,2019,6,South-East,23490000
+HP01502,Pune,Apartment,3,4,3,Semi-Furnished,1189,2,4,Low Rise,2014,11,South-West,14520000
+HP00500,Ahmedabad,Apartment,4,5,2,Unfurnished,1789,3,4,Low Rise,2006,19,East,10430000
+HP01306,Delhi NCR,Studio,0,1,1,Semi-Furnished,382,6,39,High Rise,2024,1,South,4770000
+HP00592,Ahmedabad,Apartment,3,4,2,Semi-Furnished,1375,2,2,Low Rise,2015,10,South-West,10840000
+HP01624,Delhi NCR,Villa,4,5,2,Semi-Furnished,2413,0,2,Bungalow,2015,10,South,29630000
+HP01212,Bengaluru,Apartment,3,3,1,Furnished,1378,3,12,Mid Rise,2025,0,South,20490000
+HP00541,Bengaluru,Apartment,3,3,1,Unfurnished,1129,0,5,Standalone Building,2007,18,South-East,11360000
+HP00984,MMR,Villa,4,5,2,Unfurnished,1788,4,5,Standalone Building,2015,10,South-East,46970000
+HP00872,Delhi NCR,Apartment,2,2,2,Semi-Furnished,847,6,26,High Rise,2019,6,South,10670000
+HP02149,Pune,Studio,0,1,0,Semi-Furnished,390,6,6,Mid Rise,2007,18,North-East,4090000
+HP01253,Bengaluru,Apartment,3,3,3,Unfurnished,1526,7,7,Gated Community,2017,8,South-East,19950000
+HP02159,Chennai,Apartment,1,1,1,Unfurnished,645,10,14,High Rise,2006,19,South,7090000
+HP01533,MMR,Apartment,2,3,2,Furnished,920,3,4,Standalone Building,2015,10,East,19480000
+HP01727,Chennai,Apartment,2,2,1,Unfurnished,902,1,9,Gated Community,2015,10,South,11240000
+HP00760,Delhi NCR,Villa,3,3,2,Furnished,1600,0,5,Low Rise,2018,7,South,27650000
+HP02154,Kolkata,Independent House,3,4,2,Semi-Furnished,1633,4,10,Gated Community,2017,8,North,17540000
+HP00186,Hyderabad,Independent House,3,4,3,Furnished,1230,0,3,Bungalow,2017,8,South,14210000
+HP01041,Delhi NCR,Studio,0,2,1,Unfurnished,344,13,34,High Rise,2009,16,North-East,4650000
+HP00746,Ahmedabad,Penthouse,4,5,2,Semi-Furnished,2150,15,18,High Rise,2025,0,South-West,26340000
+HP01776,Ahmedabad,Apartment,3,4,3,Unfurnished,1549,1,9,Mid Rise,2024,1,East,10160000
+HP00029,Hyderabad,Apartment,3,3,2,Semi-Furnished,1759,31,33,High Rise,2011,14,North-East,19740000
+HP01325,Pune,Apartment,3,4,1,Semi-Furnished,1056,4,7,Gated Community,2019,6,West,16040000
+HP01838,Pune,Apartment,2,3,2,Semi-Furnished,1019,38,38,High Rise,2010,15,North-East,13300000
+HP00243,Ahmedabad,Studio,0,2,1,Furnished,443,19,20,High Rise,2017,8,South-West,3510000
+HP00756,Delhi NCR,Villa,2,2,1,Furnished,765,3,5,Standalone Building,2015,10,South-West,11700000
+HP02058,Ahmedabad,Apartment,3,4,2,Semi-Furnished,1001,3,32,High Rise,2014,11,North-East,7310000
+HP00313,Kolkata,Penthouse,4,4,1,Semi-Furnished,1840,2,13,High Rise,2012,13,South-East,25300000
+HP00447,Pune,Row House,2,2,1,Unfurnished,1221,0,1,Bungalow,2016,9,South-East,15080000
+HP01144,Ahmedabad,Apartment,2,2,1,Furnished,997,0,3,Standalone Building,2016,9,South-East,8090000
+HP00877,Hyderabad,Apartment,2,3,2,Semi-Furnished,1146,1,3,Standalone Building,2025,0,South,13760000
+HP00591,Bengaluru,Independent House,3,4,1,Furnished,1685,0,3,Bungalow,2025,0,South-East,26790000
+HP00441,Kolkata,Apartment,4,5,1,Furnished,2234,21,34,High Rise,2025,0,North-West,28020000
+HP01339,Bengaluru,Row House,1,2,1,Semi-Furnished,741,3,3,Low Rise,1998,27,East,9490000
+HP01472,Bengaluru,Penthouse,3,3,1,Semi-Furnished,1010,18,25,High Rise,2011,14,North-East,16480000
+HP00659,Hyderabad,Apartment,3,4,3,Semi-Furnished,1142,7,35,High Rise,2007,18,North,11420000
+HP01272,Kolkata,Apartment,4,4,1,Semi-Furnished,2077,2,10,Gated Community,2021,4,North-West,22650000
+HP00600,Pune,Apartment,4,4,2,Unfurnished,1717,23,26,High Rise,2013,12,West,20210000
+HP01658,Chennai,Apartment,2,3,1,Unfurnished,1153,1,2,Standalone Building,2018,7,North-West,12440000
+HP00395,Ahmedabad,Apartment,2,2,1,Semi-Furnished,738,0,3,Low Rise,2010,15,East,5010000
+HP00340,Delhi NCR,Apartment,3,4,3,Furnished,1397,0,4,Low Rise,2023,2,South-West,20020000
+HP00913,MMR,Row House,2,2,1,Semi-Furnished,760,1,4,Standalone Building,2017,8,West,17230000
+HP02271,MMR,Apartment,4,5,2,Furnished,1846,7,8,Mid Rise,2008,17,East,40080000
+HP01806,Pune,Villa,3,3,3,Semi-Furnished,1496,0,2,Standalone Building,2025,0,West,25330000
+HP00183,Delhi NCR,Apartment,2,2,1,Furnished,811,12,14,High Rise,2022,3,North,11320000
+HP02023,Pune,Row House,3,4,2,Unfurnished,1727,1,8,Gated Community,2023,2,North-East,24400000
+HP00686,Delhi NCR,Apartment,4,4,3,Unfurnished,1965,1,21,High Rise,2014,11,North-East,22220000
+HP01885,Bengaluru,Penthouse,3,4,1,Furnished,1352,15,21,High Rise,2015,10,South,28680000
+HP00300,Hyderabad,Apartment,4,5,1,Unfurnished,1899,15,21,High Rise,2019,6,South,21790000
+HP01840,Chennai,Apartment,2,3,2,Unfurnished,1013,11,12,Gated Community,2010,15,South-East,12150000
+HP01208,Bengaluru,Villa,2,3,3,Furnished,750,2,4,Standalone Building,2025,0,South,13300000
+HP02237,Ahmedabad,Row House,3,3,2,Unfurnished,1319,2,5,Low Rise,2007,18,East,11490000
+HP02343,Pune,Independent House,3,4,1,Unfurnished,1355,1,3,Standalone Building,2024,1,East,16790000
+HP00679,Delhi NCR,Apartment,2,2,1,Unfurnished,926,5,6,Mid Rise,2021,4,North,11390000
+HP00835,Hyderabad,Apartment,3,4,2,Unfurnished,1292,5,12,High Rise,2009,16,West,14670000
+HP00892,Hyderabad,Villa,2,3,1,Semi-Furnished,1207,0,1,Bungalow,2017,8,South,19180000
+HP00886,Chennai,Apartment,2,3,2,Semi-Furnished,792,2,5,Standalone Building,2008,17,North-East,8250000
+HP01474,Pune,Studio,0,2,0,Unfurnished,439,7,12,High Rise,2003,22,North-West,4710000
+HP00284,MMR,Apartment,3,3,1,Unfurnished,1040,1,6,Gated Community,2017,8,North,25420000
+HP01369,MMR,Apartment,1,2,2,Semi-Furnished,749,13,15,High Rise,2025,0,North-East,16980000
+HP01993,Pune,Apartment,1,1,1,Semi-Furnished,510,2,10,Mid Rise,2020,5,North-West,7330000
+HP02053,Kolkata,Independent House,4,5,1,Semi-Furnished,1837,2,6,Gated Community,2013,12,South-East,22070000
+HP01935,Ahmedabad,Apartment,2,2,1,Unfurnished,1116,10,29,High Rise,2014,11,South-East,8870000
+HP01678,Bengaluru,Penthouse,5,6,2,Unfurnished,2940,17,20,High Rise,2015,10,North,55090000
+HP01145,Hyderabad,Apartment,1,2,1,Furnished,749,5,22,High Rise,2012,13,West,8220000
+HP00673,Delhi NCR,Independent House,4,5,2,Furnished,2570,5,7,Gated Community,2016,9,North-East,32350000
+HP00412,MMR,Apartment,4,5,1,Unfurnished,2292,8,8,Gated Community,2013,12,North,44480000
+HP02262,Delhi NCR,Apartment,2,2,2,Unfurnished,951,11,35,High Rise,2025,0,South,15930000
+HP00620,Pune,Apartment,1,2,1,Unfurnished,624,1,6,Gated Community,2000,25,South,6070000
+HP01131,Pune,Row House,3,4,1,Semi-Furnished,1809,5,7,Gated Community,2017,8,West,25690000
+HP00807,Kolkata,Apartment,1,2,2,Unfurnished,518,4,9,Gated Community,2012,13,West,5500000
+HP00738,Pune,Apartment,2,2,1,Semi-Furnished,943,4,8,Gated Community,2013,12,East,13070000
+HP01769,Delhi NCR,Apartment,1,1,1,Unfurnished,649,3,4,Low Rise,2018,7,South-West,8500000
+HP01966,Ahmedabad,Apartment,3,4,1,Unfurnished,1737,28,28,High Rise,2018,7,North-East,14730000
+HP00802,Kolkata,Apartment,4,4,1,Unfurnished,2073,5,11,Gated Community,2023,2,South,27020000
+HP01152,Kolkata,Villa,4,5,1,Furnished,2342,1,3,Low Rise,2025,0,North-East,30920000
+HP00275,Chennai,Villa,4,4,1,Furnished,2304,1,2,Low Rise,2011,14,South-West,42280000
+HP00215,Chennai,Apartment,2,2,1,Furnished,700,7,7,Mid Rise,2019,6,West,10560000
+HP00631,Ahmedabad,Apartment,3,3,2,Semi-Furnished,1847,10,11,Mid Rise,2007,18,North-West,11560000
+HP01292,Delhi NCR,Studio,0,2,1,Semi-Furnished,345,9,34,High Rise,2017,8,North,4330000
+HP00200,Chennai,Independent House,3,3,2,Semi-Furnished,1383,4,4,Low Rise,2012,13,West,14750000
+HP01039,Hyderabad,Villa,2,2,2,Unfurnished,950,0,1,Bungalow,2001,24,North-West,10510000
+HP00478,Hyderabad,Apartment,3,4,1,Semi-Furnished,1881,2,7,Mid Rise,2004,21,East,21100000
+HP02004,Hyderabad,Apartment,2,2,2,Semi-Furnished,1237,1,3,Low Rise,2025,0,South-East,12560000
+HP01177,Delhi NCR,Apartment,2,2,2,Unfurnished,802,3,11,Mid Rise,2011,14,South-East,9600000
+HP00527,Kolkata,Apartment,2,3,1,Unfurnished,1270,4,11,Gated Community,2018,7,South,15260000
+HP00734,Bengaluru,Apartment,3,4,2,Semi-Furnished,1805,10,27,High Rise,2021,4,South,20760000
+HP00987,Ahmedabad,Apartment,3,4,1,Furnished,1446,11,12,Gated Community,2024,1,North-West,11110000
+HP01954,Ahmedabad,Independent House,4,5,2,Semi-Furnished,1426,2,8,Gated Community,2010,15,South-East,9280000
+HP01130,Hyderabad,Villa,2,3,2,Unfurnished,1273,10,10,Gated Community,2006,19,North-West,18250000
+HP00719,Pune,Apartment,3,4,1,Semi-Furnished,1253,4,9,Mid Rise,2003,22,South-East,15600000
+HP00099,Pune,Penthouse,3,3,1,Furnished,1813,21,24,High Rise,2025,0,South-East,35480000
+HP00638,Hyderabad,Apartment,1,2,2,Unfurnished,624,0,2,Standalone Building,2025,0,North-East,5990000
+HP01329,Kolkata,Apartment,2,2,2,Unfurnished,1033,8,8,Gated Community,2025,0,North,14650000
+HP01239,Chennai,Studio,0,2,1,Unfurnished,397,2,4,Standalone Building,2019,6,South-West,4240000
+HP01778,Kolkata,Studio,0,2,0,Unfurnished,423,6,8,Mid Rise,2007,18,South-East,3890000
+HP00194,Ahmedabad,Apartment,2,3,3,Unfurnished,1080,9,11,Mid Rise,2001,24,South,6230000
+HP02047,Ahmedabad,Apartment,3,3,1,Semi-Furnished,1199,1,5,Standalone Building,2012,13,North-West,8920000
+HP02270,Kolkata,Apartment,1,1,1,Furnished,585,2,10,Mid Rise,2011,14,South-East,6540000
+HP01035,Chennai,Apartment,2,2,1,Unfurnished,1005,3,4,Low Rise,2025,0,North-East,12230000
+HP00376,Delhi NCR,Apartment,3,4,2,Unfurnished,1757,2,12,Gated Community,2022,3,North-East,18180000
+HP01399,Hyderabad,Apartment,2,2,2,Semi-Furnished,1036,2,10,Gated Community,2016,9,South,12380000
+HP01656,MMR,Apartment,4,5,1,Furnished,1834,3,10,Gated Community,2019,6,North,58090000
+HP02094,MMR,Apartment,2,2,1,Semi-Furnished,1214,1,2,Standalone Building,2001,24,West,25560000
+HP00755,Delhi NCR,Penthouse,4,5,2,Furnished,2474,5,16,High Rise,2011,14,South,42230000
+HP00410,Pune,Studio,0,2,0,Unfurnished,318,4,6,Mid Rise,2005,20,South-East,3220000
+HP00197,Ahmedabad,Apartment,4,5,2,Unfurnished,2228,0,2,Standalone Building,2025,0,West,13640000
+HP02007,Kolkata,Apartment,1,1,3,Semi-Furnished,500,3,11,Mid Rise,2008,17,West,5230000
+HP01780,MMR,Studio,0,2,1,Furnished,528,0,3,Standalone Building,2019,6,South,11450000
+HP01850,Hyderabad,Apartment,4,4,1,Unfurnished,2142,6,8,Mid Rise,2017,8,South,25680000
+HP02086,Hyderabad,Penthouse,4,5,2,Semi-Furnished,1978,4,12,High Rise,2008,17,West,30720000
+HP01464,Pune,Apartment,2,2,1,Furnished,996,3,3,Standalone Building,2019,6,South-West,12510000
+HP00254,MMR,Apartment,4,4,2,Unfurnished,2593,20,23,High Rise,2003,22,South,50840000
+HP00224,Delhi NCR,Independent House,6,7,3,Furnished,3760,6,8,Gated Community,2013,12,South-West,56720000
+HP01390,Bengaluru,Villa,2,3,1,Unfurnished,722,0,2,Bungalow,2016,9,South-West,11380000
+HP02197,Pune,Apartment,1,2,1,Unfurnished,725,3,10,Mid Rise,2013,12,North,9920000
+HP02334,Pune,Penthouse,3,3,2,Unfurnished,1520,16,30,High Rise,2014,11,North-East,22480000
+HP01173,Ahmedabad,Independent House,5,6,1,Semi-Furnished,3884,0,1,Bungalow,2018,7,South-East,35080000
+HP00634,Hyderabad,Apartment,2,3,2,Unfurnished,1262,4,5,Standalone Building,2017,8,East,13090000
+HP00010,Delhi NCR,Row House,3,4,2,Furnished,1725,0,5,Standalone Building,2012,13,East,25340000
+HP01972,Chennai,Villa,4,5,2,Semi-Furnished,2366,2,3,Standalone Building,2006,19,East,36360000
+HP01773,MMR,Penthouse,5,6,1,Furnished,3827,7,40,High Rise,2008,17,North-West,111290000
+HP01720,Hyderabad,Apartment,3,3,1,Furnished,1554,0,4,Standalone Building,2008,17,North-West,16870000
+HP01366,Delhi NCR,Villa,4,5,2,Furnished,2334,3,3,Low Rise,2023,2,North-West,40170000
+HP01093,Pune,Apartment,4,4,1,Unfurnished,1866,8,8,Mid Rise,2018,7,South-East,21140000
+HP01777,Chennai,Independent House,3,3,2,Furnished,1121,1,3,Standalone Building,2017,8,North-East,14840000
+HP01724,Kolkata,Apartment,1,2,2,Furnished,513,3,11,Mid Rise,2014,11,North-East,5520000
+HP01544,Hyderabad,Apartment,2,2,3,Unfurnished,770,1,6,Gated Community,2016,9,South-East,8150000
+HP01312,Chennai,Apartment,4,5,2,Furnished,1954,4,10,Gated Community,2022,3,South,29400000
+HP01697,Pune,Row House,1,2,2,Furnished,774,0,3,Bungalow,2003,22,East,10980000
+HP00713,Chennai,Independent House,5,6,2,Furnished,3320,0,2,Bungalow,2010,15,South,43750000
+HP01178,Chennai,Apartment,2,3,3,Unfurnished,1143,4,6,Gated Community,2025,0,East,13680000
+HP00912,Ahmedabad,Apartment,4,4,2,Semi-Furnished,2223,12,30,High Rise,2005,20,North-East,14820000
+HP02298,Pune,Apartment,4,4,1,Semi-Furnished,1998,14,40,High Rise,2019,6,North-West,30470000
+HP01794,Delhi NCR,Apartment,3,4,1,Furnished,1756,0,5,Standalone Building,2002,23,North-West,26100000
+HP02104,Pune,Independent House,2,3,1,Unfurnished,760,0,3,Standalone Building,2010,15,South-East,9530000
+HP01920,MMR,Apartment,1,1,1,Unfurnished,613,1,10,Mid Rise,2017,8,East,15350000
+HP01606,Chennai,Independent House,4,4,2,Semi-Furnished,1681,1,4,Standalone Building,2025,0,West,24780000
+HP01482,Bengaluru,Apartment,4,5,1,Semi-Furnished,1804,26,40,High Rise,2003,22,South-East,24640000
+HP00681,Kolkata,Apartment,3,4,1,Unfurnished,1495,10,16,High Rise,2017,8,South-East,14400000
+HP00976,Bengaluru,Row House,2,2,1,Semi-Furnished,875,2,11,Gated Community,2025,0,East,12670000
+HP01559,Kolkata,Apartment,2,2,1,Unfurnished,1159,1,6,Gated Community,2015,10,South-West,13530000
+HP01238,Bengaluru,Studio,0,2,1,Unfurnished,370,2,8,Mid Rise,2007,18,North,4810000
+HP00002,Bengaluru,Apartment,3,4,1,Semi-Furnished,1522,34,39,High Rise,2008,17,South-West,19580000
+HP01930,Kolkata,Villa,4,4,1,Semi-Furnished,1437,0,1,Bungalow,2008,17,South-East,16030000
+HP01530,Chennai,Apartment,2,2,2,Unfurnished,1239,3,24,High Rise,2014,11,North,17130000
+HP01002,Ahmedabad,Apartment,1,1,1,Semi-Furnished,535,7,40,High Rise,2024,1,South,4330000
+HP00101,Chennai,Apartment,2,3,2,Furnished,963,0,4,Standalone Building,2025,0,West,11470000
+HP00614,MMR,Penthouse,4,4,1,Semi-Furnished,2562,10,14,High Rise,2011,14,North-West,72600000
+HP01737,Kolkata,Apartment,3,4,1,Unfurnished,1744,28,32,High Rise,2022,3,South-East,18960000
+HP01303,Bengaluru,Apartment,2,2,1,Unfurnished,822,5,12,Gated Community,2025,0,South-East,11800000
+HP00605,Chennai,Apartment,3,3,1,Semi-Furnished,1118,2,12,Gated Community,2021,4,North-West,11280000
+HP01403,Bengaluru,Apartment,3,3,1,Unfurnished,1479,4,6,Gated Community,2003,22,North-West,19670000
+HP01591,Ahmedabad,Apartment,2,3,2,Semi-Furnished,1073,7,10,Mid Rise,2008,17,East,8190000
+HP02139,Chennai,Apartment,3,4,2,Semi-Furnished,1060,2,10,Mid Rise,2021,4,South,12250000
+HP01884,Pune,Independent House,6,6,3,Furnished,2646,3,3,Low Rise,2020,5,North-West,30730000
+HP00617,Bengaluru,Apartment,2,2,2,Semi-Furnished,1127,7,7,Mid Rise,2025,0,North,17390000
+HP02012,Bengaluru,Apartment,3,4,1,Unfurnished,1175,27,29,High Rise,2014,11,South-West,14070000
+HP01607,Pune,Independent House,5,6,3,Furnished,2861,1,2,Standalone Building,2021,4,North-West,42240000
+HP01356,Delhi NCR,Apartment,3,3,2,Semi-Furnished,1882,9,11,Gated Community,2021,4,East,25220000
+HP02329,Ahmedabad,Independent House,3,3,1,Unfurnished,1870,0,2,Bungalow,2013,12,North-East,14670000
+HP02288,Bengaluru,Independent House,2,3,1,Semi-Furnished,1289,2,8,Gated Community,2020,5,South-West,16050000
+HP02136,Ahmedabad,Apartment,3,4,2,Semi-Furnished,1305,32,38,High Rise,2003,22,East,9760000
+HP01347,Ahmedabad,Penthouse,4,5,1,Semi-Furnished,1864,9,28,High Rise,2013,12,North,20470000
+HP01653,Chennai,Apartment,1,2,1,Unfurnished,541,1,6,Gated Community,2007,18,East,5280000
+HP02088,Pune,Apartment,3,4,3,Unfurnished,1766,3,8,Mid Rise,2017,8,North-East,26010000
+HP02353,Pune,Apartment,3,4,1,Semi-Furnished,1617,7,8,Mid Rise,2025,0,South-East,21260000
+HP02099,MMR,Apartment,1,2,2,Furnished,800,3,9,Mid Rise,2018,7,North,21140000
+HP00325,Delhi NCR,Studio,0,2,1,Unfurnished,453,3,3,Standalone Building,2024,1,North-East,5270000
+HP01818,MMR,Apartment,2,2,1,Unfurnished,1203,1,4,Standalone Building,2016,9,West,26320000
+HP02272,Kolkata,Apartment,2,3,2,Semi-Furnished,889,2,3,Low Rise,2023,2,East,10990000
+HP01649,Ahmedabad,Row House,3,4,2,Unfurnished,1040,0,3,Bungalow,2017,8,East,8850000
+HP01441,Ahmedabad,Independent House,4,5,2,Unfurnished,2446,0,3,Bungalow,2018,7,North-West,20020000
+HP01501,Pune,Apartment,1,1,3,Semi-Furnished,520,10,37,High Rise,2018,7,East,7160000
+HP00828,Bengaluru,Apartment,4,4,2,Furnished,1958,7,11,Gated Community,2025,0,South,31380000
+HP00317,Pune,Row House,2,3,1,Unfurnished,788,2,2,Standalone Building,2014,11,South-West,11170000
+HP01264,Delhi NCR,Apartment,3,4,1,Semi-Furnished,1086,4,8,Gated Community,2007,18,North,14080000
+HP00997,Ahmedabad,Apartment,1,1,2,Unfurnished,450,3,3,Standalone Building,2014,11,West,3060000
+HP00348,Delhi NCR,Apartment,4,4,3,Unfurnished,1527,2,4,Standalone Building,2025,0,South,22430000
+HP01286,Pune,Independent House,3,3,2,Unfurnished,1014,4,8,Gated Community,2025,0,South,14400000
+HP02176,Kolkata,Apartment,3,4,3,Unfurnished,1583,2,11,Mid Rise,2010,15,South-West,13810000
+HP00126,Delhi NCR,Villa,3,4,2,Semi-Furnished,1764,0,3,Bungalow,2012,13,North-East,27900000
+HP00078,Pune,Apartment,1,2,2,Semi-Furnished,584,6,6,Mid Rise,1989,36,North,6420000
+HP02163,Ahmedabad,Apartment,4,5,2,Semi-Furnished,1875,11,39,High Rise,2007,18,South-West,12050000
+HP00854,Kolkata,Penthouse,4,5,2,Semi-Furnished,1470,4,31,High Rise,2014,11,South-East,20170000
+HP01421,Pune,Apartment,2,2,2,Unfurnished,740,2,9,Mid Rise,2025,0,North-East,9690000
+HP01350,Pune,Penthouse,4,5,2,Unfurnished,1755,13,32,High Rise,2025,0,South,30300000
+HP00922,Pune,Penthouse,3,3,1,Semi-Furnished,1130,10,32,High Rise,2020,5,North-West,19710000
+HP01675,Chennai,Apartment,4,5,2,Semi-Furnished,2085,7,10,Mid Rise,2025,0,North,30230000
+HP02065,Delhi NCR,Villa,4,5,1,Unfurnished,1773,0,3,Bungalow,2017,8,South-East,28480000
+HP01744,Bengaluru,Apartment,3,4,1,Unfurnished,1723,35,39,High Rise,2018,7,South-West,27510000
+HP02318,Chennai,Apartment,2,3,3,Unfurnished,1027,12,27,High Rise,2024,1,South-West,15170000
+HP00980,Pune,Apartment,3,3,2,Semi-Furnished,1534,1,6,Gated Community,2013,12,South,16150000
+HP01304,Hyderabad,Independent House,5,6,2,Unfurnished,4064,0,3,Bungalow,2024,1,North,51630000
+HP01572,Ahmedabad,Apartment,2,2,1,Semi-Furnished,906,5,9,Gated Community,2017,8,South-West,6370000
+HP02127,Delhi NCR,Apartment,3,3,2,Semi-Furnished,1585,1,5,Standalone Building,2008,17,West,17880000
+HP01978,MMR,Penthouse,4,5,2,Semi-Furnished,2140,19,31,High Rise,2025,0,North,54560000
+HP01032,Delhi NCR,Apartment,3,4,2,Furnished,1461,25,38,High Rise,2004,21,North-East,16800000
+HP00321,Pune,Apartment,1,2,1,Semi-Furnished,798,0,3,Low Rise,2014,11,East,9850000
+HP00899,Hyderabad,Villa,3,3,1,Unfurnished,1437,2,6,Gated Community,2017,8,South,19280000
+HP00509,MMR,Apartment,3,4,2,Semi-Furnished,1358,8,10,Gated Community,2000,25,West,33030000
+HP00948,Delhi NCR,Studio,0,1,1,Semi-Furnished,517,3,13,High Rise,2004,21,North-West,5560000
+HP00463,MMR,Apartment,2,3,1,Unfurnished,770,13,15,High Rise,2019,6,South-West,18320000
+HP01817,Chennai,Independent House,4,5,2,Furnished,2279,7,9,Gated Community,2016,9,North-West,28710000
+HP00879,Ahmedabad,Row House,2,3,2,Semi-Furnished,731,3,5,Low Rise,2012,13,South,6150000
+HP00333,MMR,Apartment,2,2,1,Furnished,1120,1,2,Standalone Building,2018,7,East,28980000
+HP00519,Kolkata,Penthouse,4,4,1,Unfurnished,1734,18,30,High Rise,2008,17,East,23440000
+HP00551,Ahmedabad,Apartment,4,4,1,Unfurnished,2083,30,40,High Rise,2024,1,South-East,16830000
+HP02152,MMR,Apartment,1,1,1,Unfurnished,669,0,2,Low Rise,2022,3,East,14530000
+HP02227,Kolkata,Apartment,2,2,2,Unfurnished,1146,8,11,Gated Community,2005,20,West,13710000
+HP00454,Pune,Independent House,4,5,2,Semi-Furnished,2412,6,7,Gated Community,2009,16,South-East,28670000
+HP01442,Chennai,Penthouse,4,4,2,Unfurnished,2085,8,19,High Rise,2025,0,East,32600000
+HP00379,Delhi NCR,Penthouse,3,3,1,Furnished,1713,16,22,High Rise,2025,0,North-West,32030000
+HP00474,Pune,Apartment,4,5,3,Semi-Furnished,2498,5,9,Gated Community,2018,7,South-East,38410000
+HP01274,MMR,Apartment,1,1,1,Unfurnished,531,7,16,High Rise,2025,0,North-West,12790000
+HP00227,Ahmedabad,Independent House,4,4,2,Semi-Furnished,1434,0,5,Low Rise,2007,18,North,10360000
+HP00094,Hyderabad,Studio,0,1,1,Unfurnished,466,24,25,High Rise,2012,13,North-West,4710000
+HP02143,Pune,Villa,5,5,2,Semi-Furnished,2116,3,4,Low Rise,2010,15,North,30050000
+HP00471,Delhi NCR,Apartment,3,4,1,Furnished,1621,13,16,High Rise,2011,14,South-East,22360000
+HP00640,MMR,Villa,4,5,1,Semi-Furnished,2572,0,5,Low Rise,2014,11,North,75440000
+HP01202,Hyderabad,Apartment,2,2,2,Semi-Furnished,1102,5,12,Mid Rise,2018,7,West,13100000
+HP01875,Hyderabad,Apartment,1,1,1,Unfurnished,670,3,9,Mid Rise,2002,23,East,7400000
+HP00442,Hyderabad,Row House,2,3,2,Unfurnished,1032,9,9,Gated Community,2010,15,South-East,10630000
+HP00970,Pune,Apartment,4,5,1,Unfurnished,1795,1,5,Standalone Building,1996,29,East,18830000
+HP00358,Kolkata,Row House,3,4,1,Unfurnished,1116,4,9,Gated Community,1998,27,South-East,10550000
+HP00351,Bengaluru,Apartment,1,2,3,Semi-Furnished,627,5,9,Gated Community,2005,20,North,8390000
+HP00568,Delhi NCR,Apartment,2,3,1,Unfurnished,742,9,10,Mid Rise,2009,16,South-East,9160000
+HP02278,Hyderabad,Apartment,2,2,1,Furnished,763,0,3,Standalone Building,2010,15,North,8660000
+HP01046,MMR,Apartment,1,1,3,Furnished,520,3,37,High Rise,2023,2,North,12390000
+HP00583,Pune,Apartment,1,1,1,Semi-Furnished,570,10,20,High Rise,2014,11,North-East,7900000
+HP00259,Ahmedabad,Apartment,4,4,2,Unfurnished,1816,5,6,Gated Community,2010,15,South,13470000
+HP01405,Bengaluru,Row House,3,4,3,Unfurnished,1753,0,2,Bungalow,2005,20,North,21690000
+HP00353,Chennai,Independent House,3,4,1,Unfurnished,1862,4,7,Gated Community,2006,19,West,22960000
+HP01245,Kolkata,Apartment,4,5,2,Unfurnished,2455,8,14,High Rise,2020,5,East,25260000
+HP00720,Delhi NCR,Independent House,3,4,2,Semi-Furnished,1144,0,1,Bungalow,2019,6,South-East,14860000
+HP00678,Chennai,Row House,4,5,1,Unfurnished,1992,3,10,Gated Community,2014,11,East,28800000
+HP00561,Chennai,Studio,0,2,1,Unfurnished,464,4,28,High Rise,2012,13,North,4790000
+HP01936,Hyderabad,Apartment,2,3,1,Unfurnished,1264,0,5,Standalone Building,2007,18,South,12040000
+HP00095,Kolkata,Studio,0,2,0,Semi-Furnished,396,1,2,Standalone Building,2008,17,East,3650000
+HP00517,Pune,Apartment,4,5,2,Unfurnished,2191,11,21,High Rise,2024,1,North-East,31010000
+HP01005,Bengaluru,Apartment,2,3,2,Semi-Furnished,723,0,2,Standalone Building,2004,21,North-East,9100000
+HP01964,Pune,Apartment,3,4,1,Unfurnished,1062,12,12,Gated Community,2024,1,West,13520000
+HP01947,MMR,Penthouse,3,4,1,Unfurnished,1247,22,31,High Rise,2025,0,West,35890000
+HP01006,Bengaluru,Penthouse,3,3,2,Unfurnished,1594,28,34,High Rise,2005,20,East,27540000
+HP01271,Pune,Apartment,2,3,1,Unfurnished,890,4,4,Standalone Building,2009,16,North-East,8900000
+HP01059,Kolkata,Apartment,1,2,3,Semi-Furnished,539,13,15,High Rise,2023,2,North,7060000
+HP02231,Pune,Penthouse,4,4,2,Semi-Furnished,2229,25,26,High Rise,2019,6,North,42840000
+HP02328,Ahmedabad,Apartment,3,4,2,Unfurnished,1461,7,16,High Rise,2024,1,South-East,9810000
+HP02345,Bengaluru,Apartment,1,2,2,Semi-Furnished,686,3,4,Standalone Building,2022,3,North-West,10850000
+HP01193,Bengaluru,Apartment,2,3,2,Furnished,772,17,21,High Rise,2000,25,North-East,8690000
+HP01098,Ahmedabad,Independent House,4,4,1,Furnished,2071,8,8,Gated Community,2015,10,East,17540000
+HP01222,Bengaluru,Apartment,2,3,1,Semi-Furnished,1131,1,2,Standalone Building,2023,2,North-West,14860000
+HP00470,Ahmedabad,Row House,3,4,2,Unfurnished,1595,0,3,Bungalow,2014,11,East,11270000
+HP01825,MMR,Apartment,2,3,1,Furnished,1011,7,12,Mid Rise,2015,10,North,25090000
+HP02337,Pune,Apartment,2,2,1,Unfurnished,1052,9,16,High Rise,2015,10,South-West,13380000
+HP01735,Delhi NCR,Independent House,3,4,2,Semi-Furnished,1659,2,2,Standalone Building,2025,0,South,22940000
+HP02055,Ahmedabad,Apartment,2,3,1,Unfurnished,711,2,7,Mid Rise,2012,13,West,5490000
+HP01075,Chennai,Apartment,3,4,1,Unfurnished,1631,1,6,Gated Community,2008,17,East,20630000
+HP01670,Hyderabad,Villa,3,3,1,Unfurnished,1533,0,2,Bungalow,2009,16,South-West,17470000
+HP00013,Bengaluru,Apartment,2,3,1,Unfurnished,1192,6,10,Mid Rise,1987,38,South-West,14040000
+HP00894,Ahmedabad,Apartment,1,2,2,Semi-Furnished,699,4,10,Gated Community,2017,8,West,4970000
+HP00273,MMR,Independent House,6,6,1,Semi-Furnished,3017,2,7,Gated Community,2017,8,North-East,69070000
+HP00242,Bengaluru,Independent House,4,4,3,Semi-Furnished,2167,0,1,Bungalow,2007,18,North,31250000
+HP00026,Ahmedabad,Independent House,4,5,1,Unfurnished,2445,0,2,Bungalow,2025,0,North-East,19980000
+HP00751,Pune,Independent House,5,6,2,Semi-Furnished,3154,0,3,Bungalow,2013,12,North,37380000
+HP01571,MMR,Independent House,3,4,2,Unfurnished,1189,8,10,Gated Community,2007,18,North,24980000
+HP01505,Delhi NCR,Apartment,1,2,3,Semi-Furnished,687,1,12,Gated Community,2025,0,North-East,8520000
+HP00402,Pune,Apartment,2,3,1,Semi-Furnished,1031,1,6,Mid Rise,2018,7,North-East,14920000
+HP00758,Bengaluru,Apartment,1,1,2,Furnished,680,0,5,Standalone Building,2017,8,South-East,9310000
+HP01353,Pune,Apartment,1,1,2,Semi-Furnished,766,7,9,Mid Rise,2023,2,South-East,10010000
+HP00023,Hyderabad,Penthouse,4,5,1,Semi-Furnished,2097,7,24,High Rise,2006,19,West,36460000
+HP00294,Pune,Apartment,4,4,2,Unfurnished,2104,7,12,Mid Rise,2020,5,North,26220000
+HP00708,Hyderabad,Penthouse,4,5,1,Semi-Furnished,2256,4,12,High Rise,2013,12,East,35130000
+HP01333,Ahmedabad,Independent House,5,6,2,Semi-Furnished,2699,1,3,Standalone Building,2016,9,South-West,18200000
+HP01322,Pune,Apartment,4,5,2,Furnished,1982,1,2,Standalone Building,1998,27,North-East,19460000
+HP02089,Hyderabad,Apartment,3,3,1,Unfurnished,1697,1,3,Standalone Building,2014,11,South-West,17600000
+HP00433,Bengaluru,Penthouse,4,4,3,Furnished,1876,1,40,High Rise,2015,10,North-West,30950000
+HP01919,Bengaluru,Apartment,2,2,2,Furnished,1210,15,16,High Rise,2025,0,South-West,21760000
+HP00092,Kolkata,Apartment,2,2,2,Semi-Furnished,1062,19,20,High Rise,2001,24,South-West,11290000
+HP02189,Kolkata,Studio,0,1,0,Semi-Furnished,495,9,10,Mid Rise,2012,13,North-West,5200000
+HP00669,Pune,Villa,5,6,2,Unfurnished,2475,4,11,Gated Community,1999,26,North,36540000
+HP00803,Kolkata,Apartment,2,3,1,Unfurnished,1289,10,12,Gated Community,2020,5,East,13900000
+HP01195,Hyderabad,Apartment,3,4,2,Unfurnished,1504,4,6,Mid Rise,2018,7,South,15730000
+HP00091,Kolkata,Apartment,3,4,1,Unfurnished,1304,3,6,Gated Community,2001,24,South-West,13430000
+HP02245,Ahmedabad,Apartment,3,4,1,Semi-Furnished,1532,4,7,Gated Community,2013,12,North-East,11520000
+HP01010,Kolkata,Apartment,3,4,1,Furnished,1729,7,18,High Rise,1998,27,North-East,21240000
+HP00367,MMR,Studio,0,2,1,Semi-Furnished,545,8,12,Mid Rise,2007,18,South-West,13110000
+HP01214,Hyderabad,Penthouse,2,2,1,Semi-Furnished,1005,9,15,High Rise,2013,12,West,15850000
+HP02069,Delhi NCR,Apartment,2,3,3,Semi-Furnished,1030,9,9,Mid Rise,2015,10,South-East,12910000
+HP00405,Pune,Studio,0,1,0,Unfurnished,454,21,22,High Rise,2019,6,West,5160000
+HP01585,Kolkata,Apartment,1,2,1,Furnished,515,8,12,Gated Community,2012,13,South,7060000
+HP01054,Delhi NCR,Independent House,3,3,1,Semi-Furnished,1055,6,12,Gated Community,2008,17,West,12210000
+HP01760,Bengaluru,Apartment,3,3,1,Unfurnished,1104,3,5,Standalone Building,2005,20,South-East,14020000
+HP00173,MMR,Apartment,2,3,3,Semi-Furnished,890,7,10,Mid Rise,2011,14,North-West,21210000
+HP00212,Hyderabad,Apartment,1,1,3,Semi-Furnished,632,34,38,High Rise,2015,10,South-East,6220000
+HP01997,Hyderabad,Apartment,2,3,3,Unfurnished,879,7,9,Mid Rise,2025,0,South,12580000
+HP00961,Ahmedabad,Studio,0,2,1,Furnished,519,20,30,High Rise,2025,0,North,3580000
+HP00880,Chennai,Independent House,4,5,2,Semi-Furnished,1923,1,5,Standalone Building,2008,17,West,27530000
+HP01805,Bengaluru,Apartment,3,4,2,Unfurnished,1893,19,33,High Rise,2007,18,South,22160000
+HP01494,Bengaluru,Apartment,2,2,2,Unfurnished,984,14,37,High Rise,2017,8,South-West,13420000
+HP00556,Pune,Villa,3,4,2,Semi-Furnished,1882,1,10,Gated Community,2009,16,North-West,30580000
+HP01431,MMR,Apartment,2,2,1,Furnished,1197,15,17,High Rise,2006,19,South-West,24750000
+HP00930,Hyderabad,Apartment,2,2,1,Semi-Furnished,884,27,36,High Rise,2003,22,North-East,9990000
+HP00063,Pune,Apartment,2,3,1,Semi-Furnished,746,4,5,Standalone Building,2000,25,North-East,8590000
+HP00915,Ahmedabad,Villa,4,4,2,Semi-Furnished,1735,0,1,Bungalow,2019,6,North-East,17780000
+HP00607,Delhi NCR,Villa,4,5,2,Unfurnished,1481,5,6,Gated Community,2025,0,North,22490000
+HP01308,Hyderabad,Apartment,3,3,2,Semi-Furnished,1167,13,19,High Rise,2012,13,West,14160000
+HP01529,Pune,Apartment,2,3,3,Semi-Furnished,1239,3,9,Mid Rise,2002,23,East,13540000
+HP00834,Delhi NCR,Apartment,4,5,1,Unfurnished,1773,1,2,Standalone Building,2022,3,East,22460000
+HP01848,Hyderabad,Penthouse,4,4,1,Unfurnished,1727,23,32,High Rise,2013,12,South-East,22830000
+HP00199,Bengaluru,Studio,0,2,1,Semi-Furnished,525,2,3,Standalone Building,2020,5,South,7250000
+HP01221,Kolkata,Apartment,2,3,2,Unfurnished,1142,0,5,Standalone Building,2011,14,North-West,12500000
+HP01163,Bengaluru,Apartment,4,4,1,Semi-Furnished,2416,5,6,Mid Rise,2021,4,West,30630000
+HP01952,Bengaluru,Apartment,4,4,1,Semi-Furnished,2514,9,17,High Rise,2025,0,South-East,38770000
+HP01968,Delhi NCR,Apartment,2,2,2,Unfurnished,1187,6,12,Mid Rise,2017,8,North-East,16320000
+HP00774,MMR,Apartment,1,2,2,Furnished,463,3,8,Gated Community,2025,0,South-West,14350000
+HP00816,Pune,Studio,0,1,1,Semi-Furnished,504,3,7,Mid Rise,2025,0,East,5840000
+HP01798,Ahmedabad,Apartment,3,4,1,Unfurnished,1660,2,14,High Rise,2014,11,North-West,10980000
+HP01095,Bengaluru,Apartment,3,3,2,Unfurnished,1634,24,30,High Rise,2015,10,North-West,21620000
+HP00399,MMR,Apartment,3,3,2,Semi-Furnished,1142,4,7,Mid Rise,2025,0,South,28670000
+HP01249,Kolkata,Apartment,1,1,1,Unfurnished,563,4,20,High Rise,2018,7,North,5600000
+HP01470,Ahmedabad,Studio,0,1,0,Semi-Furnished,439,0,5,Standalone Building,2009,16,North-West,2630000
+HP00005,Bengaluru,Studio,0,2,1,Furnished,478,8,9,Mid Rise,2019,6,South,6550000
+HP01123,Chennai,Independent House,4,4,1,Semi-Furnished,1927,2,6,Gated Community,2015,10,North,26590000
+HP02313,Kolkata,Studio,0,2,1,Unfurnished,461,0,4,Standalone Building,2003,22,East,4090000
+HP02147,Pune,Villa,3,4,1,Unfurnished,1489,3,4,Standalone Building,2006,19,East,19890000
+HP00160,Chennai,Apartment,2,3,1,Semi-Furnished,994,1,10,Gated Community,2019,6,South-West,10840000
+HP00290,Delhi NCR,Apartment,2,3,2,Unfurnished,955,3,21,High Rise,2006,19,North-West,10350000
+HP00048,Chennai,Apartment,2,3,1,Unfurnished,911,28,36,High Rise,2016,9,North-East,10320000
+HP00783,Delhi NCR,Apartment,3,4,3,Furnished,1277,3,3,Standalone Building,2002,23,West,16930000
+HP01411,Bengaluru,Apartment,2,2,2,Furnished,1057,4,10,Gated Community,1999,26,North-East,14440000
+HP01230,Hyderabad,Villa,3,3,2,Semi-Furnished,1364,3,7,Gated Community,2025,0,South,19410000
+HP01758,Bengaluru,Apartment,3,4,2,Unfurnished,1146,4,7,Mid Rise,2012,13,South-East,15880000
+HP00715,Kolkata,Apartment,3,3,2,Semi-Furnished,1344,15,15,High Rise,2022,3,South,18920000
+HP01822,Ahmedabad,Apartment,2,3,1,Unfurnished,1098,9,15,High Rise,2013,12,East,7780000
+HP00646,Bengaluru,Apartment,2,3,1,Semi-Furnished,756,4,23,High Rise,2007,18,North,9610000
+HP00135,Chennai,Penthouse,5,6,1,Unfurnished,4185,12,30,High Rise,2011,14,West,62630000
+HP01707,Hyderabad,Apartment,2,3,2,Unfurnished,963,3,4,Standalone Building,2007,18,South-West,9810000
+HP00169,Delhi NCR,Penthouse,3,4,1,Semi-Furnished,1788,25,26,High Rise,2007,18,West,32840000
+HP00397,Delhi NCR,Apartment,3,4,1,Semi-Furnished,1619,6,24,High Rise,2014,11,South-West,22190000
+HP01903,Pune,Penthouse,4,5,1,Unfurnished,2003,37,39,High Rise,2016,9,South-East,29440000
+HP00429,Bengaluru,Apartment,3,3,1,Furnished,1540,4,5,Standalone Building,2007,18,South,20610000
+HP01520,Kolkata,Apartment,2,3,2,Unfurnished,710,17,35,High Rise,2014,11,East,7920000
+HP01148,Hyderabad,Apartment,2,2,3,Unfurnished,1070,6,27,High Rise,2009,16,West,10740000
+HP00963,Delhi NCR,Apartment,3,4,1,Semi-Furnished,1487,25,28,High Rise,2016,9,North-West,23570000
+HP00812,Kolkata,Apartment,2,3,2,Unfurnished,975,1,3,Standalone Building,2007,18,East,9020000
+HP00798,Ahmedabad,Row House,2,3,2,Semi-Furnished,916,0,2,Bungalow,2015,10,North,7420000
+HP01789,Hyderabad,Apartment,3,3,1,Unfurnished,1415,32,37,High Rise,2014,11,South-West,14160000
+HP00778,Pune,Independent House,4,4,1,Semi-Furnished,1434,2,12,Gated Community,2013,12,North,19080000
+HP02250,Kolkata,Apartment,2,2,2,Semi-Furnished,1237,14,39,High Rise,2001,24,North-East,10970000
+HP00086,Delhi NCR,Independent House,4,4,1,Furnished,2464,4,5,Standalone Building,2024,1,South-East,42580000
+HP00933,Hyderabad,Apartment,3,4,2,Furnished,1324,3,19,High Rise,2022,3,East,14920000
+HP00244,Ahmedabad,Apartment,3,4,1,Semi-Furnished,1360,1,7,Gated Community,1997,28,West,9130000
+HP02361,Chennai,Apartment,4,5,1,Furnished,2020,15,27,High Rise,2018,7,North-West,33760000
+HP02320,Chennai,Apartment,2,3,2,Semi-Furnished,885,7,7,Gated Community,2005,20,West,10390000
+HP00664,Ahmedabad,Apartment,3,4,2,Unfurnished,1797,3,4,Standalone Building,2003,22,North,11930000
+HP00452,Delhi NCR,Studio,0,1,1,Furnished,543,9,10,Mid Rise,2011,14,South-West,7660000
+HP02153,Chennai,Apartment,2,3,3,Semi-Furnished,1222,30,30,High Rise,2012,13,South-East,15040000
+HP01819,Pune,Villa,6,7,2,Unfurnished,3883,1,4,Standalone Building,2010,15,North-East,48590000
+HP00202,Delhi NCR,Studio,0,2,0,Semi-Furnished,302,2,14,High Rise,2014,11,North,3240000
+HP00219,Hyderabad,Apartment,1,1,1,Semi-Furnished,667,2,10,Mid Rise,2011,14,West,7580000
+HP00595,Delhi NCR,Apartment,2,3,1,Unfurnished,1136,8,12,Mid Rise,2006,19,North-West,12510000
+HP02059,Ahmedabad,Apartment,2,3,2,Semi-Furnished,805,3,3,Standalone Building,2013,12,North-West,6150000
+HP00919,MMR,Apartment,4,5,2,Furnished,2465,11,11,Gated Community,2017,8,North,59990000
+HP00302,Bengaluru,Apartment,2,3,2,Unfurnished,751,1,38,High Rise,2008,17,South-West,7720000
+HP02256,Ahmedabad,Apartment,1,1,1,Semi-Furnished,728,24,29,High Rise,2005,20,South-West,5480000
+HP00861,Pune,Apartment,3,3,1,Semi-Furnished,1297,33,35,High Rise,2025,0,South,20950000
+HP00038,Chennai,Villa,6,7,1,Unfurnished,1822,3,3,Low Rise,2019,6,East,25820000
+HP02274,Pune,Penthouse,3,3,2,Furnished,1743,16,33,High Rise,2007,18,North-East,29070000
+HP00347,Delhi NCR,Apartment,3,3,1,Furnished,1022,24,38,High Rise,2022,3,North-West,15700000
+HP02084,MMR,Independent House,3,3,1,Semi-Furnished,1773,2,4,Standalone Building,2004,21,North-West,42030000
+HP02208,Bengaluru,Independent House,5,6,2,Semi-Furnished,3090,1,3,Standalone Building,2020,5,West,37010000
+HP02355,Bengaluru,Apartment,3,4,1,Unfurnished,1228,7,11,Gated Community,2010,15,South,15000000
+HP01167,Pune,Apartment,1,1,3,Unfurnished,607,11,20,High Rise,2015,10,West,6730000
+HP02217,Delhi NCR,Apartment,1,2,1,Semi-Furnished,494,10,10,Gated Community,2011,14,South,6320000
+HP01320,MMR,Apartment,4,4,2,Unfurnished,2367,6,10,Mid Rise,2013,12,North-East,49690000
+HP00842,Bengaluru,Apartment,3,4,1,Furnished,1109,3,10,Mid Rise,2021,4,South-West,18210000
+HP02310,Hyderabad,Apartment,2,3,2,Unfurnished,951,2,12,Gated Community,2010,15,East,12060000
+HP00318,Ahmedabad,Apartment,2,2,2,Unfurnished,1294,2,4,Standalone Building,2013,12,North-East,9570000
+HP00650,Bengaluru,Apartment,2,3,1,Unfurnished,958,1,9,Gated Community,2024,1,North,13210000
+HP02080,Hyderabad,Independent House,5,6,1,Semi-Furnished,2260,1,7,Gated Community,2020,5,South,29960000
+HP02269,Delhi NCR,Penthouse,5,5,3,Unfurnished,2923,14,39,High Rise,2025,0,South-West,55230000
+HP02204,Hyderabad,Apartment,1,2,1,Semi-Furnished,569,2,2,Standalone Building,2017,8,East,7310000
+HP01355,Kolkata,Penthouse,5,5,2,Unfurnished,2316,16,19,High Rise,2011,14,East,29370000
+HP00560,Hyderabad,Apartment,1,1,2,Unfurnished,600,7,9,Gated Community,2025,0,East,7830000
+HP01137,MMR,Independent House,4,4,1,Semi-Furnished,1725,0,2,Bungalow,2014,11,North,39940000
+HP01346,MMR,Apartment,1,2,2,Semi-Furnished,533,8,9,Gated Community,2016,9,West,12830000
+HP02026,Kolkata,Independent House,3,3,1,Furnished,1156,0,1,Bungalow,2019,6,South-West,12670000
+HP00717,Kolkata,Apartment,4,4,2,Furnished,2525,1,2,Standalone Building,2023,2,West,29360000
+HP00062,MMR,Apartment,1,2,2,Unfurnished,532,4,8,Gated Community,2011,14,North-West,10010000
+HP00540,Ahmedabad,Apartment,3,3,1,Unfurnished,1892,2,6,Mid Rise,2020,5,South-East,12610000
+HP02138,Ahmedabad,Apartment,3,3,2,Unfurnished,1825,7,11,Gated Community,2022,3,North,15570000
+HP00865,MMR,Apartment,1,1,2,Semi-Furnished,494,26,37,High Rise,2010,15,South,10850000
+HP00229,Kolkata,Independent House,2,2,2,Unfurnished,1219,1,5,Low Rise,2021,4,East,11840000
+HP01934,Kolkata,Apartment,3,4,2,Unfurnished,1441,7,7,Mid Rise,2014,11,West,13160000
+HP00849,Chennai,Apartment,3,3,2,Unfurnished,1800,5,7,Mid Rise,2011,14,West,20100000
+HP01305,Hyderabad,Independent House,3,3,2,Semi-Furnished,1653,2,2,Standalone Building,2019,6,East,18840000
+HP00744,Hyderabad,Villa,3,3,2,Semi-Furnished,1194,0,1,Bungalow,2019,6,West,16210000
+HP00580,Kolkata,Studio,0,1,1,Semi-Furnished,360,1,7,Mid Rise,2025,0,South-East,3470000
+HP01752,Ahmedabad,Apartment,3,3,2,Unfurnished,1281,14,15,High Rise,2007,18,South-East,9420000
+HP01251,Chennai,Villa,4,5,1,Semi-Furnished,1779,0,3,Low Rise,2011,14,East,28430000
+HP01710,Delhi NCR,Apartment,3,3,1,Unfurnished,1572,7,7,Mid Rise,2009,16,South-East,18910000
+HP01573,Pune,Penthouse,3,4,2,Semi-Furnished,1806,21,23,High Rise,2014,11,North-West,28520000
+HP00675,Hyderabad,Penthouse,3,3,2,Unfurnished,1634,2,35,High Rise,2021,4,North-East,23310000
+HP01129,Kolkata,Apartment,2,3,1,Semi-Furnished,752,9,13,High Rise,2018,7,North,8160000
+HP01950,Bengaluru,Apartment,2,3,1,Unfurnished,1192,5,8,Gated Community,2010,15,West,16720000
+HP00682,Pune,Studio,0,2,1,Unfurnished,337,0,3,Standalone Building,2014,11,East,3630000
+HP02294,Pune,Apartment,2,3,3,Unfurnished,917,6,8,Gated Community,2023,2,South-West,13050000
+HP00075,Chennai,Row House,3,3,1,Semi-Furnished,1094,1,3,Standalone Building,2015,10,East,14890000
+HP01408,Chennai,Apartment,2,3,1,Semi-Furnished,1241,20,38,High Rise,2011,14,East,16510000
+HP00408,Chennai,Apartment,2,2,1,Unfurnished,741,25,25,High Rise,2016,9,South-East,10320000
+HP00749,Ahmedabad,Apartment,2,2,2,Unfurnished,1161,11,12,Gated Community,2018,7,North,8110000
+HP01188,Kolkata,Apartment,3,3,1,Unfurnished,1573,6,35,High Rise,2001,24,North-East,14020000
+HP00138,Delhi NCR,Apartment,4,4,2,Furnished,2484,5,8,Mid Rise,2013,12,West,33690000
+HP01049,MMR,Apartment,2,3,2,Furnished,824,8,8,Mid Rise,2016,9,North,18990000
+HP02116,Hyderabad,Apartment,3,4,2,Semi-Furnished,1380,26,40,High Rise,2025,0,West,16390000
+HP00918,Pune,Penthouse,5,6,1,Semi-Furnished,3682,9,17,High Rise,2020,5,South-East,69670000
+HP01634,Pune,Apartment,3,3,2,Unfurnished,1687,1,2,Low Rise,2008,17,North-East,18160000
+HP00377,Bengaluru,Studio,0,2,0,Furnished,323,3,5,Standalone Building,2006,19,South-West,3170000
+HP02219,Hyderabad,Apartment,3,3,1,Furnished,1360,9,9,Mid Rise,2018,7,South-West,16520000
+HP02117,Ahmedabad,Studio,0,1,0,Semi-Furnished,524,9,35,High Rise,2021,4,South-West,3000000
+HP01700,Kolkata,Independent House,4,5,1,Semi-Furnished,1577,8,9,Gated Community,2023,2,North-East,19430000
+HP00687,Chennai,Apartment,2,2,1,Semi-Furnished,857,9,10,Gated Community,2011,14,South-East,10710000
+HP01400,Ahmedabad,Apartment,3,3,3,Unfurnished,1651,18,36,High Rise,2025,0,South-West,12340000
+HP01298,MMR,Apartment,2,3,1,Semi-Furnished,729,2,2,Low Rise,2010,15,North-East,18080000
+HP02020,Bengaluru,Apartment,3,4,1,Semi-Furnished,1256,2,19,High Rise,2021,4,South-East,17480000
+HP00342,Ahmedabad,Studio,0,2,0,Semi-Furnished,386,5,12,High Rise,2006,19,North-East,2400000
+HP01084,Pune,Row House,1,1,2,Semi-Furnished,467,1,2,Standalone Building,2013,12,West,6460000
+HP01515,Delhi NCR,Apartment,3,4,2,Furnished,1324,3,11,Gated Community,2017,8,North-West,19480000
+HP01627,Bengaluru,Apartment,2,3,1,Semi-Furnished,864,1,2,Standalone Building,2010,15,West,9830000
+HP01522,Kolkata,Apartment,1,2,1,Semi-Furnished,634,16,36,High Rise,2013,12,North-East,8270000
+HP00299,MMR,Independent House,3,4,2,Furnished,1360,0,2,Bungalow,2003,22,North-East,33070000
+HP01223,Kolkata,Apartment,1,2,2,Unfurnished,781,12,27,High Rise,2017,8,West,10570000
+HP00964,Bengaluru,Independent House,3,4,2,Semi-Furnished,1426,0,3,Bungalow,2022,3,South-East,20480000
+HP01255,Delhi NCR,Apartment,2,3,1,Unfurnished,949,19,32,High Rise,2025,0,North-West,12280000
+HP01021,Pune,Apartment,3,4,1,Unfurnished,1085,4,8,Mid Rise,2023,2,North,13080000
+HP00116,Chennai,Apartment,2,3,1,Semi-Furnished,1219,0,2,Standalone Building,2023,2,South-East,17070000
+HP00889,Bengaluru,Apartment,3,3,1,Furnished,1029,13,14,High Rise,2007,18,South-East,13340000
+HP00286,Hyderabad,Apartment,2,3,1,Semi-Furnished,971,8,12,High Rise,2022,3,North-West,12140000
+HP01541,Chennai,Apartment,3,4,1,Unfurnished,1505,9,27,High Rise,2012,13,South-East,16770000
+HP00494,Hyderabad,Independent House,3,4,2,Semi-Furnished,1083,0,1,Bungalow,2006,19,South,11340000
+HP01065,Delhi NCR,Independent House,5,6,1,Semi-Furnished,1918,2,3,Low Rise,2018,7,West,30600000
+HP01293,Bengaluru,Apartment,1,1,2,Unfurnished,674,4,7,Gated Community,2020,5,North,7830000
+HP00729,Bengaluru,Row House,3,4,1,Furnished,1202,0,3,Bungalow,2021,4,North-West,18310000
+HP01550,MMR,Row House,3,4,1,Furnished,1227,0,5,Standalone Building,2014,11,South-East,31760000
+HP00904,Chennai,Independent House,3,3,2,Semi-Furnished,1104,0,3,Bungalow,2025,0,East,15500000
+HP00289,Pune,Independent House,3,3,2,Semi-Furnished,1137,6,6,Gated Community,2013,12,North-West,14670000
+HP01388,Bengaluru,Studio,0,2,0,Semi-Furnished,433,31,35,High Rise,2007,18,North-West,4820000
+HP00308,MMR,Independent House,4,4,2,Furnished,1918,0,3,Bungalow,2010,15,North-East,42650000
+HP01553,Delhi NCR,Apartment,2,3,1,Unfurnished,868,9,22,High Rise,2007,18,South-East,11350000
+HP00557,MMR,Apartment,2,3,1,Semi-Furnished,899,2,4,Low Rise,2018,7,North,19700000
+HP00205,MMR,Apartment,2,3,1,Unfurnished,1076,5,11,Gated Community,2013,12,South,22740000
+HP00528,Delhi NCR,Apartment,2,3,1,Furnished,767,9,12,Mid Rise,2025,0,South-West,11890000
+HP00508,Bengaluru,Villa,6,7,3,Semi-Furnished,3562,1,4,Standalone Building,2025,0,West,66570000
+HP00012,Delhi NCR,Apartment,2,3,3,Furnished,1070,2,9,Mid Rise,2013,12,East,13470000
+HP02062,Kolkata,Apartment,2,3,1,Unfurnished,810,6,9,Gated Community,2025,0,South-East,10200000
+HP01103,Hyderabad,Apartment,2,3,1,Unfurnished,1179,4,9,Mid Rise,2022,3,West,15770000
+HP00323,Pune,Apartment,3,4,2,Semi-Furnished,1360,0,3,Low Rise,2025,0,North-West,20040000
+HP00716,Delhi NCR,Apartment,2,2,1,Unfurnished,1294,4,10,Mid Rise,2022,3,East,17750000
+HP01682,Pune,Apartment,2,3,1,Semi-Furnished,1187,7,22,High Rise,2019,6,North-West,16150000
+HP00714,Pune,Apartment,3,4,3,Unfurnished,1879,8,11,Gated Community,2017,8,South-East,22820000
+HP00484,Chennai,Apartment,2,2,2,Semi-Furnished,815,7,7,Gated Community,2020,5,East,9640000
+HP01748,MMR,Penthouse,4,4,3,Unfurnished,1806,13,15,High Rise,2015,10,North-East,47650000
+HP00967,MMR,Penthouse,4,4,2,Semi-Furnished,1886,2,30,High Rise,2022,3,North,58740000
+HP01162,Pune,Apartment,2,3,3,Semi-Furnished,965,18,27,High Rise,2010,15,South-East,10770000
+HP01109,Pune,Independent House,2,2,2,Semi-Furnished,1240,0,3,Bungalow,2021,4,South-West,14280000
+HP01597,Delhi NCR,Studio,0,2,1,Furnished,423,25,30,High Rise,2007,18,East,4530000
+HP00685,Kolkata,Apartment,4,4,1,Semi-Furnished,1596,5,10,Mid Rise,2020,5,South,16280000
+HP02319,Ahmedabad,Apartment,3,3,1,Unfurnished,1887,4,11,Gated Community,2020,5,South-West,14780000
+HP00855,Delhi NCR,Studio,0,1,1,Unfurnished,520,39,39,High Rise,2016,9,South-East,7010000
+HP02205,Kolkata,Apartment,1,2,1,Furnished,660,12,18,High Rise,2011,14,South-East,7860000
+HP01704,Chennai,Studio,0,1,1,Furnished,543,4,11,Mid Rise,2024,1,West,7550000
+HP01026,MMR,Villa,3,3,1,Semi-Furnished,1520,3,4,Standalone Building,2016,9,South,37470000
+HP01452,Hyderabad,Apartment,2,3,1,Furnished,1265,3,33,High Rise,1997,28,North-West,12870000
+HP01473,Ahmedabad,Apartment,1,2,2,Furnished,730,2,2,Standalone Building,2025,0,North,5600000
+HP01157,Delhi NCR,Villa,5,6,1,Furnished,3367,1,2,Low Rise,2012,13,North-West,56200000
+HP01313,Delhi NCR,Villa,3,4,2,Unfurnished,1088,2,2,Standalone Building,2018,7,South-East,17510000
+HP00008,Hyderabad,Villa,4,5,3,Semi-Furnished,1480,8,12,Gated Community,2013,12,East,26710000
+HP00427,Chennai,Independent House,4,5,1,Semi-Furnished,1839,2,4,Standalone Building,1997,28,North-West,23460000
+HP01999,Pune,Penthouse,2,2,3,Unfurnished,1236,1,26,High Rise,2013,12,North-East,23130000
+HP01299,Pune,Apartment,3,4,2,Unfurnished,1049,2,8,Gated Community,2011,14,East,13970000
+HP01898,Pune,Villa,4,4,2,Unfurnished,2164,1,5,Standalone Building,2021,4,South-West,24960000
+HP01120,Hyderabad,Studio,0,2,1,Furnished,408,1,10,Mid Rise,2013,12,South-East,3770000
+HP01883,Delhi NCR,Apartment,2,3,1,Semi-Furnished,1287,5,11,Gated Community,2019,6,South,18720000
+HP00819,Pune,Villa,3,4,1,Unfurnished,1699,0,3,Standalone Building,2018,7,North,24650000
+HP00977,Chennai,Apartment,1,1,1,Semi-Furnished,605,7,12,Gated Community,2025,0,South-West,8470000
+HP02028,Chennai,Villa,3,4,2,Unfurnished,1706,1,8,Gated Community,2007,18,South,24220000
+HP00081,Bengaluru,Apartment,3,4,1,Unfurnished,1339,3,10,Mid Rise,2016,9,South-West,17870000
+HP01551,Delhi NCR,Apartment,3,3,2,Unfurnished,1747,3,6,Mid Rise,2009,16,North-West,18170000
+HP01017,MMR,Studio,0,1,1,Furnished,425,7,11,Mid Rise,2021,4,South-East,9210000
+HP00373,Pune,Apartment,3,4,2,Unfurnished,1429,26,27,High Rise,2013,12,South,17120000
+HP01734,Bengaluru,Independent House,6,7,2,Unfurnished,3190,0,2,Bungalow,2010,15,West,47390000
+HP02292,Bengaluru,Villa,3,4,1,Furnished,1727,0,3,Bungalow,2020,5,South,25220000
+HP00959,Bengaluru,Studio,0,2,1,Furnished,548,5,6,Mid Rise,1998,27,North,6670000
+HP01311,Bengaluru,Row House,1,1,1,Furnished,462,0,4,Low Rise,2015,10,West,6730000
+HP00047,Ahmedabad,Apartment,1,1,2,Furnished,755,7,22,High Rise,2013,12,North-West,6260000
+HP01256,Kolkata,Studio,0,2,0,Semi-Furnished,450,2,2,Standalone Building,2014,11,North-East,4160000
+HP01732,Bengaluru,Apartment,1,2,2,Furnished,649,4,7,Gated Community,2012,13,North,8680000
+HP02331,Chennai,Apartment,4,5,1,Unfurnished,2440,2,8,Gated Community,2024,1,North-West,31440000
+HP00264,Chennai,Apartment,1,1,2,Unfurnished,614,35,39,High Rise,2024,1,North-West,8830000
+HP01175,MMR,Apartment,1,2,1,Furnished,525,3,8,Gated Community,2022,3,North,13310000
+HP01774,Kolkata,Apartment,4,5,1,Semi-Furnished,1783,5,12,High Rise,2019,6,North-West,19360000
+HP01864,MMR,Penthouse,5,5,2,Semi-Furnished,2490,12,22,High Rise,2022,3,South-East,79710000
+HP00815,MMR,Studio,0,2,1,Furnished,499,14,17,High Rise,2015,10,South-East,10970000
+HP01199,Delhi NCR,Apartment,1,1,2,Semi-Furnished,738,4,12,Mid Rise,2010,15,South-East,10970000
+HP00587,Pune,Independent House,3,4,2,Unfurnished,1634,4,4,Standalone Building,2022,3,South-West,21350000
+HP01592,Pune,Villa,3,4,1,Unfurnished,1853,1,2,Standalone Building,2010,15,South-East,23690000
+HP00885,Pune,Studio,0,2,0,Furnished,399,34,37,High Rise,2014,11,South-East,4420000
+HP01666,Ahmedabad,Apartment,2,3,1,Semi-Furnished,761,1,2,Standalone Building,2006,19,South-East,5150000
+HP01793,Bengaluru,Apartment,2,3,2,Unfurnished,747,2,12,Gated Community,2012,13,West,9530000
+HP01500,Chennai,Independent House,5,5,2,Unfurnished,2859,0,3,Bungalow,2024,1,South,38600000
+HP00203,Chennai,Apartment,4,4,1,Semi-Furnished,1891,5,9,Mid Rise,2025,0,East,28470000
+HP01428,Delhi NCR,Apartment,2,3,1,Semi-Furnished,968,1,3,Standalone Building,2009,16,North,10730000
+HP00843,Kolkata,Penthouse,5,6,1,Semi-Furnished,2070,14,32,High Rise,2010,15,East,32310000
+HP00947,MMR,Apartment,2,3,2,Semi-Furnished,1193,5,6,Gated Community,2010,15,South,28010000
+HP02131,Delhi NCR,Apartment,1,2,2,Semi-Furnished,603,1,6,Mid Rise,2018,7,North-East,8010000
+HP02191,Pune,Studio,0,1,1,Semi-Furnished,446,6,34,High Rise,2000,25,West,4700000
+HP01225,Kolkata,Apartment,1,2,2,Semi-Furnished,517,14,28,High Rise,2018,7,West,6790000
+HP01216,MMR,Apartment,3,4,1,Furnished,1350,2,11,Mid Rise,2022,3,North,36090000
+HP01126,Chennai,Apartment,3,4,1,Unfurnished,1230,1,2,Standalone Building,2006,19,North-East,14650000
+HP00822,Chennai,Apartment,3,4,3,Unfurnished,1803,12,12,Mid Rise,2014,11,North-West,23680000
+HP00438,Hyderabad,Penthouse,2,2,2,Semi-Furnished,931,2,14,High Rise,2007,18,East,13910000
+HP00123,Chennai,Apartment,2,2,1,Semi-Furnished,1208,4,9,Mid Rise,2010,15,North-East,16740000
+HP00132,Hyderabad,Independent House,5,5,2,Furnished,1923,1,8,Gated Community,2020,5,East,22990000
+HP00450,Ahmedabad,Studio,0,1,0,Unfurnished,455,1,2,Standalone Building,2007,18,West,3200000
+HP01119,Pune,Row House,3,4,2,Unfurnished,1808,1,4,Low Rise,2025,0,South,22750000
+HP01645,Chennai,Apartment,3,3,2,Semi-Furnished,1153,1,7,Mid Rise,2023,2,South,13930000
+HP01132,Delhi NCR,Apartment,2,3,1,Unfurnished,1150,5,6,Mid Rise,2006,19,West,15110000
+HP00667,Ahmedabad,Independent House,2,3,1,Unfurnished,1158,0,3,Bungalow,2025,0,East,8070000
+HP00080,Delhi NCR,Penthouse,5,6,2,Semi-Furnished,4038,31,32,High Rise,2014,11,West,60320000
+HP00016,Hyderabad,Apartment,2,2,1,Unfurnished,1025,3,5,Standalone Building,2009,16,North-East,11830000
+HP00218,Kolkata,Apartment,3,4,1,Semi-Furnished,1131,2,2,Standalone Building,2021,4,West,12570000
+HP01790,Pune,Studio,0,2,1,Semi-Furnished,544,10,11,Mid Rise,2021,4,West,6360000
+HP00461,Kolkata,Apartment,3,3,2,Semi-Furnished,1665,1,16,High Rise,2020,5,South,17830000
+HP01436,Ahmedabad,Apartment,2,2,1,Semi-Furnished,1174,10,11,Gated Community,2005,20,East,7510000
+HP00465,MMR,Penthouse,3,4,2,Furnished,1863,17,33,High Rise,2004,21,North,61340000
+HP01179,Bengaluru,Apartment,1,2,1,Semi-Furnished,535,6,12,Gated Community,2004,21,North-East,6050000
+HP01528,Hyderabad,Independent House,3,4,1,Unfurnished,1482,0,3,Bungalow,2024,1,East,18190000
+HP01027,Kolkata,Apartment,2,3,1,Unfurnished,1085,1,7,Mid Rise,2025,0,South-West,12130000
+HP01676,Chennai,Apartment,3,3,1,Semi-Furnished,1621,1,19,High Rise,2014,11,East,22890000
+HP01063,Chennai,Apartment,1,2,1,Unfurnished,521,11,12,Gated Community,2015,10,East,5700000
+HP00098,Bengaluru,Independent House,5,5,1,Furnished,2373,5,6,Gated Community,2005,20,North,28450000
+HP00072,MMR,Independent House,5,6,2,Semi-Furnished,3831,6,7,Gated Community,2017,8,West,96060000
+HP00466,Chennai,Row House,2,3,1,Semi-Furnished,870,0,4,Standalone Building,2019,6,North-West,10120000
+HP01168,Chennai,Apartment,4,5,1,Semi-Furnished,2440,2,7,Mid Rise,2008,17,East,29610000
+HP00485,Ahmedabad,Villa,5,6,1,Semi-Furnished,3385,2,3,Standalone Building,2015,10,East,29550000
+HP02054,MMR,Apartment,4,5,2,Furnished,1811,8,11,Gated Community,2011,14,South,39670000
+HP02284,Hyderabad,Apartment,2,3,3,Unfurnished,1206,30,34,High Rise,2005,20,West,11370000
+HP01929,Ahmedabad,Studio,0,1,0,Semi-Furnished,408,11,12,Mid Rise,2019,6,South-West,3000000
+HP01602,Pune,Apartment,2,3,1,Unfurnished,1239,7,12,High Rise,2023,2,East,15490000
+HP01332,Hyderabad,Independent House,2,2,1,Unfurnished,1008,0,3,Bungalow,2011,14,North-East,11390000
+HP00548,Pune,Apartment,3,3,1,Semi-Furnished,1292,4,7,Gated Community,2015,10,West,15800000
+HP01270,Kolkata,Apartment,3,4,2,Semi-Furnished,1087,3,7,Mid Rise,2021,4,East,11620000
+HP01415,Hyderabad,Studio,0,2,1,Unfurnished,444,7,7,Mid Rise,2022,3,South-East,4970000
+HP01832,Delhi NCR,Apartment,2,2,3,Furnished,758,6,16,High Rise,2015,10,West,9710000
+HP01668,Kolkata,Apartment,1,1,2,Semi-Furnished,613,1,3,Standalone Building,2025,0,North-East,7840000
+HP02134,Delhi NCR,Villa,5,5,1,Semi-Furnished,1958,8,9,Gated Community,2017,8,West,36280000
+HP01281,Ahmedabad,Apartment,3,4,1,Unfurnished,1833,3,5,Standalone Building,2015,10,West,13670000
+HP02003,Ahmedabad,Apartment,1,1,2,Semi-Furnished,672,3,6,Mid Rise,2000,25,North,4610000
+HP01890,Kolkata,Apartment,2,2,2,Unfurnished,1298,8,8,Mid Rise,2015,10,North,13660000
+HP00884,MMR,Apartment,2,3,3,Furnished,884,4,10,Mid Rise,2015,10,North-East,21670000
+HP00661,MMR,Row House,1,2,2,Unfurnished,582,2,3,Low Rise,2007,18,North-West,12800000
+HP00859,Pune,Apartment,3,4,1,Semi-Furnished,1792,5,5,Low Rise,1997,28,South-West,18370000
+HP00775,Ahmedabad,Studio,0,2,1,Unfurnished,488,24,24,High Rise,1992,33,West,2750000
+HP00386,Pune,Apartment,1,2,3,Unfurnished,629,1,7,Mid Rise,2017,8,North-West,7710000
+HP01616,Ahmedabad,Apartment,3,4,1,Unfurnished,1453,4,8,Gated Community,2009,16,North-East,9850000
+HP00039,Delhi NCR,Apartment,1,2,2,Semi-Furnished,550,7,39,High Rise,2014,11,South-East,7470000
+HP00707,Bengaluru,Apartment,2,2,1,Unfurnished,1261,2,9,Mid Rise,2023,2,South-West,19280000
+HP02064,Kolkata,Apartment,2,2,1,Unfurnished,978,20,27,High Rise,2018,7,East,11090000
+HP00745,MMR,Apartment,1,1,1,Furnished,752,3,4,Low Rise,2009,16,South-West,16230000
+HP02243,Delhi NCR,Apartment,2,2,2,Unfurnished,972,2,10,Mid Rise,2025,0,South,12050000
+HP01951,Kolkata,Studio,0,1,0,Unfurnished,322,4,21,High Rise,2019,6,North-East,3040000
+HP01453,Delhi NCR,Row House,3,4,1,Semi-Furnished,1566,0,3,Bungalow,1991,34,South,18490000
+HP01967,Ahmedabad,Apartment,2,3,1,Semi-Furnished,838,2,2,Standalone Building,2000,25,North-East,5500000
+HP00907,MMR,Apartment,4,4,2,Semi-Furnished,2579,0,4,Low Rise,2015,10,North,60570000
+HP01140,Chennai,Apartment,3,4,1,Unfurnished,1350,4,12,Mid Rise,2013,12,North-West,16190000
+HP02097,Kolkata,Apartment,2,2,2,Furnished,1116,37,40,High Rise,2009,16,South-West,13920000
+HP02307,Chennai,Penthouse,4,5,2,Semi-Furnished,2497,26,35,High Rise,2023,2,South,43470000
+HP00908,Bengaluru,Apartment,3,3,1,Semi-Furnished,1255,37,38,High Rise,2017,8,South,15160000
+HP02000,Delhi NCR,Apartment,3,4,1,Semi-Furnished,1585,9,11,Gated Community,2009,16,South-East,19530000
+HP01965,Chennai,Apartment,2,3,3,Furnished,717,2,12,Gated Community,2005,20,North,8330000
+HP00073,Kolkata,Apartment,2,3,3,Unfurnished,751,3,4,Low Rise,2014,11,East,7920000
+HP00435,Pune,Apartment,2,3,1,Unfurnished,794,1,5,Low Rise,2022,3,North-East,11240000
+HP01025,Chennai,Apartment,2,2,1,Unfurnished,875,5,8,Gated Community,2016,9,West,10490000
+HP02299,Delhi NCR,Independent House,3,4,2,Furnished,1203,3,4,Low Rise,2012,13,North-East,14280000
+HP00407,Chennai,Apartment,3,3,2,Unfurnished,1852,26,27,High Rise,2012,13,South,21860000
+HP00689,Hyderabad,Independent House,4,5,2,Unfurnished,1578,0,3,Bungalow,2018,7,West,16930000
+HP00446,Hyderabad,Apartment,4,4,1,Unfurnished,2176,14,17,High Rise,2008,17,South-East,22740000
+HP00621,Pune,Apartment,2,3,2,Unfurnished,1120,7,30,High Rise,2025,0,West,13420000
+HP00582,Bengaluru,Studio,0,2,1,Unfurnished,356,2,11,Mid Rise,2011,14,South-East,4050000
+HP00370,Kolkata,Apartment,3,3,1,Semi-Furnished,1459,8,12,Mid Rise,2012,13,South-East,18790000
+HP01527,MMR,Villa,6,7,2,Semi-Furnished,1822,0,2,Bungalow,2025,0,North-West,52100000
+HP00718,Delhi NCR,Apartment,2,3,1,Unfurnished,989,3,8,Mid Rise,2016,9,South,13030000
+HP01240,Chennai,Apartment,4,5,2,Semi-Furnished,2323,10,12,Gated Community,2013,12,East,29230000
+HP01646,Bengaluru,Studio,0,2,1,Unfurnished,336,8,28,High Rise,2012,13,South,3660000
+HP00251,Ahmedabad,Apartment,2,2,1,Unfurnished,1121,2,3,Standalone Building,2001,24,East,6520000
+HP00656,Bengaluru,Villa,3,4,1,Semi-Furnished,1798,3,5,Low Rise,2016,9,West,23490000
+HP00888,Chennai,Apartment,2,2,1,Semi-Furnished,1181,7,8,Gated Community,2009,16,South-West,14820000
+HP02002,Ahmedabad,Row House,3,4,3,Furnished,1302,3,3,Low Rise,2025,0,North-West,12200000
+HP00721,Delhi NCR,Apartment,4,4,1,Semi-Furnished,2071,1,9,Gated Community,2003,22,North-East,26900000
+HP01014,Delhi NCR,Apartment,3,4,2,Semi-Furnished,1670,14,14,High Rise,2006,19,South,21340000
+HP00786,Pune,Penthouse,3,4,2,Furnished,1611,18,37,High Rise,2016,9,South-East,28750000
+HP00887,Chennai,Apartment,2,3,2,Semi-Furnished,1181,2,2,Standalone Building,2024,1,East,16760000
+HP00307,Ahmedabad,Row House,1,1,1,Unfurnished,697,0,1,Bungalow,2020,5,West,5560000
+HP00326,Delhi NCR,Apartment,1,1,2,Semi-Furnished,526,1,2,Standalone Building,2009,16,South-West,6600000
+HP00113,MMR,Apartment,2,2,2,Semi-Furnished,930,16,17,High Rise,2015,10,North-West,24820000
+HP01143,Kolkata,Penthouse,4,5,1,Furnished,1778,18,34,High Rise,2018,7,North-East,26500000
+HP01804,Hyderabad,Villa,4,5,2,Unfurnished,1658,0,3,Bungalow,2022,3,South-East,29620000
+HP00090,Hyderabad,Penthouse,6,6,1,Semi-Furnished,2033,12,15,High Rise,2009,16,South,24650000
+HP01877,Hyderabad,Row House,2,3,2,Semi-Furnished,1198,0,1,Bungalow,2014,11,South-East,15930000
+HP00444,MMR,Independent House,4,4,2,Furnished,1960,0,5,Low Rise,2018,7,West,50800000
+HP00498,Pune,Penthouse,4,5,2,Unfurnished,1912,2,29,High Rise,2025,0,North-East,33860000
+HP00352,Kolkata,Independent House,3,4,1,Unfurnished,1620,0,5,Standalone Building,2025,0,North-East,17970000
+HP01893,Bengaluru,Apartment,1,2,1,Unfurnished,573,9,29,High Rise,2011,14,North,7670000
+HP00566,Ahmedabad,Villa,4,5,1,Unfurnished,2219,1,2,Standalone Building,2010,15,South-East,17590000
+HP01262,Chennai,Apartment,3,4,1,Furnished,1034,7,12,Mid Rise,2015,10,East,12010000
+HP02180,Bengaluru,Villa,4,4,1,Semi-Furnished,2338,3,3,Standalone Building,2014,11,West,38830000
+HP01523,Kolkata,Apartment,1,1,2,Semi-Furnished,692,9,11,Mid Rise,2013,12,South,8020000
+HP00644,Pune,Villa,4,4,2,Unfurnished,2374,0,1,Bungalow,2014,11,South-East,35690000
+HP01589,Pune,Independent House,4,5,1,Unfurnished,1896,0,4,Standalone Building,2010,15,South-West,20570000
+HP02157,Hyderabad,Row House,2,2,1,Semi-Furnished,1265,0,4,Low Rise,2014,11,South-East,14970000
+HP00512,Ahmedabad,Apartment,2,3,1,Unfurnished,1269,13,25,High Rise,2014,11,East,12670000
+HP01141,Pune,Apartment,3,4,2,Semi-Furnished,1431,21,38,High Rise,2025,0,North-West,18100000
+HP02305,Ahmedabad,Row House,2,3,1,Semi-Furnished,822,1,2,Standalone Building,2015,10,East,7990000
+HP00554,Bengaluru,Apartment,1,1,3,Semi-Furnished,687,18,18,High Rise,2025,0,East,11080000
+HP01685,Chennai,Independent House,5,5,2,Unfurnished,3542,6,10,Gated Community,2011,14,West,51690000
+HP00572,Pune,Studio,0,1,0,Unfurnished,531,2,4,Standalone Building,2007,18,North-West,5380000
+HP01004,Kolkata,Row House,1,2,2,Semi-Furnished,567,0,2,Standalone Building,2018,7,North-West,5810000
+HP00181,Delhi NCR,Apartment,2,2,1,Semi-Furnished,764,4,18,High Rise,2022,3,North-West,12830000
+HP01327,Chennai,Apartment,3,3,1,Semi-Furnished,1542,6,9,Gated Community,2009,16,West,16360000
+HP01489,Hyderabad,Apartment,3,3,2,Furnished,1376,7,10,Gated Community,2022,3,East,15380000
+HP01085,Kolkata,Apartment,2,2,2,Semi-Furnished,954,3,3,Standalone Building,2024,1,South-East,10070000
+HP00088,Pune,Apartment,2,2,1,Unfurnished,716,8,19,High Rise,2011,14,South-East,9430000
+HP01813,Ahmedabad,Apartment,3,4,1,Unfurnished,1491,1,9,Mid Rise,2019,6,South-West,9650000
+HP00044,Chennai,Apartment,4,4,2,Unfurnished,2409,7,8,Mid Rise,2012,13,South-East,30840000
+HP00932,Hyderabad,Apartment,2,2,2,Semi-Furnished,998,6,6,Mid Rise,2017,8,North-West,12310000
+HP00420,Kolkata,Apartment,3,4,1,Unfurnished,1814,3,8,Mid Rise,2010,15,North-West,17630000
+HP00220,Delhi NCR,Apartment,1,2,1,Semi-Furnished,613,2,10,Gated Community,2020,5,South,8810000
+HP00769,Delhi NCR,Apartment,2,2,1,Furnished,1130,9,11,Gated Community,2008,17,East,14810000
+HP01242,Bengaluru,Apartment,1,2,1,Semi-Furnished,479,4,12,Gated Community,2016,9,North-East,5560000
+HP00870,Bengaluru,Apartment,2,2,2,Semi-Furnished,978,2,9,Gated Community,2005,20,South-West,13230000
+HP02182,Kolkata,Apartment,2,2,1,Semi-Furnished,1146,8,9,Gated Community,2017,8,North-East,13820000
+HP02118,Chennai,Studio,0,1,1,Unfurnished,488,32,36,High Rise,2017,8,East,6400000
+HP01150,Kolkata,Apartment,2,2,2,Furnished,839,4,11,Mid Rise,2011,14,North-East,8630000
+HP00625,Hyderabad,Independent House,3,3,1,Semi-Furnished,1875,0,1,Bungalow,2013,12,South-East,19140000
+HP02350,Chennai,Apartment,1,2,2,Unfurnished,509,1,2,Standalone Building,2019,6,South-East,5720000
+HP00643,Ahmedabad,Apartment,2,3,1,Unfurnished,976,17,31,High Rise,2018,7,South,7460000
+HP01384,Kolkata,Villa,5,6,2,Furnished,2512,5,5,Standalone Building,2010,15,North-West,29440000
+HP01803,MMR,Apartment,3,3,1,Semi-Furnished,1788,26,39,High Rise,2025,0,South,42560000
+HP01524,Bengaluru,Villa,5,6,1,Semi-Furnished,2557,0,1,Bungalow,2009,16,West,42780000
+HP02330,Hyderabad,Studio,0,2,0,Unfurnished,416,4,9,Mid Rise,2024,1,North-West,4040000
+HP01779,Ahmedabad,Apartment,4,5,2,Unfurnished,1823,1,7,Mid Rise,2025,0,South-East,15230000
+HP02122,Hyderabad,Apartment,2,2,1,Unfurnished,1126,17,28,High Rise,2003,22,South-East,12090000
+HP01766,Chennai,Row House,1,2,2,Semi-Furnished,664,0,3,Bungalow,2007,18,South-East,10000000
+HP02193,Hyderabad,Independent House,5,6,1,Unfurnished,2071,9,9,Gated Community,2012,13,North-West,23440000
+HP01736,Bengaluru,Apartment,2,3,2,Furnished,846,3,9,Gated Community,2008,17,North,10190000
+HP01349,Bengaluru,Independent House,3,4,3,Furnished,1697,2,12,Gated Community,2021,4,South-East,22730000
+HP00871,Delhi NCR,Apartment,3,4,1,Furnished,1879,5,11,Gated Community,2025,0,South-West,27580000
+HP00497,MMR,Penthouse,2,3,1,Semi-Furnished,997,6,24,High Rise,2017,8,South,33800000
+HP01861,Kolkata,Penthouse,4,5,2,Semi-Furnished,2340,4,21,High Rise,2016,9,South,37430000
+HP01077,Kolkata,Independent House,4,5,1,Semi-Furnished,1680,2,2,Standalone Building,2019,6,North-East,19320000
+HP02174,Delhi NCR,Studio,0,2,1,Unfurnished,390,1,2,Standalone Building,2016,9,North-East,3790000
+HP00331,Chennai,Row House,3,4,2,Semi-Furnished,1843,2,2,Standalone Building,2021,4,North,27750000
+HP01100,Kolkata,Apartment,3,4,2,Unfurnished,1425,6,18,High Rise,2025,0,North-West,16480000
+HP01064,Pune,Villa,2,3,1,Unfurnished,1020,0,2,Low Rise,2022,3,West,17480000
+HP00511,Delhi NCR,Villa,4,4,1,Semi-Furnished,1775,1,5,Standalone Building,2011,14,South-West,25240000
+HP02225,Hyderabad,Apartment,2,3,2,Semi-Furnished,702,0,3,Low Rise,2012,13,South,8140000
+HP00790,Bengaluru,Apartment,2,2,3,Semi-Furnished,867,2,7,Mid Rise,2011,14,North-East,9800000
+HP02290,Delhi NCR,Apartment,2,2,1,Semi-Furnished,893,2,25,High Rise,2013,12,East,9670000
+HP00182,Hyderabad,Apartment,1,2,1,Semi-Furnished,593,7,9,Mid Rise,2023,2,West,6460000
+HP00514,Kolkata,Apartment,3,3,1,Unfurnished,1538,11,12,Gated Community,2024,1,South-West,18080000
+HP00385,Hyderabad,Apartment,2,3,1,Semi-Furnished,809,7,8,Gated Community,2023,2,North,9360000
+HP02111,Chennai,Apartment,2,3,3,Unfurnished,859,18,38,High Rise,1996,29,North,9820000
+HP00763,Hyderabad,Villa,5,6,3,Unfurnished,3432,9,10,Gated Community,2012,13,West,47690000
+HP01854,MMR,Apartment,3,3,1,Semi-Furnished,1192,1,10,Gated Community,2010,15,South-East,31410000
+HP00359,Pune,Apartment,4,4,1,Unfurnished,1587,1,3,Low Rise,2021,4,North-West,19640000
+HP00066,Pune,Independent House,4,4,1,Unfurnished,2397,1,2,Standalone Building,2018,7,West,30420000
+HP01942,Ahmedabad,Apartment,3,3,1,Unfurnished,1856,9,11,Mid Rise,2011,14,North,11010000
+HP02177,Hyderabad,Apartment,3,3,2,Semi-Furnished,1187,12,23,High Rise,2016,9,South-East,12010000
+HP01983,MMR,Apartment,3,4,1,Semi-Furnished,1471,12,12,Mid Rise,2010,15,South,38200000
+HP01570,Ahmedabad,Independent House,3,3,1,Furnished,1504,3,5,Low Rise,2007,18,North-West,9650000
+HP01454,Hyderabad,Apartment,3,3,3,Semi-Furnished,1540,1,4,Low Rise,2025,0,West,18910000
+HP01958,Ahmedabad,Apartment,2,2,1,Unfurnished,827,2,5,Standalone Building,1993,32,South-West,5520000
+HP00057,Hyderabad,Apartment,2,3,1,Unfurnished,992,2,2,Standalone Building,2019,6,North-West,11430000
+HP01867,Pune,Penthouse,3,3,1,Unfurnished,1039,7,29,High Rise,2010,15,North-East,15400000
+HP01538,Ahmedabad,Studio,0,2,0,Unfurnished,353,9,15,High Rise,2024,1,North-East,3180000
+HP00280,MMR,Independent House,3,3,2,Unfurnished,1237,0,2,Low Rise,2018,7,North,27030000
+HP02301,Bengaluru,Apartment,1,2,2,Furnished,674,11,39,High Rise,2019,6,South,10310000
+HP02255,Delhi NCR,Apartment,1,1,1,Semi-Furnished,497,7,9,Mid Rise,2013,12,North-West,6280000
+HP01931,MMR,Apartment,2,3,1,Furnished,1181,1,10,Gated Community,2022,3,South-East,23350000
+HP01170,Kolkata,Apartment,1,2,2,Unfurnished,717,2,3,Standalone Building,2017,8,East,8160000
+HP02364,Hyderabad,Apartment,4,5,3,Semi-Furnished,2171,2,2,Standalone Building,2001,24,South,22550000
+HP01680,Hyderabad,Apartment,3,3,2,Unfurnished,1094,17,29,High Rise,1993,32,South,11440000
+HP01542,Delhi NCR,Row House,2,3,2,Furnished,866,3,6,Gated Community,2009,16,North-West,10910000
+HP00261,Hyderabad,Villa,6,6,2,Unfurnished,2351,0,1,Bungalow,2014,11,North,27830000
+HP00969,Bengaluru,Villa,4,4,1,Semi-Furnished,1975,2,10,Gated Community,2021,4,South-West,31520000
+HP02049,Chennai,Apartment,3,3,1,Unfurnished,1372,11,11,Mid Rise,2003,22,South-East,19350000
+HP01360,Bengaluru,Apartment,4,5,1,Unfurnished,2207,6,7,Mid Rise,2020,5,East,25040000
+HP00782,Chennai,Apartment,1,2,2,Furnished,789,3,5,Standalone Building,2011,14,North,10100000
+HP01596,Chennai,Apartment,4,5,1,Unfurnished,2441,1,8,Gated Community,2006,19,South,26820000
+HP00705,Ahmedabad,Studio,0,1,1,Semi-Furnished,466,9,9,Mid Rise,2025,0,North,3150000
+HP01460,Bengaluru,Apartment,2,2,2,Furnished,864,16,27,High Rise,2018,7,North-East,10800000
+HP00493,Chennai,Row House,3,3,1,Semi-Furnished,1442,0,3,Bungalow,2021,4,North-West,23110000
+HP01407,MMR,Apartment,2,3,2,Unfurnished,1046,3,6,Mid Rise,2012,13,South,21080000
+HP01828,Bengaluru,Penthouse,5,6,3,Unfurnished,2271,7,27,High Rise,2023,2,South-West,44850000
+HP02042,Hyderabad,Apartment,2,2,2,Unfurnished,1254,35,38,High Rise,2016,9,North-West,14150000
+HP00811,Delhi NCR,Apartment,3,4,3,Unfurnished,1175,3,10,Mid Rise,2009,16,North-East,14240000
+HP01117,Pune,Penthouse,5,5,1,Unfurnished,2267,19,36,High Rise,2009,16,East,35510000
+HP00757,Pune,Apartment,2,3,2,Unfurnished,777,4,17,High Rise,2012,13,West,9660000
+HP01655,Bengaluru,Row House,3,4,3,Semi-Furnished,1703,0,4,Standalone Building,2024,1,South,26250000
+HP01486,Ahmedabad,Apartment,3,4,2,Furnished,1058,4,6,Gated Community,2003,22,South-West,7790000
+HP00267,Ahmedabad,Studio,0,1,1,Furnished,412,8,11,Mid Rise,2016,9,North-West,2520000
+HP01031,Bengaluru,Row House,1,2,3,Unfurnished,662,6,11,Gated Community,2017,8,North-West,10330000
+HP01568,MMR,Apartment,1,2,3,Furnished,610,1,5,Standalone Building,2015,10,West,13190000
+HP02254,Kolkata,Penthouse,5,5,1,Semi-Furnished,1978,2,15,High Rise,2011,14,North-West,32050000
+HP01605,Kolkata,Villa,3,3,3,Semi-Furnished,1587,2,5,Standalone Building,2011,14,South-East,22960000
+HP00128,Ahmedabad,Apartment,2,2,1,Unfurnished,771,4,5,Standalone Building,2008,17,West,5680000
+HP01857,Bengaluru,Independent House,3,4,1,Semi-Furnished,1469,0,1,Bungalow,2013,12,North-East,19490000
+HP01647,Kolkata,Apartment,2,3,1,Semi-Furnished,1080,7,31,High Rise,2003,22,South,12710000
+HP00712,MMR,Apartment,2,3,2,Semi-Furnished,1284,2,4,Standalone Building,2018,7,South-East,35190000
+HP01619,Delhi NCR,Villa,4,5,1,Unfurnished,1634,0,3,Low Rise,2014,11,West,27010000
+HP00195,MMR,Penthouse,4,5,1,Unfurnished,2533,21,25,High Rise,1999,26,East,79500000
+HP01335,Chennai,Apartment,1,2,1,Furnished,639,7,7,Mid Rise,2016,9,North,7520000
+HP02041,Hyderabad,Villa,4,5,1,Unfurnished,2414,0,2,Bungalow,2019,6,North-West,32900000
+HP02074,Chennai,Villa,4,4,1,Semi-Furnished,2006,2,5,Low Rise,2006,19,West,31030000
+HP01219,MMR,Independent House,3,4,1,Furnished,1604,0,1,Bungalow,2022,3,West,44720000
+HP00448,Chennai,Apartment,2,2,1,Unfurnished,1265,5,8,Mid Rise,2021,4,West,16620000
+HP01138,Delhi NCR,Villa,5,5,1,Unfurnished,2908,0,1,Bungalow,2025,0,North-East,44660000
+HP02244,MMR,Apartment,1,2,3,Furnished,685,1,6,Mid Rise,2023,2,South-East,19560000
+HP00776,Ahmedabad,Apartment,2,2,2,Semi-Furnished,992,9,9,Mid Rise,2015,10,South-West,6690000
+HP01886,MMR,Apartment,2,2,1,Furnished,1050,4,9,Mid Rise,2007,18,West,21140000
+HP01362,Ahmedabad,Penthouse,3,3,1,Unfurnished,1650,6,32,High Rise,2005,20,North-East,14730000
+HP00436,Pune,Independent House,4,5,1,Furnished,1438,0,3,Bungalow,2025,0,North-East,18900000
+HP01557,Kolkata,Studio,0,1,0,Semi-Furnished,467,7,10,Mid Rise,1998,27,North-West,4560000
+HP02132,Chennai,Apartment,4,4,3,Furnished,2521,5,10,Mid Rise,2014,11,South-West,35090000
+HP01481,Bengaluru,Apartment,3,4,1,Unfurnished,1227,2,3,Low Rise,2005,20,South-East,13050000
+HP01897,Hyderabad,Apartment,3,4,2,Furnished,1200,7,10,Gated Community,2010,15,North-East,13500000
+HP00025,Kolkata,Apartment,3,4,1,Furnished,1442,7,9,Mid Rise,2009,16,South,15000000
+HP00041,Hyderabad,Studio,0,1,1,Furnished,374,18,23,High Rise,2007,18,South-West,3810000
+HP00563,Kolkata,Apartment,3,4,2,Furnished,1859,3,5,Standalone Building,2023,2,North-West,25480000
+HP00771,Hyderabad,Apartment,1,2,1,Semi-Furnished,710,1,5,Standalone Building,2022,3,South,8430000
+HP00944,Kolkata,Studio,0,2,0,Semi-Furnished,486,1,12,Mid Rise,1991,34,North,4780000
+HP02215,Ahmedabad,Independent House,6,6,3,Semi-Furnished,3969,0,5,Low Rise,2016,9,West,31290000
+HP00558,Ahmedabad,Row House,3,3,3,Unfurnished,1119,0,1,Bungalow,2022,3,South,9290000
+HP01963,Bengaluru,Apartment,3,3,2,Unfurnished,1060,16,39,High Rise,2008,17,South-West,12010000
+HP01785,MMR,Apartment,1,2,1,Semi-Furnished,601,11,12,Gated Community,2007,18,North-East,14830000
+HP00676,Bengaluru,Apartment,2,2,1,Semi-Furnished,910,4,6,Gated Community,2009,16,West,10880000
+HP00928,Delhi NCR,Apartment,2,2,2,Semi-Furnished,741,23,37,High Rise,2024,1,West,9670000
+HP01013,Pune,Apartment,2,2,2,Semi-Furnished,786,4,8,Mid Rise,2025,0,North,10210000
+HP01277,Pune,Penthouse,4,4,1,Unfurnished,2451,2,14,High Rise,2017,8,West,43800000
+HP00504,Chennai,Independent House,3,4,2,Unfurnished,1112,0,3,Low Rise,2011,14,North-East,12660000
+HP02043,Kolkata,Apartment,3,3,2,Semi-Furnished,1157,31,31,High Rise,2015,10,North-East,10870000
+HP01988,Hyderabad,Apartment,2,2,1,Furnished,884,28,28,High Rise,2025,0,East,13360000
+HP00007,Delhi NCR,Apartment,3,3,2,Furnished,1035,3,27,High Rise,2025,0,West,15530000
+HP01829,Delhi NCR,Independent House,2,3,3,Unfurnished,1071,0,2,Bungalow,2018,7,North-West,12720000
+HP02164,Hyderabad,Independent House,4,4,2,Semi-Furnished,2153,0,2,Bungalow,2021,4,South-West,25840000
+HP01706,Hyderabad,Independent House,3,3,1,Furnished,1167,2,4,Standalone Building,2002,23,East,13000000
+HP02184,Kolkata,Apartment,2,3,1,Semi-Furnished,778,0,4,Standalone Building,2010,15,East,8390000
+HP00279,Kolkata,Apartment,2,2,1,Semi-Furnished,1138,5,8,Mid Rise,2023,2,South,13160000
+HP00171,Ahmedabad,Villa,3,3,1,Semi-Furnished,1351,3,4,Standalone Building,2017,8,North-West,13440000
+HP01467,MMR,Independent House,2,2,2,Furnished,765,2,10,Gated Community,2017,8,South-East,20140000
+HP00336,Delhi NCR,Apartment,2,2,2,Unfurnished,871,7,9,Mid Rise,2020,5,North-East,12440000
+HP00728,Pune,Apartment,2,3,1,Furnished,895,3,3,Standalone Building,2023,2,South-West,12480000
+HP01037,Delhi NCR,Apartment,4,4,1,Semi-Furnished,2032,20,34,High Rise,2016,9,West,26730000
+HP00762,Chennai,Apartment,2,2,1,Furnished,772,15,27,High Rise,2018,7,South-East,10070000
+HP01291,Ahmedabad,Apartment,2,2,1,Unfurnished,1271,6,11,Mid Rise,2018,7,South-West,9740000
+HP00274,MMR,Independent House,3,3,2,Unfurnished,1823,0,1,Bungalow,2002,23,North,35290000
+HP01427,Ahmedabad,Independent House,4,5,1,Unfurnished,1776,4,5,Low Rise,2014,11,North-East,11850000
+HP00897,Pune,Independent House,4,5,2,Unfurnished,2355,1,3,Standalone Building,2018,7,South,23640000
+HP00938,Delhi NCR,Independent House,4,5,2,Semi-Furnished,2078,0,1,Bungalow,2021,4,East,27820000
+HP00653,Pune,Independent House,4,5,1,Semi-Furnished,2280,9,9,Gated Community,1997,28,West,21380000
+HP00649,MMR,Studio,0,2,1,Furnished,451,7,17,High Rise,2025,0,North-West,9130000
+HP01030,Bengaluru,Apartment,2,2,1,Unfurnished,1059,11,12,Mid Rise,2008,17,South-East,16720000
+HP01757,Bengaluru,Penthouse,5,5,3,Furnished,2721,4,29,High Rise,2018,7,South-West,48370000
+HP00874,MMR,Apartment,2,2,3,Unfurnished,955,2,2,Standalone Building,2019,6,North,26160000
+HP01855,Delhi NCR,Apartment,1,1,1,Furnished,677,2,4,Standalone Building,2008,17,North-East,7390000
+HP00809,Hyderabad,Penthouse,3,3,1,Semi-Furnished,1480,20,21,High Rise,2009,16,West,20590000
+HP02354,Delhi NCR,Apartment,4,5,2,Unfurnished,1470,4,5,Standalone Building,2011,14,North-West,18960000
+HP01946,Ahmedabad,Apartment,2,3,3,Unfurnished,840,15,15,High Rise,2012,13,East,6260000
+HP00651,Ahmedabad,Apartment,2,3,2,Semi-Furnished,1234,9,12,Gated Community,2008,17,South-East,9020000
+HP01503,Pune,Apartment,3,4,2,Unfurnished,1391,13,24,High Rise,2005,20,East,15720000
+HP02226,Bengaluru,Studio,0,1,1,Semi-Furnished,302,1,3,Standalone Building,2023,2,North-East,4360000
+HP01923,Pune,Apartment,2,2,2,Unfurnished,1209,3,11,Mid Rise,2025,0,South-East,16560000
+HP00998,Bengaluru,Studio,0,2,0,Semi-Furnished,301,9,9,Mid Rise,2006,19,East,3440000
+HP00384,Chennai,Apartment,2,2,1,Unfurnished,736,4,8,Mid Rise,2017,8,South-East,9380000
+HP02291,MMR,Apartment,4,4,1,Furnished,2130,1,24,High Rise,2024,1,North,52980000
+HP01561,Ahmedabad,Apartment,2,3,1,Unfurnished,1199,8,12,Gated Community,2010,15,East,8120000
+HP00951,Pune,Apartment,2,3,2,Semi-Furnished,897,7,24,High Rise,2012,13,North,9760000
+HP00846,Kolkata,Penthouse,5,6,2,Furnished,2090,17,19,High Rise,2009,16,South-East,32710000
+HP02283,Bengaluru,Apartment,2,3,2,Unfurnished,752,3,14,High Rise,2013,12,North-East,10080000
+HP00577,Delhi NCR,Independent House,3,4,2,Semi-Furnished,1065,2,3,Standalone Building,2016,9,North-West,14400000
+HP00282,Delhi NCR,Apartment,3,4,2,Unfurnished,1642,1,4,Standalone Building,2022,3,South-East,22930000
+HP00960,Chennai,Studio,0,2,1,Semi-Furnished,396,0,4,Standalone Building,2014,11,South-East,4100000
+HP01196,Ahmedabad,Row House,4,4,3,Unfurnished,2069,10,12,Gated Community,2005,20,East,17150000
+HP01180,Hyderabad,Apartment,4,4,1,Semi-Furnished,2117,29,29,High Rise,2015,10,North,21010000
+HP00507,Pune,Independent House,4,5,1,Semi-Furnished,1978,1,3,Low Rise,2008,17,South,26890000
+HP00320,Ahmedabad,Villa,6,6,2,Semi-Furnished,2931,2,4,Standalone Building,2008,17,North-East,24360000
+HP00398,Kolkata,Apartment,4,5,2,Semi-Furnished,1976,6,8,Mid Rise,2002,23,East,21520000
+HP00611,Delhi NCR,Studio,0,1,0,Unfurnished,539,31,33,High Rise,2016,9,South,6490000
+HP01731,Kolkata,Apartment,3,3,1,Semi-Furnished,1213,4,11,Gated Community,2015,10,South-West,12440000
+HP00806,Ahmedabad,Penthouse,4,5,1,Semi-Furnished,1974,16,16,High Rise,2005,20,South-West,19230000
+HP01661,Bengaluru,Apartment,2,3,1,Semi-Furnished,1005,2,12,High Rise,2020,5,East,11890000
+HP01232,Hyderabad,Apartment,3,4,2,Semi-Furnished,1197,14,26,High Rise,2016,9,East,12390000
+HP00858,Pune,Apartment,3,4,1,Semi-Furnished,1887,1,14,High Rise,1997,28,West,18250000
+HP02247,MMR,Apartment,2,3,2,Semi-Furnished,970,1,2,Standalone Building,2014,11,South-East,23090000
+HP01391,Delhi NCR,Apartment,4,5,1,Unfurnished,2139,4,5,Standalone Building,2000,25,South-East,23410000
+HP02356,Delhi NCR,Apartment,2,3,2,Unfurnished,747,8,10,Mid Rise,2017,8,North-West,8500000
+HP01475,Chennai,Studio,0,2,0,Semi-Furnished,381,1,5,Standalone Building,2013,12,North-East,3830000
+HP01835,Delhi NCR,Apartment,1,1,1,Unfurnished,584,8,21,High Rise,2015,10,North,5680000
+HP00917,Bengaluru,Villa,3,4,2,Semi-Furnished,1004,0,1,Bungalow,2013,12,North-West,17500000
+HP00260,Delhi NCR,Studio,0,1,1,Unfurnished,420,0,3,Standalone Building,2003,22,South-East,3810000
+HP01334,Ahmedabad,Apartment,2,3,1,Semi-Furnished,923,1,10,Gated Community,2009,16,North-West,6400000
+HP02155,Ahmedabad,Apartment,2,2,2,Unfurnished,807,3,16,High Rise,2010,15,North-East,5040000
+HP00706,Bengaluru,Villa,5,6,1,Furnished,3548,1,5,Standalone Building,2009,16,South,55020000
+HP00211,Pune,Apartment,2,3,2,Semi-Furnished,1121,3,11,Gated Community,2004,21,South-West,12230000
+HP00156,Hyderabad,Apartment,2,3,1,Furnished,1165,4,23,High Rise,2020,5,South-East,13110000
+HP00368,Pune,Apartment,4,4,1,Furnished,2500,10,14,High Rise,2012,13,North-East,32010000
+HP01164,Kolkata,Apartment,2,2,1,Unfurnished,714,10,17,High Rise,2015,10,North,7010000
+HP00150,Hyderabad,Apartment,3,3,3,Unfurnished,1690,3,9,Gated Community,2025,0,South,21540000
+HP01185,Delhi NCR,Apartment,1,2,1,Unfurnished,510,7,12,Mid Rise,2014,11,North-West,5430000
+HP00046,Chennai,Independent House,3,4,3,Unfurnished,1543,0,3,Bungalow,2006,19,South-East,16550000
+HP01830,Chennai,Apartment,3,3,1,Furnished,1037,10,12,Mid Rise,2017,8,East,15240000
+HP00549,Bengaluru,Studio,0,2,0,Unfurnished,530,9,11,Mid Rise,2015,10,North-West,5560000
+HP02051,Chennai,Apartment,1,1,1,Semi-Furnished,782,2,12,Mid Rise,2003,22,South-West,9120000
+HP00421,Hyderabad,Penthouse,5,5,1,Unfurnished,4034,2,12,High Rise,2019,6,North-East,61690000
+HP00532,Delhi NCR,Apartment,3,3,2,Unfurnished,1256,2,4,Standalone Building,2023,2,North-West,17330000
+HP00486,Kolkata,Independent House,4,5,2,Furnished,1793,3,3,Low Rise,2025,0,North,25620000
+HP00184,Ahmedabad,Penthouse,5,6,1,Semi-Furnished,2505,5,20,High Rise,2018,7,North-West,25000000
+HP01036,Pune,Apartment,4,4,2,Unfurnished,1930,13,39,High Rise,2011,14,South-West,21190000
+HP01713,Bengaluru,Apartment,2,3,2,Unfurnished,1066,7,8,Mid Rise,2021,4,North-East,12820000
+HP00860,Delhi NCR,Villa,4,5,2,Unfurnished,1452,4,5,Standalone Building,2000,25,South,19670000
+HP00983,Chennai,Apartment,2,2,3,Unfurnished,1267,0,4,Low Rise,2012,13,East,15080000
+HP02123,Ahmedabad,Penthouse,4,5,3,Unfurnished,1920,12,19,High Rise,2013,12,South-East,17780000
+HP00791,MMR,Apartment,4,5,1,Semi-Furnished,2574,4,5,Low Rise,2006,19,West,61470000
+HP01799,Delhi NCR,Apartment,4,4,2,Unfurnished,1831,5,7,Gated Community,2009,16,West,22140000
+HP02040,Delhi NCR,Villa,3,4,1,Semi-Furnished,1118,2,10,Gated Community,2009,16,North,15570000
+HP01672,Pune,Apartment,3,4,1,Unfurnished,1382,17,29,High Rise,2021,4,South-East,17070000
+HP01630,Hyderabad,Studio,0,1,0,Semi-Furnished,427,9,15,High Rise,2005,20,North,3560000
+HP00609,Bengaluru,Independent House,6,6,1,Unfurnished,4040,0,2,Low Rise,2019,6,South-West,40600000
+HP01887,Delhi NCR,Independent House,3,4,1,Semi-Furnished,1888,1,7,Gated Community,2006,19,North-West,27550000
+HP01024,Ahmedabad,Apartment,3,4,1,Unfurnished,1005,1,10,Gated Community,2010,15,East,7660000
+HP01383,Pune,Villa,3,3,1,Furnished,1791,5,10,Gated Community,2004,21,North,26670000
+HP00464,Bengaluru,Apartment,2,3,2,Unfurnished,755,8,9,Mid Rise,2025,0,North,11060000
+HP00994,Pune,Studio,0,2,0,Unfurnished,401,4,5,Standalone Building,2006,19,North-West,3840000
+HP00426,Bengaluru,Apartment,2,3,2,Unfurnished,1051,3,13,High Rise,2025,0,East,14570000
+HP00350,Pune,Penthouse,3,4,3,Unfurnished,1460,2,17,High Rise,2010,15,East,24130000
+HP01979,Pune,Apartment,3,3,1,Unfurnished,1299,2,2,Standalone Building,2018,7,North-West,15200000
+HP00145,Ahmedabad,Apartment,1,1,3,Semi-Furnished,708,10,10,Mid Rise,2018,7,South-West,5230000
+HP01681,Pune,Penthouse,5,6,2,Unfurnished,2002,8,12,High Rise,2024,1,East,32510000
+HP01985,Pune,Penthouse,3,4,2,Unfurnished,1164,2,18,High Rise,2012,13,North-West,20410000
+HP00639,Hyderabad,Row House,2,2,1,Unfurnished,984,6,6,Gated Community,2023,2,South-East,15320000
+HP00850,Bengaluru,Apartment,3,4,2,Unfurnished,1443,2,20,High Rise,2025,0,South-West,18450000
+HP00931,MMR,Apartment,2,2,2,Semi-Furnished,799,0,2,Standalone Building,2010,15,North-East,16070000
+HP01594,MMR,Studio,0,2,1,Unfurnished,315,0,4,Standalone Building,2025,0,North-East,7390000
+HP00632,Kolkata,Studio,0,1,0,Furnished,442,8,8,Mid Rise,2015,10,North-West,3860000
+HP02150,Bengaluru,Apartment,2,2,2,Unfurnished,1269,2,2,Standalone Building,2025,0,West,17290000
+HP00236,Ahmedabad,Row House,3,4,2,Unfurnished,1736,0,4,Standalone Building,2018,7,West,12520000
+HP01880,MMR,Independent House,3,3,1,Semi-Furnished,1578,0,3,Bungalow,2004,21,South-West,34130000
+HP01871,Ahmedabad,Row House,4,4,2,Unfurnished,2198,1,3,Low Rise,2010,15,North-West,15640000
+HP01158,Hyderabad,Studio,0,1,1,Unfurnished,426,14,16,High Rise,2020,5,North-West,4250000
+HP01620,MMR,Penthouse,4,5,2,Semi-Furnished,2457,3,38,High Rise,1994,31,South-West,73660000
+HP00492,MMR,Villa,6,6,2,Semi-Furnished,2858,3,10,Gated Community,2025,0,North,70180000
+HP02317,Chennai,Apartment,1,2,1,Unfurnished,569,6,7,Mid Rise,2009,16,South,7140000
+HP00488,Hyderabad,Independent House,4,5,1,Unfurnished,2256,0,3,Bungalow,2005,20,North-West,27380000
+HP01980,Bengaluru,Apartment,1,1,2,Semi-Furnished,531,9,9,Gated Community,2013,12,North,6770000
+HP00633,Delhi NCR,Apartment,3,3,1,Unfurnished,1813,9,10,Gated Community,2015,10,South,27520000
+HP00001,Pune,Apartment,4,4,1,Furnished,1811,1,11,Gated Community,2018,7,South-East,27180000
+HP00658,Delhi NCR,Independent House,3,4,1,Unfurnished,1233,0,1,Bungalow,2011,14,West,14750000
+HP02260,Delhi NCR,Apartment,4,5,1,Furnished,1477,4,12,Gated Community,2006,19,South,16910000
+HP01540,Delhi NCR,Apartment,1,2,2,Semi-Furnished,463,19,24,High Rise,2003,22,West,5670000
+HP00982,Bengaluru,Villa,4,4,1,Unfurnished,1903,0,1,Bungalow,2009,16,South,23490000
+HP01827,Ahmedabad,Apartment,1,1,1,Unfurnished,785,1,9,Gated Community,2017,8,North,6020000
+HP00482,Delhi NCR,Apartment,3,3,1,Unfurnished,1459,1,9,Mid Rise,2005,20,West,16880000
+HP01319,Kolkata,Row House,4,5,2,Unfurnished,2176,0,3,Bungalow,2013,12,East,28120000
+HP02249,Delhi NCR,Apartment,3,3,3,Furnished,1399,9,11,Gated Community,2025,0,South-East,19180000
+HP00375,Pune,Penthouse,4,5,2,Unfurnished,2338,8,29,High Rise,2025,0,South,33080000
+HP00598,MMR,Apartment,2,3,1,Semi-Furnished,1141,4,7,Mid Rise,1998,27,North,21840000
+HP00258,MMR,Apartment,2,3,2,Semi-Furnished,851,5,5,Standalone Building,2019,6,West,19920000
+HP00319,Ahmedabad,Villa,3,3,2,Semi-Furnished,1050,3,8,Gated Community,2018,7,South-West,8840000
+HP02068,Delhi NCR,Apartment,2,2,2,Unfurnished,1072,8,8,Mid Rise,2019,6,South-East,12880000
+HP00415,Chennai,Villa,5,6,2,Furnished,3123,0,2,Bungalow,1995,30,South,38160000
+HP01677,Delhi NCR,Apartment,1,2,2,Furnished,504,0,3,Standalone Building,2022,3,North-East,7380000
+HP01260,Kolkata,Studio,0,2,1,Semi-Furnished,526,1,4,Standalone Building,2018,7,North,6870000
+HP01640,Hyderabad,Apartment,2,3,1,Semi-Furnished,936,7,13,High Rise,2008,17,North,10460000
+HP01053,Kolkata,Apartment,2,2,2,Unfurnished,1167,7,8,Mid Rise,2016,9,South-West,11500000
+HP01331,Ahmedabad,Apartment,1,2,2,Semi-Furnished,467,11,12,Mid Rise,2025,0,South-East,3650000
+HP00586,Chennai,Penthouse,3,4,1,Semi-Furnished,1783,2,15,High Rise,2018,7,North-East,30610000
+HP02021,Hyderabad,Villa,3,4,1,Semi-Furnished,1771,0,3,Bungalow,2018,7,South-West,24280000
+HP00624,Hyderabad,Apartment,4,4,2,Unfurnished,2349,1,7,Mid Rise,2024,1,West,27290000
+HP02142,Kolkata,Villa,3,3,2,Semi-Furnished,1491,3,6,Gated Community,2021,4,South-West,18610000
+HP02213,Hyderabad,Apartment,3,4,1,Furnished,1600,2,7,Mid Rise,2002,23,South-West,16840000
+HP01395,Pune,Apartment,3,4,1,Semi-Furnished,1294,20,29,High Rise,2011,14,South,18750000
+HP01575,Hyderabad,Apartment,1,2,2,Semi-Furnished,585,1,35,High Rise,2025,0,North-West,6510000
+HP02063,Hyderabad,Row House,3,3,2,Unfurnished,1068,0,1,Bungalow,2011,14,South-East,12750000
+HP00089,Pune,Apartment,1,1,1,Unfurnished,472,2,7,Gated Community,2003,22,South,4870000
+HP02286,Ahmedabad,Villa,4,5,1,Unfurnished,2538,9,10,Gated Community,2009,16,South-West,24640000
+HP00292,Pune,Apartment,1,2,2,Unfurnished,567,2,6,Gated Community,2020,5,South,7190000
+HP00192,Pune,Apartment,2,2,2,Semi-Furnished,1197,3,28,High Rise,2013,12,North-West,13260000
+HP02015,Ahmedabad,Apartment,2,3,1,Semi-Furnished,1070,5,12,Mid Rise,2024,1,North-East,9110000
+HP02196,Pune,Apartment,2,3,1,Unfurnished,947,6,8,Mid Rise,2018,7,North-East,13070000
+HP00495,Kolkata,Apartment,3,4,2,Unfurnished,1097,1,31,High Rise,2014,11,North,12350000
+HP00074,Chennai,Independent House,4,5,2,Unfurnished,1969,3,12,Gated Community,2024,1,South-East,24020000
+HP00252,Pune,Apartment,2,2,3,Semi-Furnished,1137,5,6,Mid Rise,2025,0,South,15180000
+HP00544,Hyderabad,Apartment,3,4,2,Unfurnished,1092,4,5,Standalone Building,2004,21,West,10900000
+HP01753,Kolkata,Studio,0,2,1,Unfurnished,488,15,20,High Rise,2010,15,North-West,4200000
+HP00863,Hyderabad,Apartment,2,3,3,Unfurnished,760,8,17,High Rise,2025,0,North-East,8270000
+HP00411,MMR,Apartment,3,3,1,Furnished,1839,13,28,High Rise,2001,24,South,41760000
+HP02016,Kolkata,Apartment,3,4,2,Furnished,1213,2,12,Gated Community,2014,11,South-West,11260000
+HP00233,MMR,Studio,0,2,1,Semi-Furnished,322,4,28,High Rise,2018,7,North-East,5450000
+HP01623,Bengaluru,Apartment,1,2,2,Unfurnished,590,17,24,High Rise,2014,11,North-East,7510000
+HP00306,Ahmedabad,Apartment,3,3,2,Semi-Furnished,1520,1,9,Mid Rise,2002,23,North,11480000
+HP02218,Ahmedabad,Apartment,2,3,1,Unfurnished,1004,5,6,Mid Rise,2022,3,North-West,6260000
+HP02091,Kolkata,Penthouse,5,6,1,Semi-Furnished,2198,14,20,High Rise,1997,28,North,31950000
+HP00033,Bengaluru,Studio,0,1,0,Furnished,513,8,9,Mid Rise,2012,13,East,5910000
+HP01926,Ahmedabad,Row House,1,1,1,Semi-Furnished,765,1,2,Standalone Building,2012,13,West,6000000
+HP00061,MMR,Apartment,2,2,1,Unfurnished,1222,0,4,Standalone Building,2021,4,East,27650000
+HP01859,Delhi NCR,Apartment,1,1,3,Unfurnished,708,33,39,High Rise,2011,14,West,7030000
+HP02186,Bengaluru,Row House,1,1,1,Unfurnished,666,2,4,Standalone Building,2023,2,North-West,10890000
+HP00077,Pune,Apartment,2,3,1,Semi-Furnished,1160,5,10,Mid Rise,2013,12,South-West,16570000
+HP00696,MMR,Apartment,3,4,1,Semi-Furnished,1116,10,20,High Rise,2015,10,South-East,29090000
+HP01916,MMR,Apartment,2,2,2,Semi-Furnished,1037,6,7,Mid Rise,2006,19,West,19450000
+HP01852,Hyderabad,Row House,2,3,2,Furnished,1154,3,4,Low Rise,2007,18,North,12260000
+HP01588,Bengaluru,Apartment,3,3,1,Semi-Furnished,1347,7,8,Gated Community,2008,17,North,17770000
+HP01370,Bengaluru,Apartment,1,2,2,Furnished,478,6,35,High Rise,2008,17,North-West,6060000
+HP02240,Ahmedabad,Row House,2,2,1,Unfurnished,1219,3,5,Low Rise,2015,10,North-West,9540000
+HP00354,Hyderabad,Independent House,4,4,3,Unfurnished,1718,1,2,Low Rise,2019,6,North-East,22980000
+HP00657,MMR,Villa,3,4,3,Semi-Furnished,1175,4,5,Standalone Building,2021,4,North,29220000
+HP00608,Chennai,Apartment,2,3,2,Semi-Furnished,1137,3,7,Gated Community,2017,8,North-West,13980000
+HP02036,Chennai,Apartment,3,4,1,Semi-Furnished,1160,20,21,High Rise,2013,12,West,16290000
+HP02221,MMR,Apartment,4,4,2,Furnished,2080,18,26,High Rise,2006,19,South-West,52540000
+HP01361,Bengaluru,Apartment,2,3,2,Semi-Furnished,729,7,9,Gated Community,2017,8,South,10990000
+HP00249,Bengaluru,Studio,0,1,0,Furnished,436,6,7,Mid Rise,2013,12,West,5940000
+HP00853,Hyderabad,Apartment,3,4,1,Unfurnished,1733,26,31,High Rise,2025,0,East,23760000
+HP01764,Hyderabad,Apartment,2,3,2,Unfurnished,849,3,9,Mid Rise,2004,21,South-East,11070000
+HP01546,Delhi NCR,Apartment,4,5,2,Unfurnished,1433,15,22,High Rise,2016,9,South-West,18510000
+HP00097,Pune,Apartment,3,3,1,Furnished,1825,4,4,Standalone Building,2009,16,North-West,20290000
+HP01782,Bengaluru,Apartment,2,2,2,Furnished,1107,7,10,Gated Community,2008,17,South,16730000
+HP01994,Bengaluru,Independent House,2,2,1,Furnished,709,3,4,Low Rise,2004,21,East,8400000
+HP02277,Bengaluru,Apartment,3,3,3,Semi-Furnished,1152,4,8,Mid Rise,2025,0,East,20590000
+HP01974,Kolkata,Villa,4,4,1,Semi-Furnished,1568,4,5,Standalone Building,2012,13,South-West,21420000
+HP01283,MMR,Apartment,2,3,1,Furnished,923,3,3,Standalone Building,2023,2,South-East,20080000
+HP00082,MMR,Row House,1,1,1,Semi-Furnished,455,0,2,Bungalow,2010,15,North-West,11080000
+HP00733,Chennai,Penthouse,4,5,3,Unfurnished,1862,36,37,High Rise,2008,17,South-East,26250000
+HP00905,Hyderabad,Villa,5,5,3,Furnished,3527,1,3,Standalone Building,2004,21,West,48420000
+HP00542,Delhi NCR,Apartment,3,3,1,Unfurnished,1417,9,9,Gated Community,1997,28,North,16880000
+HP01215,MMR,Apartment,2,3,2,Semi-Furnished,823,8,11,Mid Rise,2010,15,North-West,17560000
+HP00443,Chennai,Apartment,1,2,3,Unfurnished,598,8,11,Gated Community,1999,26,South-East,7810000
