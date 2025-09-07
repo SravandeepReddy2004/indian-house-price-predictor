@@ -2,7 +2,6 @@ import streamlit as st
 import pandas as pd
 import pickle
 
-# Load trained model
 model = pickle.load(open("model.pkl", "rb"))
 
 # Page config
